@@ -1,0 +1,29 @@
+env:
+  global:
+    - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
+    - GIT_EMAIL: dead-hosts@funilrys.com
+    - GIT_NAME: Travis CI
+    - secure: iouqktJ5yql+R0TreCxbRB1n48x/8z36f9LzGpSRBUjw+nIbE5oU9BMLxHsCuu3tLid4Cr0CJuIb98Ct5WNEqdTKUounr3o+agLm97E3Q4eG45qMKy5y+snAxSvGb2OAO792KwSExtS4uqieMZkeVNYoOP4ZWMf0Yht1bcXUeVzQ1+mR1KeWKjKlG6Fletlt4yDp8dOWyW/X5vWZ6+qynosjDnk33CXsp/5VHiFBDfg/jDRPeu5kTOYqt7Vp4OHvNSptDTnzwexVb8jzg0tfSI/sxUl/2nhdLKGI8DXdL1CfVut/BzoQjTmu7SEo9iK/onk4Ufq6IGLHjN2tVxBnvR8Xv1gFdLu1H7kEYMdYEckr7pGou9xU8RGGgrcDMssEPFtLbO0TuksV/xjo85+kTk9EFBZI7dSG3yeJ6NCVHz2EiqN4jeVLWi+FnPY/z+MJldtFqeZkch3StSeK1RfRy+W+MjSsD1N2aUi55FUtEbrvUCezCsUoqp7YpdNJ7T6Uhwfl7AmNW5tZhmbiO0UdKsQ853xxhqqtSbj98q4OQhvYun6bisHpEd3a+m73QzLPOa6gn5CIzPLPIpVXyYMcKRIpjvceM9KF4eM1VZ1P3h8eilCoMqiYdBC6ATT/eJXR9u2ewwt5hLKqEHeWhKqDuo+LuNEwGmoJtBKjP5rRnz8=
+install:
+  - export PATH="${HOME}/miniconda/bin:${PATH}"
+  - wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ${HOME}/miniconda.sh
+  - bash ${HOME}/miniconda.sh -b -p ${HOME}/miniconda
+  - hash -r
+  - conda config --set always_yes yes --set changeps1 no
+  - conda config --add channels conda-forge
+  - conda update -q conda
+  - conda env create -q -f ${TRAVIS_BUILD_DIR}/.environment.yaml
+  - source activate iana
+  - python --version --version
+  - pip --version
+  - conda --version
+
+dist: bionic
+os: linux
+language: generic
+script:
+  - ./update.py
+
+notifications:
+  on_success: change
+  on_failure: always

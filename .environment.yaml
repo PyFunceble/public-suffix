@@ -1,0 +1,11 @@
+
+name: public_suffix
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python=3.7.5
+  - pip
+  - colorama
+  - pip:
+    - PyFunceble-dev
