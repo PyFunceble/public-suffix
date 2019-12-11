@@ -10,7 +10,7 @@ if __name__ == "__main__":
     # We load our custom configuration
     CUSTOM_CONFIG = {
         "ci": True,
-        "ci_autosave_final_commit": "Update iana-domains-db.json",
+        "ci_autosave_final_commit": "Update public-suffix.json",
         "multiprocess": True,
         "maximal_processes": 50,
         "dns_server": [
