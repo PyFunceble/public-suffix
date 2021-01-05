@@ -62,33 +62,25 @@ License:
     SOFTWARE.
 """
 
-import colorama
-import PyFunceble
-from PyFunceble.cli import PublicSuffix
-from PyFunceble.engine import ci
+from PyFunceble.cli.continuous_integration.github_actions import GitHubActions
+from PyFunceble.cli.continuous_integration.exceptions import StopExecution
+from PyFunceble.cli.scripts.public_suffix import PublicSuffixGenerator
+
+
+OUTPUT_FILE = "public-suffix.json"
 
 if __name__ == "__main__":
-
-    colorama.init(autoreset=True)
-
-    # We load our custom configuration
-    CUSTOM_CONFIG = {
-        "ci": True,
-        "ci_autosave_final_commit": "Update public-suffix.json",
-        "multiprocess": True,
-        "maximal_processes": 50,
-        "dns_server": [
-            "one.one.one.one"
-        ]
-    }
-    PyFunceble.load_config(custom=CUSTOM_CONFIG)
-
     # We initiate the repostiory.
-    CI_ENGINE = ci.TravisCI()
+    CI_ENGINE = GitHubActions(authorized=True, end_commit_message=f"Update of {OUTPUT_FILE}")
     CI_ENGINE.init()
 
-    # We process the update of the file.
-    PublicSuffix().update()
+    psg = PublicSuffixGenerator(destination=OUTPUT_FILE)
 
-    # We commit the new state.
-    CI_ENGINE.end_commit()
+    # We process the update of the file.
+    psg.start()
+
+    try:
+        # We commit the new state.
+        CI_ENGINE.apply_end_commit()
+    except StopExecution:
+        pass
