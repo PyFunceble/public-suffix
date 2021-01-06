@@ -1897,8 +1897,8 @@
     "host": [
         "cloudaccess.host",
         "freesite.host",
-        "fastvps.host",
         "myfast.host",
+        "fastvps.host",
         "tempurl.host",
         "wpmudev.host",
         "jele.host",
@@ -2598,7 +2598,6 @@
         "name.jo"
     ],
     "jp": [
-        "xn--ntso0iqx3a.jp",
         "ac.jp",
         "ad.jp",
         "co.jp",
@@ -2692,6 +2691,7 @@
         "xn--kltp7d.jp",
         "xn--uuwu58a.jp",
         "xn--zbx025d.jp",
+        "xn--ntso0iqx3a.jp",
         "xn--elqq16h.jp",
         "xn--4it168d.jp",
         "xn--klt787d.jp",
@@ -8145,6 +8145,7 @@
         "xn--12cfi8ixb8l.xn--o3cw4h"
     ],
     "xn--p1acf": [
+        "xn--41a.xn--p1acf",
         "xn--90amc.xn--p1acf",
         "xn--j1aef.xn--p1acf",
         "xn--j1ael8b.xn--p1acf",
@@ -8153,8 +8154,7 @@
         "xn--c1avg.xn--p1acf",
         "xn--80aaa0cvac.xn--p1acf",
         "xn--h1aliz.xn--p1acf",
-        "xn--90a1af.xn--p1acf",
-        "xn--41a.xn--p1acf"
+        "xn--90a1af.xn--p1acf"
     ],
     "xyz": [
         "blogsite.xyz",
