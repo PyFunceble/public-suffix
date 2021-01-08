@@ -4656,8 +4656,8 @@
         "router.management"
     ],
     "marketing": [
-        "with.marketing",
-        "from.marketing"
+        "from.marketing",
+        "with.marketing"
     ],
     "mc": [
         "tm.mc",
