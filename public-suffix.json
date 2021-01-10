@@ -1902,9 +1902,9 @@
         "myfast.host",
         "tempurl.host",
         "wpmudev.host",
-        "pcloud.host",
         "jele.host",
         "mircloud.host",
+        "pcloud.host",
         "half.host"
     ],
     "hosting": [
@@ -4843,7 +4843,7 @@
         "artsandcrafts.museum",
         "asmatart.museum",
         "assassination.museum",
-        "assisi.museum",
+        "posts-and-telecommunications.museum",
         "association.museum",
         "astronomy.museum",
         "atlanta.museum",
@@ -5211,7 +5211,6 @@
         "portal.museum",
         "portland.museum",
         "portlligat.museum",
-        "posts-and-telecommunications.museum",
         "preservation.museum",
         "presidio.museum",
         "press.museum",
