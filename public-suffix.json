@@ -761,6 +761,7 @@
         "lima-city.ch"
     ],
     "ci": [
+        "asso.ci",
         "org.ci",
         "or.ci",
         "com.ci",
@@ -770,7 +771,6 @@
         "ac.ci",
         "net.ci",
         "go.ci",
-        "asso.ci",
         "xn--aroport-bya.ci",
         "int.ci",
         "presse.ci",
