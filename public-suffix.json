@@ -1232,7 +1232,6 @@
         "wphostedmail.com",
         "wpmucdn.com",
         "pixolino.com",
-        "orsites.com",
         "clicketcloud.com",
         "ams.cloudswitches.com",
         "au.cloudswitches.com",
@@ -1315,6 +1314,7 @@
         "servepics.com",
         "servequake.com",
         "static.observableusercontent.com",
+        "orsites.com",
         "operaunite.com",
         "skygearapp.com",
         "outsystemscloud.com",
@@ -1535,8 +1535,8 @@
         "london.cloudapps.digital"
     ],
     "dk": [
-        "biz.dk",
         "co.dk",
+        "biz.dk",
         "firm.dk",
         "reg.dk",
         "store.dk",
