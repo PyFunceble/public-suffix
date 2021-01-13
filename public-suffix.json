@@ -1748,8 +1748,8 @@
         "cnpy.gdn"
     ],
     "ge": [
-        "com.ge",
         "edu.ge",
+        "com.ge",
         "gov.ge",
         "org.ge",
         "mil.ge",
@@ -6433,12 +6433,12 @@
         "np"
     ],
     "nr": [
-        "net.nr",
         "biz.nr",
         "info.nr",
         "gov.nr",
         "edu.nr",
         "org.nr",
+        "net.nr",
         "com.nr"
     ],
     "nu": [
