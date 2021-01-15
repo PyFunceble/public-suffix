@@ -4814,7 +4814,6 @@
         "or.mu"
     ],
     "museum": [
-        "usgarden.museum",
         "academy.museum",
         "agriculture.museum",
         "air.museum",
@@ -5324,6 +5323,7 @@
         "uscountryestate.museum",
         "usculture.museum",
         "usdecorativearts.museum",
+        "usgarden.museum",
         "ushistory.museum",
         "ushuaia.museum",
         "uslivinghistory.museum",
@@ -5471,7 +5471,6 @@
         "knx-server.net",
         "static-access.net",
         "cryptonomic.net",
-        "is-a-geek.net",
         "dattolocal.net",
         "mydatto.net",
         "debian.net",
@@ -5499,6 +5498,7 @@
         "homeunix.net",
         "in-the-band.net",
         "is-a-chef.net",
+        "is-a-geek.net",
         "isa-geek.net",
         "kicks-ass.net",
         "office-on-the.net",
