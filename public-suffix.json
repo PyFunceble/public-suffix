@@ -422,6 +422,7 @@
         "co.bn"
     ],
     "bo": [
+        "web.bo",
         "com.bo",
         "edu.bo",
         "gob.bo",
@@ -430,7 +431,6 @@
         "net.bo",
         "mil.bo",
         "tv.bo",
-        "web.bo",
         "academia.bo",
         "agro.bo",
         "arte.bo",
