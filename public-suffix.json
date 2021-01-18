@@ -4752,11 +4752,11 @@
         "nom.mk"
     ],
     "ml": [
-        "net.ml",
         "com.ml",
         "edu.ml",
         "gouv.ml",
         "gov.ml",
+        "net.ml",
         "org.ml",
         "presse.ml"
     ],
@@ -5677,7 +5677,6 @@
         "demon.nl"
     ],
     "no": [
-        "salangen.no",
         "fhs.no",
         "vgs.no",
         "fylkesbibl.no",
@@ -6246,6 +6245,7 @@
         "xn--ryrvik-bya.no",
         "rade.no",
         "xn--rde-ula.no",
+        "salangen.no",
         "siellak.no",
         "saltdal.no",
         "salat.no",
