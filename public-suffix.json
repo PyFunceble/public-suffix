@@ -422,7 +422,6 @@
         "co.bn"
     ],
     "bo": [
-        "noticias.bo",
         "com.bo",
         "edu.bo",
         "gob.bo",
@@ -452,6 +451,7 @@
         "musica.bo",
         "natural.bo",
         "nombre.bo",
+        "noticias.bo",
         "patria.bo",
         "politica.bo",
         "profesional.bo",
@@ -1480,10 +1480,10 @@
         "in-butter.de",
         "in-dsl.de",
         "in-vpn.de",
+        "keymachine.de",
         "mein-iserv.de",
         "schulserver.de",
         "test-iserv.de",
-        "keymachine.de",
         "git-repos.de",
         "lcube-server.de",
         "svn-repos.de",
