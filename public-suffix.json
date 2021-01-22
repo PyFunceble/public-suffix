@@ -2044,10 +2044,10 @@
         "barsy.in"
     ],
     "info": [
+        "barrel-of-knowledge.info",
         "cloudns.info",
         "dynamic-dns.info",
         "dyndns.info",
-        "barrel-of-knowledge.info",
         "barrell-of-knowledge.info",
         "for-our.info",
         "groks-the.info",
@@ -7784,7 +7784,7 @@
         "dni.us",
         "fed.us",
         "isa.us",
-        "cc.fl.us",
+        "kids.us",
         "nsn.us",
         "ak.us",
         "al.us",
@@ -7901,6 +7901,7 @@
         "cc.ct.us",
         "cc.dc.us",
         "cc.de.us",
+        "cc.fl.us",
         "cc.ga.us",
         "cc.gu.us",
         "cc.hi.us",
