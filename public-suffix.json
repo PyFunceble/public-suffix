@@ -5677,6 +5677,7 @@
         "demon.nl"
     ],
     "no": [
+        "bindal.no",
         "fhs.no",
         "vgs.no",
         "fylkesbibl.no",
@@ -5848,7 +5849,6 @@
         "xn--berlevg-jxa.no",
         "bearalvahki.no",
         "xn--bearalvhki-y4a.no",
-        "bindal.no",
         "birkenes.no",
         "bjarkoy.no",
         "xn--bjarky-fya.no",
@@ -6635,8 +6635,8 @@
         "hepforge.org",
         "in-dsl.org",
         "in-vpn.org",
-        "barsy.org",
         "js.org",
+        "barsy.org",
         "mayfirst.org",
         "mozilla-iot.org",
         "bmoattachments.org",
