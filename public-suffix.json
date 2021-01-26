@@ -5680,7 +5680,6 @@
         "demon.nl"
     ],
     "no": [
-        "gs.nt.no",
         "fhs.no",
         "vgs.no",
         "fylkesbibl.no",
@@ -5723,6 +5722,7 @@
         "gs.jan-mayen.no",
         "gs.mr.no",
         "gs.nl.no",
+        "gs.nt.no",
         "gs.of.no",
         "gs.ol.no",
         "gs.oslo.no",
@@ -7223,7 +7223,6 @@
         "info.sd"
     ],
     "se": [
-        "f.se",
         "a.se",
         "ac.se",
         "b.se",
@@ -7232,6 +7231,7 @@
         "c.se",
         "d.se",
         "e.se",
+        "f.se",
         "fh.se",
         "fhsk.se",
         "fhv.se",
