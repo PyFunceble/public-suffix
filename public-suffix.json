@@ -798,7 +798,6 @@
     "cloud": [
         "banzai.cloud",
         "statics.cloud",
-        "tn.oxa.cloud",
         "es-1.axarnet.cloud",
         "diadem.cloud",
         "vip.jelastic.cloud",
@@ -807,6 +806,7 @@
         "it1.jenv-aruba.cloud",
         "it1-eur.jenv-arubabiz.cloud",
         "oxa.cloud",
+        "tn.oxa.cloud",
         "uk.oxa.cloud",
         "primetel.cloud",
         "uk.primetel.cloud",
