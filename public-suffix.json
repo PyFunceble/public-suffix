@@ -282,6 +282,7 @@
         "xy.ax"
     ],
     "az": [
+        "biz.az",
         "com.az",
         "net.az",
         "int.az",
@@ -292,8 +293,7 @@
         "pp.az",
         "mil.az",
         "name.az",
-        "pro.az",
-        "biz.az"
+        "pro.az"
     ],
     "ba": [
         "com.ba",
@@ -528,7 +528,7 @@
         "fot.br",
         "foz.br",
         "fst.br",
-        "g12.br",
+        "radio.br",
         "geo.br",
         "ggf.br",
         "goiania.br",
@@ -602,7 +602,6 @@
         "psi.br",
         "pvh.br",
         "qsl.br",
-        "radio.br",
         "rec.br",
         "recife.br",
         "rep.br",
