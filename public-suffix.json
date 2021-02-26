@@ -4740,13 +4740,13 @@
         "barsy.menu"
     ],
     "mg": [
+        "mil.mg",
         "org.mg",
         "nom.mg",
         "gov.mg",
         "prd.mg",
         "tm.mg",
         "edu.mg",
-        "mil.mg",
         "com.mg",
         "co.mg"
     ],
