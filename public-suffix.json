@@ -5639,7 +5639,6 @@
         "noticeable.news"
     ],
     "nf": [
-        "store.nf",
         "com.nf",
         "net.nf",
         "per.nf",
@@ -5648,7 +5647,8 @@
         "arts.nf",
         "firm.nf",
         "info.nf",
-        "other.nf"
+        "other.nf",
+        "store.nf"
     ],
     "ng": [
         "com.ng",
