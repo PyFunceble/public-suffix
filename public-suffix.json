@@ -682,6 +682,9 @@
         "net.bt",
         "org.bt"
     ],
+    "builders": [
+        "cloudsite.builders"
+    ],
     "business": [
         "co.business"
     ],
@@ -1531,7 +1534,9 @@
     ],
     "dev": [
         "lcl.dev",
+        "lclstage.dev",
         "stg.dev",
+        "stgstage.dev",
         "pages.dev",
         "workers.dev",
         "curv.dev",
@@ -2613,6 +2618,7 @@
         "name.jo"
     ],
     "jp": [
+        "xn--0trq7p7nn.jp",
         "ac.jp",
         "ad.jp",
         "co.jp",
@@ -2677,7 +2683,6 @@
         "xn--uist22h.jp",
         "xn--djrs72d6uy.jp",
         "xn--mkru45i.jp",
-        "xn--0trq7p7nn.jp",
         "xn--8ltr62k.jp",
         "xn--2m4a15e.jp",
         "xn--efvn9s.jp",
@@ -7229,7 +7234,8 @@
     ],
     "scot": [
         "edu.scot",
-        "gov.scot"
+        "gov.scot",
+        "service.gov.scot"
     ],
     "sd": [
         "com.sd",
@@ -7338,6 +7344,7 @@
         "opensocial.site",
         "platformsh.site",
         "byen.site",
+        "srht.site",
         "mintere.site"
     ],
     "sk": [
