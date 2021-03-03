@@ -676,10 +676,10 @@
         "we.bs"
     ],
     "bt": [
-        "net.bt",
         "com.bt",
         "edu.bt",
         "gov.bt",
+        "net.bt",
         "org.bt"
     ],
     "builders": [
