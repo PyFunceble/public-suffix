@@ -426,7 +426,6 @@
         "co.bn"
     ],
     "bo": [
-        "economia.bo",
         "com.bo",
         "edu.bo",
         "gob.bo",
@@ -446,6 +445,7 @@
         "democracia.bo",
         "deporte.bo",
         "ecologia.bo",
+        "economia.bo",
         "empresa.bo",
         "indigena.bo",
         "industria.bo",
