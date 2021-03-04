@@ -4446,7 +4446,6 @@
         "com.ki"
     ],
     "km": [
-        "veterinaire.km",
         "org.km",
         "nom.km",
         "gov.km",
@@ -4462,6 +4461,7 @@
         "medecin.km",
         "notaires.km",
         "pharmaciens.km",
+        "veterinaire.km",
         "gouv.km"
     ],
     "kn": [
@@ -6587,9 +6587,9 @@
         "servegame.org",
         "stuff-4-sale.org",
         "webhop.org",
+        "camdvr.org",
         "ddnss.org",
         "accesscam.org",
-        "camdvr.org",
         "freeddns.org",
         "mywire.org",
         "webredirect.org",
