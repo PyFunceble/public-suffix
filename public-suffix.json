@@ -4701,9 +4701,9 @@
         "daplie.me",
         "localhost.daplie.me",
         "edgestack.me",
-        "filegear.me",
         "couk.me",
         "ukco.me",
+        "filegear.me",
         "filegear-au.me",
         "filegear-de.me",
         "filegear-gb.me",
@@ -7810,6 +7810,7 @@
         "gwiddle.co.uk"
     ],
     "us": [
+        "gen.mi.us",
         "dni.us",
         "fed.us",
         "isa.us",
@@ -8035,7 +8036,6 @@
         "cog.mi.us",
         "dst.mi.us",
         "eaton.mi.us",
-        "gen.mi.us",
         "mus.mi.us",
         "tec.mi.us",
         "washtenaw.mi.us",
