@@ -4446,6 +4446,7 @@
         "com.ki"
     ],
     "km": [
+        "veterinaire.km",
         "org.km",
         "nom.km",
         "gov.km",
@@ -4461,7 +4462,6 @@
         "medecin.km",
         "notaires.km",
         "pharmaciens.km",
-        "veterinaire.km",
         "gouv.km"
     ],
     "kn": [
