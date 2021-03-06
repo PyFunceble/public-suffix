@@ -2618,7 +2618,6 @@
         "name.jo"
     ],
     "jp": [
-        "kujukuri.chiba.jp",
         "ac.jp",
         "ad.jp",
         "co.jp",
@@ -2853,6 +2852,7 @@
         "kimitsu.chiba.jp",
         "kisarazu.chiba.jp",
         "kozaki.chiba.jp",
+        "kujukuri.chiba.jp",
         "kyonan.chiba.jp",
         "matsudo.chiba.jp",
         "midori.chiba.jp",
@@ -7288,8 +7288,8 @@
         "y.se",
         "z.se",
         "com.se",
-        "blogspot.se",
         "conf.se",
+        "blogspot.se",
         "iopsys.se"
     ],
     "services": [
