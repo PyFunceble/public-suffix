@@ -3208,7 +3208,7 @@
         "minamifurano.hokkaido.jp",
         "mombetsu.hokkaido.jp",
         "moseushi.hokkaido.jp",
-        "mukawa.hokkaido.jp",
+        "hitachi.ibaraki.jp",
         "muroran.hokkaido.jp",
         "naie.hokkaido.jp",
         "nakagawa.hokkaido.jp",
@@ -3332,7 +3332,6 @@
         "chikusei.ibaraki.jp",
         "daigo.ibaraki.jp",
         "fujishiro.ibaraki.jp",
-        "hitachi.ibaraki.jp",
         "hitachinaka.ibaraki.jp",
         "hitachiomiya.ibaraki.jp",
         "hitachiota.ibaraki.jp",
@@ -7810,6 +7809,7 @@
         "gwiddle.co.uk"
     ],
     "us": [
+        "k12.de.us",
         "dni.us",
         "fed.us",
         "isa.us",
@@ -7879,7 +7879,6 @@
         "k12.co.us",
         "k12.ct.us",
         "k12.dc.us",
-        "k12.de.us",
         "k12.fl.us",
         "k12.ga.us",
         "k12.gu.us",
