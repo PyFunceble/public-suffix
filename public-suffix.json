@@ -7810,13 +7810,13 @@
         "gwiddle.co.uk"
     ],
     "us": [
+        "al.us",
         "dni.us",
         "fed.us",
         "isa.us",
         "kids.us",
         "nsn.us",
         "ak.us",
-        "al.us",
         "ar.us",
         "as.us",
         "az.us",
@@ -8250,11 +8250,11 @@
         "lima.zone"
     ],
     "zw": [
+        "org.zw",
         "ac.zw",
         "co.zw",
         "gov.zw",
-        "mil.zw",
-        "org.zw"
+        "mil.zw"
     ],
     "рус": [
         "биз.рус",
