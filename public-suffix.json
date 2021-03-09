@@ -4756,10 +4756,10 @@
         "co.mg"
     ],
     "mk": [
-        "edu.mk",
         "com.mk",
         "org.mk",
         "net.mk",
+        "edu.mk",
         "gov.mk",
         "inf.mk",
         "name.mk",
