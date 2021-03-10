@@ -7410,6 +7410,7 @@
         "shopware.store"
     ],
     "su": [
+        "obninsk.su",
         "abkhazia.su",
         "adygeya.su",
         "aktyubinsk.su",
@@ -7447,7 +7448,6 @@
         "navoi.su",
         "north-kazakhstan.su",
         "nov.su",
-        "obninsk.su",
         "penza.su",
         "pokrovsk.su",
         "sochi.su",
