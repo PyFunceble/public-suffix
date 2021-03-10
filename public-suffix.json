@@ -801,7 +801,6 @@
     ],
     "cloud": [
         "banzai.cloud",
-        "de.trendhosting.cloud",
         "statics.cloud",
         "es-1.axarnet.cloud",
         "diadem.cloud",
@@ -819,6 +818,7 @@
         "uk.reclaim.cloud",
         "us.reclaim.cloud",
         "ch.trendhosting.cloud",
+        "de.trendhosting.cloud",
         "kuleuven.cloud",
         "linkyard.cloud",
         "magentosite.cloud",
@@ -843,13 +843,13 @@
         "net.cm"
     ],
     "cn": [
-        "mil.cn",
         "ac.cn",
         "com.cn",
         "edu.cn",
         "gov.cn",
         "net.cn",
         "org.cn",
+        "mil.cn",
         "xn--55qx5d.cn",
         "xn--io0a7i.cn",
         "xn--od0alg.cn",
