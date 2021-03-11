@@ -1246,7 +1246,6 @@
         "wphostedmail.com",
         "wpmucdn.com",
         "pixolino.com",
-        "servehumour.com",
         "clicketcloud.com",
         "ams.cloudswitches.com",
         "au.cloudswitches.com",
@@ -1312,6 +1311,7 @@
         "quicksytes.com",
         "securitytactics.com",
         "serveexchange.com",
+        "servehumour.com",
         "servep2p.com",
         "servesarcasm.com",
         "stufftoread.com",
@@ -8106,10 +8106,10 @@
         "at.vg"
     ],
     "vi": [
+        "net.vi",
         "co.vi",
         "com.vi",
         "k12.vi",
-        "net.vi",
         "org.vi"
     ],
     "vn": [
