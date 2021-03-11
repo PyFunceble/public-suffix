@@ -4767,13 +4767,13 @@
         "nom.mk"
     ],
     "ml": [
+        "presse.ml",
         "com.ml",
         "edu.ml",
         "gouv.ml",
         "gov.ml",
         "net.ml",
-        "org.ml",
-        "presse.ml"
+        "org.ml"
     ],
     "mm": [
         "mm"
