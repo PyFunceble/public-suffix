@@ -769,7 +769,6 @@
         "lima-city.ch"
     ],
     "ci": [
-        "asso.ci",
         "org.ci",
         "or.ci",
         "com.ci",
@@ -779,6 +778,7 @@
         "ac.ci",
         "net.ci",
         "go.ci",
+        "asso.ci",
         "xn--aroport-bya.ci",
         "int.ci",
         "presse.ci",
@@ -3490,7 +3490,7 @@
         "oiso.kanagawa.jp",
         "sagamihara.kanagawa.jp",
         "samukawa.kanagawa.jp",
-        "tsukui.kanagawa.jp",
+        "kiho.mie.jp",
         "yamakita.kanagawa.jp",
         "yamato.kanagawa.jp",
         "yokosuka.kanagawa.jp",
@@ -3587,7 +3587,6 @@
         "ise.mie.jp",
         "kameyama.mie.jp",
         "kawagoe.mie.jp",
-        "kiho.mie.jp",
         "kisosaki.mie.jp",
         "kiwa.mie.jp",
         "komono.mie.jp",
