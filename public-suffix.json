@@ -1920,10 +1920,10 @@
     "host": [
         "cloudaccess.host",
         "freesite.host",
-        "wpmudev.host",
         "fastvps.host",
         "myfast.host",
         "tempurl.host",
+        "wpmudev.host",
         "jele.host",
         "mircloud.host",
         "pcloud.host",
