@@ -4833,6 +4833,8 @@
         "or.mu"
     ],
     "museum": [
+        "lans.museum",
+        "larsson.museum",
         "academy.museum",
         "agriculture.museum",
         "air.museum",
@@ -5116,9 +5118,7 @@
         "lajolla.museum",
         "lancashire.museum",
         "landes.museum",
-        "lans.museum",
         "xn--lns-qla.museum",
-        "larsson.museum",
         "lewismiller.museum",
         "lincoln.museum",
         "linz.museum",
