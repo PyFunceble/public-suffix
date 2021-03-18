@@ -591,6 +591,7 @@
         "not.br",
         "ntr.br",
         "odo.br",
+        "ong.br",
         "org.br",
         "osasco.br",
         "palmas.br",
@@ -800,6 +801,7 @@
     ],
     "cloud": [
         "banzai.cloud",
+        "kuleuven.cloud",
         "statics.cloud",
         "es-1.axarnet.cloud",
         "diadem.cloud",
@@ -818,7 +820,6 @@
         "us.reclaim.cloud",
         "ch.trendhosting.cloud",
         "de.trendhosting.cloud",
-        "kuleuven.cloud",
         "linkyard.cloud",
         "magentosite.cloud",
         "perspecta.cloud",
@@ -7143,9 +7144,9 @@
         "ox.rs"
     ],
     "ru": [
-        "gov.ru",
         "ac.ru",
         "edu.ru",
+        "gov.ru",
         "int.ru",
         "mil.ru",
         "test.ru",
