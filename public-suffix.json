@@ -591,7 +591,6 @@
         "not.br",
         "ntr.br",
         "odo.br",
-        "ong.br",
         "org.br",
         "osasco.br",
         "palmas.br",
@@ -7144,9 +7143,9 @@
         "ox.rs"
     ],
     "ru": [
+        "gov.ru",
         "ac.ru",
         "edu.ru",
-        "gov.ru",
         "int.ru",
         "mil.ru",
         "test.ru",
