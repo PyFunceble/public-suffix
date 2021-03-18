@@ -801,7 +801,6 @@
     ],
     "cloud": [
         "banzai.cloud",
-        "kuleuven.cloud",
         "statics.cloud",
         "es-1.axarnet.cloud",
         "diadem.cloud",
@@ -820,6 +819,7 @@
         "us.reclaim.cloud",
         "ch.trendhosting.cloud",
         "de.trendhosting.cloud",
+        "kuleuven.cloud",
         "linkyard.cloud",
         "magentosite.cloud",
         "perspecta.cloud",
