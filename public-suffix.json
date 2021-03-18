@@ -7221,11 +7221,11 @@
         "for.sale"
     ],
     "sb": [
-        "org.sb",
         "com.sb",
         "edu.sb",
         "gov.sb",
-        "net.sb"
+        "net.sb",
+        "org.sb"
     ],
     "sc": [
         "com.sc",
