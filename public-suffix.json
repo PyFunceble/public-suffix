@@ -925,7 +925,6 @@
     "com": [
         "adobeaemcloud.com",
         "dev.adobeaemcloud.com",
-        "awsglobalaccelerator.com",
         "kasserver.com",
         "compute.amazonaws.com",
         "compute-1.amazonaws.com",
@@ -949,6 +948,7 @@
         "us-west-1.elasticbeanstalk.com",
         "us-west-2.elasticbeanstalk.com",
         "elb.amazonaws.com",
+        "awsglobalaccelerator.com",
         "s3.amazonaws.com",
         "s3-ap-northeast-1.amazonaws.com",
         "s3-ap-northeast-2.amazonaws.com",
@@ -2188,6 +2188,7 @@
         "blogspot.is"
     ],
     "it": [
+        "lodi.it",
         "gov.it",
         "edu.it",
         "abr.it",
@@ -2443,7 +2444,6 @@
         "li.it",
         "livorno.it",
         "lo.it",
-        "lodi.it",
         "lt.it",
         "lu.it",
         "lucca.it",
@@ -6756,10 +6756,10 @@
         "1337.pictures"
     ],
     "pk": [
-        "org.pk",
         "com.pk",
         "net.pk",
         "edu.pk",
+        "org.pk",
         "fam.pk",
         "biz.pk",
         "web.pk",
