@@ -7322,9 +7322,9 @@
         "ent.platform.sh",
         "eu.platform.sh",
         "us.platform.sh",
-        "wedeploy.sh",
         "now.sh",
-        "vxl.sh"
+        "vxl.sh",
+        "wedeploy.sh"
     ],
     "shop": [
         "barsy.shop"
