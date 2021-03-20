@@ -2101,7 +2101,6 @@
         "dyndns.dappnode.io",
         "dedyn.io",
         "drud.io",
-        "gitlab.io",
         "definima.io",
         "enonic.io",
         "customer.enonic.io",
@@ -2109,6 +2108,7 @@
         "shw.io",
         "ghost.io",
         "github.io",
+        "gitlab.io",
         "lolipop.io",
         "hasura-app.io",
         "hostyhosting.io",
@@ -7557,7 +7557,6 @@
         "edu.tm"
     ],
     "tn": [
-        "defense.tn",
         "com.tn",
         "ens.tn",
         "fin.tn",
@@ -7576,6 +7575,7 @@
         "rnu.tn",
         "mincom.tn",
         "agrinet.tn",
+        "defense.tn",
         "turen.tn",
         "orangecloud.tn"
     ],
