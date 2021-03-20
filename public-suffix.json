@@ -5472,6 +5472,7 @@
         "alwaysdata.net",
         "cloudfront.net",
         "t3l3p0rt.net",
+        "clickrising.net",
         "myfritz.net",
         "blackbaudcdn.net",
         "boomla.net",
@@ -5484,7 +5485,6 @@
         "uk.net",
         "in.net",
         "clic2000.net",
-        "clickrising.net",
         "cloudaccess.net",
         "cdn77-ssl.net",
         "r.cdn77.net",
@@ -7396,11 +7396,11 @@
         "org.ss"
     ],
     "st": [
+        "embaixada.st",
         "co.st",
         "com.st",
         "consulado.st",
         "edu.st",
-        "embaixada.st",
         "gov.st",
         "mil.st",
         "net.st",
