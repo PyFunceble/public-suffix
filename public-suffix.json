@@ -4833,6 +4833,7 @@
         "or.mu"
     ],
     "museum": [
+        "county.museum",
         "academy.museum",
         "agriculture.museum",
         "air.museum",
@@ -4972,7 +4973,6 @@
         "corvette.museum",
         "costume.museum",
         "countryestate.museum",
-        "county.museum",
         "crafts.museum",
         "cranbrook.museum",
         "creation.museum",
@@ -8088,12 +8088,12 @@
         "nom.vc"
     ],
     "ve": [
+        "firm.ve",
         "arts.ve",
         "co.ve",
         "com.ve",
         "e12.ve",
         "edu.ve",
-        "firm.ve",
         "gob.ve",
         "gov.ve",
         "info.ve",
