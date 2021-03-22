@@ -7001,8 +7001,8 @@
         "own.pm"
     ],
     "pn": [
-        "co.pn",
         "gov.pn",
+        "co.pn",
         "org.pn",
         "edu.pn",
         "net.pn"
