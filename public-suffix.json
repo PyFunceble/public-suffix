@@ -470,6 +470,7 @@
         "wiki.bo"
     ],
     "br": [
+        "go.gov.br",
         "9guacu.br",
         "abc.br",
         "adm.br",
@@ -542,7 +543,6 @@
         "ce.gov.br",
         "df.gov.br",
         "es.gov.br",
-        "go.gov.br",
         "ma.gov.br",
         "mg.gov.br",
         "ms.gov.br",
@@ -5620,6 +5620,7 @@
         "bar1.net",
         "bar2.net",
         "rackmaze.net",
+        "dsmynas.net",
         "schokokeks.net",
         "firewall-gateway.net",
         "seidat.net",
@@ -5627,7 +5628,6 @@
         "siteleaf.net",
         "soc.srcf.net",
         "user.srcf.net",
-        "dsmynas.net",
         "familyds.net",
         "torproject.net",
         "pages.torproject.net",
