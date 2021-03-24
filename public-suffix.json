@@ -770,7 +770,6 @@
         "lima-city.ch"
     ],
     "ci": [
-        "asso.ci",
         "org.ci",
         "or.ci",
         "com.ci",
@@ -780,6 +779,7 @@
         "ac.ci",
         "net.ci",
         "go.ci",
+        "asso.ci",
         "xn--aroport-bya.ci",
         "int.ci",
         "presse.ci",
@@ -6545,7 +6545,6 @@
         "rsc.cdn77.org",
         "ssl.origin.cdn77-secure.org",
         "cloudns.org",
-        "webhop.org",
         "duckdns.org",
         "tunk.org",
         "dyndns.org",
@@ -6599,6 +6598,7 @@
         "serveftp.org",
         "servegame.org",
         "stuff-4-sale.org",
+        "webhop.org",
         "ddnss.org",
         "accesscam.org",
         "camdvr.org",
