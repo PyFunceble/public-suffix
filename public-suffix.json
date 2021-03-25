@@ -283,7 +283,6 @@
         "xy.ax"
     ],
     "az": [
-        "pro.az",
         "com.az",
         "net.az",
         "int.az",
@@ -294,6 +293,7 @@
         "pp.az",
         "mil.az",
         "name.az",
+        "pro.az",
         "biz.az"
     ],
     "ba": [
@@ -802,6 +802,7 @@
     ],
     "cloud": [
         "banzai.cloud",
+        "it1-eur.jenv-arubabiz.cloud",
         "statics.cloud",
         "es-1.axarnet.cloud",
         "diadem.cloud",
@@ -809,7 +810,6 @@
         "jele.cloud",
         "it1.eur.aruba.jenv-aruba.cloud",
         "it1.jenv-aruba.cloud",
-        "it1-eur.jenv-arubabiz.cloud",
         "oxa.cloud",
         "tn.oxa.cloud",
         "uk.oxa.cloud",
@@ -2132,10 +2132,10 @@
         "ngrok.io",
         "stage.nodeart.io",
         "nodum.io",
+        "protonet.io",
         "nid.io",
         "pantheonsite.io",
         "dyn53.io",
-        "protonet.io",
         "qoto.io",
         "qcx.io",
         "sys.qcx.io",
