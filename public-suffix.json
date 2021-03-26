@@ -5636,6 +5636,7 @@
         "familyds.net",
         "torproject.net",
         "pages.torproject.net",
+        "ric.jelastic.vps-host.net",
         "fastblog.net",
         "community-pro.net",
         "meinforum.net",
@@ -5645,8 +5646,7 @@
         "za.net",
         "vps-host.net",
         "atl.jelastic.vps-host.net",
-        "njs.jelastic.vps-host.net",
-        "ric.jelastic.vps-host.net"
+        "njs.jelastic.vps-host.net"
     ],
     "network": [
         "alces.network",
