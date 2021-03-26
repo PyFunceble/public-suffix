@@ -5634,7 +5634,6 @@
         "user.srcf.net",
         "dsmynas.net",
         "familyds.net",
-        "ric.jelastic.vps-host.net",
         "torproject.net",
         "pages.torproject.net",
         "fastblog.net",
@@ -5646,7 +5645,8 @@
         "za.net",
         "vps-host.net",
         "atl.jelastic.vps-host.net",
-        "njs.jelastic.vps-host.net"
+        "njs.jelastic.vps-host.net",
+        "ric.jelastic.vps-host.net"
     ],
     "network": [
         "alces.network",
