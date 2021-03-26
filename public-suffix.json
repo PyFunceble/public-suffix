@@ -336,8 +336,8 @@
         "gov.bf"
     ],
     "bg": [
-        "a.bg",
         "b.bg",
+        "a.bg",
         "c.bg",
         "d.bg",
         "e.bg",
@@ -1514,7 +1514,6 @@
         "my-gateway.de",
         "my-router.de",
         "spdns.de",
-        "dray-dns.de",
         "customer.speedpartner.de",
         "taifun-dns.de",
         "12hp.de",
@@ -1522,6 +1521,7 @@
         "4lima.de",
         "lima-city.de",
         "dd-dns.de",
+        "dray-dns.de",
         "draydns.de",
         "dyn-vpn.de",
         "dynvpn.de",
@@ -5516,7 +5516,6 @@
         "dynalias.net",
         "dynathome.net",
         "endofinternet.net",
-        "ric.jelastic.vps-host.net",
         "from-az.net",
         "from-co.net",
         "from-la.net",
@@ -5646,7 +5645,8 @@
         "za.net",
         "vps-host.net",
         "atl.jelastic.vps-host.net",
-        "njs.jelastic.vps-host.net"
+        "njs.jelastic.vps-host.net",
+        "ric.jelastic.vps-host.net"
     ],
     "network": [
         "alces.network",
