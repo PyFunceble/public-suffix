@@ -336,8 +336,8 @@
         "gov.bf"
     ],
     "bg": [
-        "b.bg",
         "a.bg",
+        "b.bg",
         "c.bg",
         "d.bg",
         "e.bg",
@@ -7077,12 +7077,12 @@
         "barsy.pub"
     ],
     "pw": [
+        "belau.pw",
         "co.pw",
         "ne.pw",
         "or.pw",
         "ed.pw",
         "go.pw",
-        "belau.pw",
         "cloudns.pw",
         "x443.pw",
         "nom.pw"
