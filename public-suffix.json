@@ -2941,7 +2941,7 @@
         "ashiya.fukuoka.jp",
         "buzen.fukuoka.jp",
         "chikugo.fukuoka.jp",
-        "yabuki.fukushima.jp",
+        "chikuho.fukuoka.jp",
         "chikujo.fukuoka.jp",
         "chikushino.fukuoka.jp",
         "chikuzen.fukuoka.jp",
@@ -3047,6 +3047,7 @@
         "tamakawa.fukushima.jp",
         "tanagura.fukushima.jp",
         "tenei.fukushima.jp",
+        "yabuki.fukushima.jp",
         "yamato.fukushima.jp",
         "yamatsuri.fukushima.jp",
         "yanaizu.fukushima.jp",
@@ -5715,6 +5716,7 @@
         "demon.nl"
     ],
     "no": [
+        "eid.no",
         "fhs.no",
         "vgs.no",
         "fylkesbibl.no",
@@ -5924,7 +5926,6 @@
         "xn--dyry-ira.no",
         "donna.no",
         "xn--dnna-gra.no",
-        "eid.no",
         "eidfjord.no",
         "eidsberg.no",
         "eidskog.no",
