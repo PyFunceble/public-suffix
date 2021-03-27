@@ -740,8 +740,8 @@
     ],
     "cc": [
         "cloudns.cc",
-        "ftpaccess.cc",
         "game-server.cc",
+        "ftpaccess.cc",
         "myphotos.cc",
         "scrapping.cc",
         "twmail.cc",
