@@ -4848,7 +4848,6 @@
         "or.mu"
     ],
     "museum": [
-        "architecture.museum",
         "academy.museum",
         "agriculture.museum",
         "air.museum",
@@ -4871,6 +4870,7 @@
         "arboretum.museum",
         "archaeological.museum",
         "archaeology.museum",
+        "architecture.museum",
         "art.museum",
         "artanddesign.museum",
         "artcenter.museum",
