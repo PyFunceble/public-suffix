@@ -7702,7 +7702,6 @@
         "tv.tz"
     ],
     "ua": [
-        "dnepropetrovsk.ua",
         "com.ua",
         "edu.ua",
         "gov.ua",
@@ -7721,6 +7720,7 @@
         "crimea.ua",
         "cv.ua",
         "dn.ua",
+        "dnepropetrovsk.ua",
         "dnipropetrovsk.ua",
         "donetsk.ua",
         "dp.ua",
@@ -7832,9 +7832,9 @@
         "gwiddle.co.uk"
     ],
     "us": [
-        "isa.us",
         "dni.us",
         "fed.us",
+        "isa.us",
         "kids.us",
         "nsn.us",
         "ak.us",
