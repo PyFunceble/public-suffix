@@ -284,7 +284,6 @@
         "xy.ax"
     ],
     "az": [
-        "pp.az",
         "com.az",
         "net.az",
         "int.az",
@@ -292,6 +291,7 @@
         "org.az",
         "edu.az",
         "info.az",
+        "pp.az",
         "mil.az",
         "name.az",
         "pro.az",
@@ -5720,6 +5720,7 @@
         "demon.nl"
     ],
     "no": [
+        "hattfjelldal.no",
         "fhs.no",
         "vgs.no",
         "fylkesbibl.no",
@@ -6021,7 +6022,6 @@
         "hasvik.no",
         "aknoluokta.no",
         "xn--koluokta-7ya57h.no",
-        "hattfjelldal.no",
         "aarborte.no",
         "haugesund.no",
         "hemne.no",
