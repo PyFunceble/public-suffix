@@ -7259,11 +7259,11 @@
         "service.gov.scot"
     ],
     "sd": [
-        "med.sd",
         "com.sd",
         "net.sd",
         "org.sd",
         "edu.sd",
+        "med.sd",
         "tv.sd",
         "gov.sd",
         "info.sd"
