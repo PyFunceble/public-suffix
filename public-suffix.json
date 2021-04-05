@@ -337,6 +337,7 @@
         "gov.bf"
     ],
     "bg": [
+        "l.bg",
         "a.bg",
         "b.bg",
         "c.bg",
@@ -348,7 +349,6 @@
         "i.bg",
         "j.bg",
         "k.bg",
-        "l.bg",
         "m.bg",
         "n.bg",
         "o.bg",
