@@ -4656,7 +4656,6 @@
         "nym.lu"
     ],
     "lv": [
-        "asn.lv",
         "com.lv",
         "edu.lv",
         "gov.lv",
@@ -4664,6 +4663,7 @@
         "mil.lv",
         "id.lv",
         "net.lv",
+        "asn.lv",
         "conf.lv",
         "nom.lv"
     ],
