@@ -846,13 +846,13 @@
         "net.cm"
     ],
     "cn": [
-        "mil.cn",
         "ac.cn",
         "com.cn",
         "edu.cn",
         "gov.cn",
         "net.cn",
         "org.cn",
+        "mil.cn",
         "xn--55qx5d.cn",
         "xn--io0a7i.cn",
         "xn--od0alg.cn",
@@ -2636,6 +2636,7 @@
         "name.jo"
     ],
     "jp": [
+        "furubira.hokkaido.jp",
         "ac.jp",
         "ad.jp",
         "co.jp",
@@ -3183,7 +3184,6 @@
         "fukagawa.hokkaido.jp",
         "fukushima.hokkaido.jp",
         "furano.hokkaido.jp",
-        "furubira.hokkaido.jp",
         "haboro.hokkaido.jp",
         "hakodate.hokkaido.jp",
         "hamatonbetsu.hokkaido.jp",
