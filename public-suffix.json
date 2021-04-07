@@ -6773,11 +6773,11 @@
         "1337.pictures"
     ],
     "pk": [
-        "fam.pk",
         "com.pk",
         "net.pk",
         "edu.pk",
         "org.pk",
+        "fam.pk",
         "biz.pk",
         "web.pk",
         "gov.pk",
