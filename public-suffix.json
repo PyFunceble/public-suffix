@@ -8169,11 +8169,11 @@
         "to.work"
     ],
     "ws": [
+        "edu.ws",
         "com.ws",
         "net.ws",
         "org.ws",
         "gov.ws",
-        "edu.ws",
         "advisor.ws",
         "cloud66.ws",
         "dyndns.ws",
