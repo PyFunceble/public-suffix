@@ -234,7 +234,6 @@
         "lima-city.at"
     ],
     "au": [
-        "sa.gov.au",
         "com.au",
         "net.au",
         "org.au",
@@ -263,6 +262,7 @@
         "vic.edu.au",
         "wa.edu.au",
         "qld.gov.au",
+        "sa.gov.au",
         "tas.gov.au",
         "vic.gov.au",
         "wa.gov.au",
@@ -3012,7 +3012,7 @@
         "asakawa.fukushima.jp",
         "bandai.fukushima.jp",
         "date.fukushima.jp",
-        "fukushima.fukushima.jp",
+        "yoshioka.gunma.jp",
         "furudono.fukushima.jp",
         "futaba.fukushima.jp",
         "hanawa.fukushima.jp",
@@ -3130,7 +3130,6 @@
         "tsukiyono.gunma.jp",
         "tsumagoi.gunma.jp",
         "ueno.gunma.jp",
-        "yoshioka.gunma.jp",
         "asaminami.hiroshima.jp",
         "daiwa.hiroshima.jp",
         "etajima.hiroshima.jp",
