@@ -771,6 +771,7 @@
         "lima-city.ch"
     ],
     "ci": [
+        "int.ci",
         "org.ci",
         "or.ci",
         "com.ci",
@@ -782,7 +783,6 @@
         "go.ci",
         "asso.ci",
         "xn--aroport-bya.ci",
-        "int.ci",
         "presse.ci",
         "md.ci",
         "gouv.ci",
@@ -7340,9 +7340,9 @@
         "ent.platform.sh",
         "eu.platform.sh",
         "us.platform.sh",
+        "wedeploy.sh",
         "now.sh",
-        "vxl.sh",
-        "wedeploy.sh"
+        "vxl.sh"
     ],
     "shop": [
         "barsy.shop"
