@@ -4848,7 +4848,6 @@
         "or.mu"
     ],
     "museum": [
-        "bergbau.museum",
         "academy.museum",
         "agriculture.museum",
         "air.museum",
@@ -4904,6 +4903,7 @@
         "beauxarts.museum",
         "beeldengeluid.museum",
         "bellevue.museum",
+        "bergbau.museum",
         "berkeley.museum",
         "berlin.museum",
         "bern.museum",
