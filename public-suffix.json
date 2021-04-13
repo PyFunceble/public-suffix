@@ -384,11 +384,11 @@
         "gov.bh"
     ],
     "bi": [
-        "org.bi",
         "co.bi",
         "com.bi",
         "edu.bi",
-        "or.bi"
+        "or.bi",
+        "org.bi"
     ],
     "biz": [
         "cloudns.biz",
