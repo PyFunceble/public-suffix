@@ -2062,7 +2062,6 @@
         "org.in",
         "gen.in",
         "ind.in",
-        "nic.in",
         "ac.in",
         "edu.in",
         "res.in",
@@ -8188,6 +8187,7 @@
         "xn--80au.xn--90a3ac"
     ],
     "xn--j6w193g": [
+        "xn--55qx5d.xn--j6w193g",
         "xn--wcvs22d.xn--j6w193g",
         "xn--mxtq1m.xn--j6w193g",
         "xn--gmqw5a.xn--j6w193g",
@@ -8233,7 +8233,6 @@
         "org.yt"
     ],
     "za": [
-        "law.za",
         "ac.za",
         "agric.za",
         "alt.za",
@@ -8241,6 +8240,7 @@
         "edu.za",
         "gov.za",
         "grondar.za",
+        "law.za",
         "mil.za",
         "net.za",
         "ngo.za",
