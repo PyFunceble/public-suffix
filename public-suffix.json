@@ -1205,6 +1205,7 @@
         "space-to-rent.com",
         "teaches-yoga.com",
         "writesthisblog.com",
+        "us-3.evennode.com",
         "ddnsfree.com",
         "ddnsgeek.com",
         "giize.com",
@@ -1220,7 +1221,6 @@
         "eu-4.evennode.com",
         "us-1.evennode.com",
         "us-2.evennode.com",
-        "us-3.evennode.com",
         "us-4.evennode.com",
         "onfabrica.com",
         "apps.fbsbx.com",
@@ -5285,7 +5285,7 @@
         "schweiz.museum",
         "science.museum",
         "scienceandhistory.museum",
-        "scienceandindustry.museum",
+        "undersea.museum",
         "sciencecenter.museum",
         "sciencecenters.museum",
         "science-fiction.museum",
@@ -5349,7 +5349,6 @@
         "trustee.museum",
         "uhren.museum",
         "ulm.museum",
-        "undersea.museum",
         "university.museum",
         "usa.museum",
         "usantiques.museum",
@@ -8274,11 +8273,11 @@
         "lima.zone"
     ],
     "zw": [
+        "org.zw",
         "ac.zw",
         "co.zw",
         "gov.zw",
-        "mil.zw",
-        "org.zw"
+        "mil.zw"
     ],
     "рус": [
         "биз.рус",
@@ -8294,7 +8293,6 @@
     ],
     "срб": [
         "пр.срб",
-        "орг.срб",
         "обр.срб",
         "од.срб",
         "упр.срб",
