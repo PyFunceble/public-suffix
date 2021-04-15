@@ -999,7 +999,6 @@
         "s3-website-ap-southeast-1.amazonaws.com",
         "s3-website-ap-southeast-2.amazonaws.com",
         "s3-website-eu-west-1.amazonaws.com",
-        "s3-website-sa-east-1.amazonaws.com",
         "s3-website.ap-northeast-2.amazonaws.com",
         "s3-website.ap-south-1.amazonaws.com",
         "s3-website.ca-central-1.amazonaws.com",
@@ -1018,6 +1017,7 @@
         "cafjs.com",
         "br.com",
         "cn.com",
+        "de.com",
         "eu.com",
         "jpn.com",
         "mex.com",
@@ -8168,11 +8168,11 @@
         "to.work"
     ],
     "ws": [
-        "edu.ws",
         "com.ws",
         "net.ws",
         "org.ws",
         "gov.ws",
+        "edu.ws",
         "advisor.ws",
         "cloud66.ws",
         "dyndns.ws",
