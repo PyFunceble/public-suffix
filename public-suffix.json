@@ -1607,8 +1607,8 @@
         "tm.dz"
     ],
     "earth": [
-        "bzz.dapps.earth",
-        "dapps.earth"
+        "dapps.earth",
+        "bzz.dapps.earth"
     ],
     "ec": [
         "com.ec",
@@ -6707,12 +6707,12 @@
         "dsmynas.org",
         "familyds.org",
         "edugit.org",
+        "wmcloud.org",
         "tuxfamily.org",
         "diskstation.org",
         "hk.org",
         "wmflabs.org",
         "toolforge.org",
-        "wmcloud.org",
         "za.org"
     ],
     "ovh": [
