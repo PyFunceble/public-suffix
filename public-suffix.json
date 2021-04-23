@@ -1042,6 +1042,7 @@
         "cloudcontrolled.com",
         "cloudcontrolapp.com",
         "trycloudflare.com",
+        "dyndns-mail.com",
         "multibaas.com",
         "customer-oci.com",
         "oci.customer-oci.com",
@@ -1061,7 +1062,6 @@
         "dyndns-free.com",
         "dyndns-home.com",
         "dyndns-ip.com",
-        "dyndns-mail.com",
         "dyndns-office.com",
         "dyndns-pics.com",
         "dyndns-remote.com",
@@ -7705,7 +7705,6 @@
         "tv.tz"
     ],
     "ua": [
-        "rovno.ua",
         "com.ua",
         "edu.ua",
         "gov.ua",
@@ -7759,6 +7758,7 @@
         "pl.ua",
         "poltava.ua",
         "rivne.ua",
+        "rovno.ua",
         "rv.ua",
         "sb.ua",
         "sebastopol.ua",
