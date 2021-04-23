@@ -2101,9 +2101,9 @@
     ],
     "io": [
         "com.io",
-        "backplaneapp.io",
         "apigee.io",
         "b-data.io",
+        "backplaneapp.io",
         "app.banzaicloud.io",
         "backyards.banzaicloud.io",
         "boxfuse.io",
