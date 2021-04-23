@@ -4497,6 +4497,7 @@
         "tra.kp"
     ],
     "kr": [
+        "jeonbuk.kr",
         "ac.kr",
         "co.kr",
         "es.kr",
@@ -4522,7 +4523,6 @@
         "gyeongnam.kr",
         "incheon.kr",
         "jeju.kr",
-        "jeonbuk.kr",
         "jeonnam.kr",
         "seoul.kr",
         "ulsan.kr",
@@ -6495,8 +6495,8 @@
         "mine.nu",
         "shacknet.nu",
         "nom.nu",
-        "uwu.nu",
-        "enterprisecloud.nu"
+        "enterprisecloud.nu",
+        "uwu.nu"
     ],
     "nz": [
         "ac.nz",
