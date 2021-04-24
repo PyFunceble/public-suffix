@@ -337,13 +337,13 @@
         "gov.bf"
     ],
     "bg": [
-        "g.bg",
         "a.bg",
         "b.bg",
         "c.bg",
         "d.bg",
         "e.bg",
         "f.bg",
+        "g.bg",
         "h.bg",
         "i.bg",
         "j.bg",
@@ -7029,7 +7029,6 @@
         "indie.porn"
     ],
     "pr": [
-        "info.pr",
         "com.pr",
         "net.pr",
         "org.pr",
@@ -7038,6 +7037,7 @@
         "isla.pr",
         "pro.pr",
         "biz.pr",
+        "info.pr",
         "name.pr",
         "est.pr",
         "prof.pr",
