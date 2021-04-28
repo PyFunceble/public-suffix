@@ -5057,7 +5057,6 @@
         "clinton.museum",
         "clock.museum",
         "coal.museum",
-        "coastaldefence.museum",
         "cody.museum",
         "coldwar.museum",
         "collection.museum",
@@ -5922,6 +5921,7 @@
         "bømlo.no",
         "cahcesuolo.no",
         "co.no",
+        "coastaldefence.museum",
         "davvenjarga.no",
         "davvenjárga.no",
         "davvesiida.no",
@@ -7000,7 +7000,6 @@
         "med.pa",
         "net.pa",
         "nom.pa",
-        "org.pa",
         "sld.pa"
     ],
     "page": [
@@ -7384,6 +7383,7 @@
         "name.qa",
         "net.qa",
         "nom.qa",
+        "org.pa",
         "org.qa",
         "sch.qa"
     ],
