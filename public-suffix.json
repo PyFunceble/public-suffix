@@ -1303,6 +1303,7 @@
         "s3-website-ap-northeast-1.amazonaws.com",
         "s3-website-ap-southeast-1.amazonaws.com",
         "s3-website-ap-southeast-2.amazonaws.com",
+        "s3-website-eu-west-1.amazonaws.com",
         "s3-website-sa-east-1.amazonaws.com",
         "s3-website-us-east-1.amazonaws.com",
         "s3-website-us-west-1.amazonaws.com",
@@ -2667,8 +2668,7 @@
         "co.je",
         "net.je",
         "of.je",
-        "org.je",
-        "s3-website-eu-west-1.amazonaws.com"
+        "org.je"
     ],
     "jm": [
         "jm"
