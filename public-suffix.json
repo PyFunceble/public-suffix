@@ -723,6 +723,7 @@
         "bc.ca",
         "blogspot.ca",
         "co.ca",
+        "gc.ca",
         "mb.ca",
         "nb.ca",
         "nf.ca",
@@ -859,7 +860,6 @@
         "edu.cn",
         "elb.amazonaws.com.cn",
         "fj.cn",
-        "gc.ca",
         "gd.cn",
         "gov.cn",
         "gs.cn",
@@ -1303,7 +1303,6 @@
         "s3-website-ap-northeast-1.amazonaws.com",
         "s3-website-ap-southeast-1.amazonaws.com",
         "s3-website-ap-southeast-2.amazonaws.com",
-        "s3-website-eu-west-1.amazonaws.com",
         "s3-website-sa-east-1.amazonaws.com",
         "s3-website-us-east-1.amazonaws.com",
         "s3-website-us-west-1.amazonaws.com",
@@ -2668,7 +2667,8 @@
         "co.je",
         "net.je",
         "of.je",
-        "org.je"
+        "org.je",
+        "s3-website-eu-west-1.amazonaws.com"
     ],
     "jm": [
         "jm"
