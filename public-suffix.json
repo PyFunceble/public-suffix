@@ -1153,7 +1153,6 @@
         "is-a-designer.com",
         "is-a-doctor.com",
         "is-a-financialadvisor.com",
-        "is-a-geek.com",
         "is-a-green.com",
         "is-a-guru.com",
         "is-a-hard-worker.com",
@@ -1847,6 +1846,7 @@
     ],
     "goog": [
         "cloud.goog",
+        "is-a-geek.com",
         "translate.goog"
     ],
     "gp": [
@@ -2387,6 +2387,7 @@
         "gov.it",
         "gr.it",
         "grosseto.it",
+        "hosting.myjino.ru",
         "iglesias-carbonia.it",
         "iglesiascarbonia.it",
         "im.it",
@@ -6289,6 +6290,7 @@
         "oppdal.no",
         "oppegard.no",
         "oppegård.no",
+        "org.zw",
         "orkanger.no",
         "orkdal.no",
         "orland.no",
@@ -7452,7 +7454,6 @@
         "gov.ru",
         "grozny.ru",
         "hb.cldmail.ru",
-        "hosting.myjino.ru",
         "int.ru",
         "jelastic.regruhosting.ru",
         "kalmykia.ru",
