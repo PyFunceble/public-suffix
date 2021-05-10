@@ -4643,7 +4643,8 @@
         "com.ky",
         "edu.ky",
         "gov.ky",
-        "net.ky"
+        "net.ky",
+        "org.ky"
     ],
     "kz": [
         "com.kz",
@@ -5321,7 +5322,6 @@
         "openair.museum",
         "oregon.museum",
         "oregontrail.museum",
-        "org.ky",
         "otago.museum",
         "oxford.museum",
         "pacific.museum",
@@ -6347,6 +6347,7 @@
         "royrvik.no",
         "ruovat.no",
         "rygge.no",
+        "ráhkkerávju.no",
         "ráisa.no",
         "råde.no",
         "råholt.no",
