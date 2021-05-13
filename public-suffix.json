@@ -409,7 +409,6 @@
         "webhop.biz"
     ],
     "bj": [
-        "asso.bj",
         "barreau.bj",
         "blogspot.bj",
         "gouv.bj"
@@ -774,6 +773,7 @@
     ],
     "ci": [
         "ac.ci",
+        "asso.bj",
         "asso.ci",
         "aéroport.ci",
         "co.ci",
