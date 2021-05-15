@@ -1702,6 +1702,9 @@
         "transurl.eu",
         "wellbeingzone.eu"
     ],
+    "eus": [
+        "user.party.eus"
+    ],
     "events": [
         "co.events"
     ],
@@ -5742,7 +5745,6 @@
         "u.channelsdvr.net",
         "uk.net",
         "uni5.net",
-        "user.party.eus",
         "user.srcf.net",
         "vpndns.net",
         "vps-host.net",
