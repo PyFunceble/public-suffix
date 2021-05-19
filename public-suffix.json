@@ -5819,7 +5819,6 @@
         "cistron.nl",
         "co.nl",
         "demon.nl",
-        "enterprisecloud.nu",
         "hosting-cluster.nl",
         "khplay.nl",
         "transurl.nl",
@@ -7628,8 +7627,7 @@
     "si": [
         "blogspot.si",
         "gitapp.si",
-        "gitpage.si",
-        "nom.si"
+        "gitpage.si"
     ],
     "site": [
         "barsy.site",
@@ -7643,6 +7641,7 @@
         "lelux.site",
         "loginline.site",
         "mintere.site",
+        "nom.si",
         "omniwe.site",
         "opensocial.site",
         "platformsh.site",
