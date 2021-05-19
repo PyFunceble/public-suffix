@@ -7627,7 +7627,8 @@
     "si": [
         "blogspot.si",
         "gitapp.si",
-        "gitpage.si"
+        "gitpage.si",
+        "nom.si"
     ],
     "site": [
         "barsy.site",
@@ -7641,7 +7642,6 @@
         "lelux.site",
         "loginline.site",
         "mintere.site",
-        "nom.si",
         "omniwe.site",
         "opensocial.site",
         "platformsh.site",
