@@ -1240,7 +1240,6 @@
         "nfshost.com",
         "no.com",
         "nodebalancer.linode.com",
-        "now-dns.top",
         "ocelot.mythic-beasts.com",
         "oci.customer-oci.com",
         "ocp.customer-oci.com",
@@ -1843,7 +1842,8 @@
         "com.gn",
         "edu.gn",
         "gov.gn",
-        "net.gn"
+        "net.gn",
+        "org.gn"
     ],
     "goog": [
         "cloud.goog",
@@ -1916,7 +1916,6 @@
         "ltd.hk",
         "net.hk",
         "nym.hk",
-        "org.gn",
         "org.hk",
         "secaas.hk",
         "xn--55qx5d.hk",
