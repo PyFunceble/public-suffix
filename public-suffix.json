@@ -387,7 +387,6 @@
     ],
     "bi": [
         "co.bi",
-        "com.bi",
         "edu.bi",
         "or.bi",
         "org.bi"
@@ -854,6 +853,7 @@
         "bj.cn",
         "cn-north-1.eb.amazonaws.com.cn",
         "cn-northwest-1.eb.amazonaws.com.cn",
+        "com.bi",
         "com.cn",
         "compute.amazonaws.com.cn",
         "cq.cn",
