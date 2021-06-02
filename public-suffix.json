@@ -743,6 +743,7 @@
     ],
     "cc": [
         "cloudns.cc",
+        "csx.cc",
         "fantasyleague.cc",
         "ftpaccess.cc",
         "game-server.cc",
@@ -5623,7 +5624,6 @@
         "cloudycluster.net",
         "community-pro.net",
         "cryptonomic.net",
-        "csx.cc",
         "dattolocal.net",
         "ddns.net",
         "debian.net",
