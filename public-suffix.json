@@ -2198,6 +2198,7 @@
         "sys.qcx.io",
         "telebit.io",
         "uk0.bigv.io",
+        "upaas.kazteleport.kz",
         "utwente.io",
         "vaporcloud.io",
         "virtualserver.io",
@@ -4657,8 +4658,7 @@
         "mil.kz",
         "net.kz",
         "nym.kz",
-        "org.kz",
-        "upaas.kazteleport.kz"
+        "org.kz"
     ],
     "la": [
         "bnr.la",
