@@ -1150,6 +1150,7 @@
         "is-a-cpa.com",
         "is-a-cubicle-slave.com",
         "is-a-democrat.com",
+        "is-a-designer.com",
         "is-a-doctor.com",
         "is-a-financialadvisor.com",
         "is-a-geek.com",
@@ -7795,7 +7796,6 @@
         "org.sy"
     ],
     "systems": [
-        "is-a-designer.com",
         "knightpoint.systems"
     ],
     "sz": [
