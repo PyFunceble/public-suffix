@@ -181,8 +181,7 @@
         "run.app",
         "telebit.app",
         "vercel.app",
-        "web.app",
-        "wnext.app"
+        "web.app"
     ],
     "ar": [
         "blogspot.com.ar",
@@ -5760,6 +5759,7 @@
         "west1-us.cloudjiffy.net",
         "westeurope.azurestaticapps.net",
         "westus2.azurestaticapps.net",
+        "wnext.app",
         "yandexcloud.net",
         "za.net"
     ],
