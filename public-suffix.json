@@ -2333,7 +2333,6 @@
         "chieti.it",
         "ci.it",
         "cl.it",
-        "cloud.jelastic.open.tim.it",
         "cn.it",
         "co.it",
         "como.it",
@@ -6773,6 +6772,7 @@
         "org.nr"
     ],
     "nu": [
+        "cloud.jelastic.open.tim.it",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
@@ -8515,6 +8515,7 @@
         "com.zm",
         "edu.zm",
         "gov.zm",
+        "info.zm",
         "mil.zm",
         "net.zm",
         "org.zm",
@@ -8530,7 +8531,6 @@
         "ac.zw",
         "co.zw",
         "gov.zw",
-        "info.zm",
         "mil.zw",
         "org.zw"
     ],
