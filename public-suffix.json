@@ -1665,6 +1665,7 @@
         "eun.eg",
         "gov.eg",
         "mil.eg",
+        "mypep.link",
         "name.eg",
         "net.eg",
         "org.eg",
@@ -4705,8 +4706,7 @@
     ],
     "link": [
         "cyon.link",
-        "dweb.link",
-        "mypep.link"
+        "dweb.link"
     ],
     "lk": [
         "ac.lk",
@@ -6775,6 +6775,7 @@
         "org.nr"
     ],
     "nu": [
+        "blogspot.com.eg",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
