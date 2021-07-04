@@ -769,8 +769,7 @@
         "gotdns.ch",
         "lima-city.ch",
         "linkyard-cloud.ch",
-        "square7.ch",
-        "svc.firenet.ch"
+        "square7.ch"
     ],
     "ci": [
         "ac.ci",
@@ -1812,7 +1811,8 @@
         "kaas.gg",
         "net.gg",
         "org.gg",
-        "panel.gg"
+        "panel.gg",
+        "svc.firenet.ch"
     ],
     "gh": [
         "com.gh",
