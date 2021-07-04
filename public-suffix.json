@@ -1823,6 +1823,7 @@
     ],
     "gi": [
         "com.gi",
+        "edu.gi",
         "gov.gi",
         "ltd.gi",
         "mod.gi",
@@ -1910,7 +1911,6 @@
     "hk": [
         "blogspot.hk",
         "com.hk",
-        "edu.gi",
         "edu.hk",
         "gov.hk",
         "idv.hk",
@@ -8500,7 +8500,6 @@
         "gov.za",
         "grondar.za",
         "law.za",
-        "mil.za",
         "net.za",
         "ngo.za",
         "nic.za",
@@ -8534,6 +8533,7 @@
         "ac.zw",
         "co.zw",
         "gov.zw",
+        "mil.za",
         "mil.zw",
         "org.zw"
     ],
