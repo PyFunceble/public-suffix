@@ -1578,6 +1578,7 @@
         "workers.dev"
     ],
     "digital": [
+        "bir.ru",
         "cloudapps.digital",
         "london.cloudapps.digital"
     ],
@@ -1621,7 +1622,8 @@
         "tm.dz"
     ],
     "earth": [
-        "bzz.dapps.earth"
+        "bzz.dapps.earth",
+        "dapps.earth"
     ],
     "ec": [
         "com.ec",
@@ -5628,7 +5630,6 @@
         "cloudycluster.net",
         "community-pro.net",
         "cryptonomic.net",
-        "dapps.earth",
         "dattolocal.net",
         "ddns.net",
         "debian.net",
@@ -7452,7 +7453,6 @@
         "ac.ru",
         "adygeya.ru",
         "bashkiria.ru",
-        "bir.ru",
         "blogspot.ru",
         "cbg.ru",
         "com.ru",
