@@ -276,6 +276,7 @@
     ],
     "ax": [
         "be.ax",
+        "cat.ax",
         "es.ax",
         "eu.ax",
         "gg.ax",
@@ -6774,7 +6775,6 @@
         "org.nr"
     ],
     "nu": [
-        "cat.ax",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
@@ -6887,6 +6887,7 @@
         "freedesktop.org",
         "from-me.org",
         "game-host.org",
+        "ghost.io",
         "go.dyndns.org",
         "gotdns.org",
         "gr.eu.org",
