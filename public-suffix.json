@@ -7505,7 +7505,6 @@
         "ac.rw",
         "co.rw",
         "coop.rw",
-        "edu.ws",
         "gov.rw",
         "mil.rw",
         "net.rw",
@@ -7932,6 +7931,7 @@
         "web.tr"
     ],
     "trade": [
+        "enterprisecloud.nu",
         "ybo.trade"
     ],
     "tt": [
