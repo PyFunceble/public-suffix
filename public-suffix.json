@@ -973,7 +973,6 @@
         "blogsyte.com",
         "bloxcms.com",
         "bounty-full.com",
-        "boutir.com",
         "bplaced.com",
         "br.com",
         "builtwithdark.com",
@@ -1027,6 +1026,7 @@
         "dyndns-home.com",
         "dyndns-ip.com",
         "dyndns-mail.com",
+        "dyndns-office.com",
         "dyndns-pics.com",
         "dyndns-remote.com",
         "dyndns-server.com",
@@ -1642,6 +1642,7 @@
         "git-pages.rit.edu"
     ],
     "education": [
+        "boutir.com",
         "co.education"
     ],
     "ee": [
@@ -8464,7 +8465,6 @@
         "advisor.ws",
         "cloud66.ws",
         "com.ws",
-        "dyndns-office.com",
         "dyndns.ws",
         "edu.ws",
         "gov.ws",
