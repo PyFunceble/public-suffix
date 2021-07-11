@@ -340,6 +340,7 @@
     "bg": [
         "0.bg",
         "1.bg",
+        "2.bg",
         "3.bg",
         "4.bg",
         "5.bg",
@@ -377,7 +378,6 @@
         "z.bg"
     ],
     "bh": [
-        "2.bg",
         "com.bh",
         "edu.bh",
         "gov.bh",
@@ -4823,6 +4823,7 @@
         "dscloud.me",
         "edgestack.me",
         "edu.me",
+        "enterprisecloud.nu",
         "filegear-au.me",
         "filegear-de.me",
         "filegear-gb.me",
