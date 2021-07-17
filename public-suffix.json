@@ -4880,7 +4880,6 @@
     "mk": [
         "blogspot.mk",
         "com.mk",
-        "dnsdojo.com",
         "edu.mk",
         "gov.mk",
         "inf.mk",
@@ -7582,6 +7581,7 @@
         "komvux.se",
         "l.se",
         "lanbib.se",
+        "m.se",
         "n.se",
         "naturbruksgymn.se",
         "o.se",
@@ -8534,7 +8534,6 @@
         "ac.zw",
         "co.zw",
         "gov.zw",
-        "m.se",
         "mil.zw",
         "org.zw"
     ],
