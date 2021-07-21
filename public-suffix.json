@@ -2158,7 +2158,6 @@
         "drud.io",
         "dyn53.io",
         "dyndns.dappnode.io",
-        "editorx.io",
         "enonic.io",
         "fh-muenster.io",
         "g.vbrplsbx.io",
@@ -6775,6 +6774,7 @@
         "org.nr"
     ],
     "nu": [
+        "editorx.io",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
