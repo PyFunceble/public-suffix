@@ -1420,6 +1420,7 @@
     ],
     "community": [
         "myforum.community",
+        "nog.community",
         "ravendb.community"
     ],
     "cool": [
@@ -2144,6 +2145,7 @@
         "backyards.banzaicloud.io",
         "barsy.io",
         "basicserver.io",
+        "bitbucket.io",
         "bluebite.io",
         "boxfuse.io",
         "browsersafetymark.io",
@@ -7581,6 +7583,7 @@
         "h.se",
         "i.se",
         "iopsys.se",
+        "itcouldbewor.se",
         "k.se",
         "komforb.se",
         "kommunalforbund.se",
@@ -7724,6 +7727,7 @@
         "store.st"
     ],
     "store": [
+        "sellfy.store",
         "shopware.store",
         "storebase.store"
     ],
