@@ -4822,6 +4822,7 @@
         "router.management"
     ],
     "marketing": [
+        "from.marketing",
         "with.marketing"
     ],
     "mc": [
@@ -7656,7 +7657,6 @@
         "com.sh",
         "ent.platform.sh",
         "eu.platform.sh",
-        "from.marketing",
         "gov.sh",
         "hashbang.sh",
         "mil.sh",
