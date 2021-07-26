@@ -1130,6 +1130,7 @@
         "googleapis.com",
         "googlecode.com",
         "gotdns.com",
+        "gotpantheon.com",
         "gr.com",
         "health-carereform.com",
         "herokuapp.com",
@@ -1498,7 +1499,6 @@
         "2ix.de",
         "4lima.de",
         "barsy.de",
-        "bir.ru",
         "blogspot.de",
         "bplaced.de",
         "com.de",
@@ -1922,7 +1922,6 @@
         "edu.gy",
         "gov.gy",
         "net.gy",
-        "nym.gy",
         "org.gy"
     ],
     "health": [
@@ -2188,7 +2187,6 @@
         "ghost.io",
         "github.io",
         "gitlab.io",
-        "gotpantheon.com",
         "hasura-app.io",
         "hostyhosting.io",
         "hzc.io",
@@ -6815,6 +6813,7 @@
         "merseine.nu",
         "mine.nu",
         "nom.nu",
+        "nym.gy",
         "shacknet.nu"
     ],
     "nz": [
