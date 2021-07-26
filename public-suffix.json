@@ -450,7 +450,6 @@
         "empresa.bo",
         "gob.bo",
         "indigena.bo",
-        "industria.bo",
         "info.bo",
         "int.bo",
         "medicina.bo",
@@ -879,6 +878,7 @@
         "hk.cn",
         "hl.cn",
         "hn.cn",
+        "industria.bo",
         "instantcloud.cn",
         "jl.cn",
         "js.cn",
@@ -2124,7 +2124,6 @@
         "org.in",
         "res.in",
         "supabase.in",
-        "valleeaoste.it",
         "web.in"
     ],
     "info": [
@@ -4849,7 +4848,6 @@
         "couk.me",
         "daplie.me",
         "ddns.me",
-        "diskstation.me",
         "dnsfor.me",
         "dscloud.me",
         "edgestack.me",
@@ -6360,7 +6358,6 @@
         "porsgrunn.no",
         "porsáŋgu.no",
         "priv.no",
-        "pulawy.pl",
         "rade.no",
         "radoy.no",
         "radøy.no",
@@ -6815,6 +6812,7 @@
         "org.nr"
     ],
     "nu": [
+        "diskstation.me",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
