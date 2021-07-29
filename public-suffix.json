@@ -1046,6 +1046,7 @@
         "dynns.com",
         "elasticbeanstalk.com",
         "elb.amazonaws.com",
+        "enterprisecloud.nu",
         "est-a-la-maison.com",
         "est-a-la-masion.com",
         "est-le-patron.com",
@@ -4356,6 +4357,7 @@
         "wassamu.hokkaido.jp",
         "watarai.mie.jp",
         "watari.miyagi.jp",
+        "wazuka.kyoto.jp",
         "xn--0trq7p7nn.jp",
         "xn--1ctwo.jp",
         "xn--1lqs03n.jp",
@@ -4668,8 +4670,7 @@
         "gov.kw",
         "ind.kw",
         "net.kw",
-        "org.kw",
-        "wazuka.kyoto.jp"
+        "org.kw"
     ],
     "ky": [
         "com.ky",
