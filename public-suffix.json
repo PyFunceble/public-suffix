@@ -7547,7 +7547,6 @@
         "ac.rw",
         "co.rw",
         "coop.rw",
-        "gov.rw",
         "mil.rw",
         "net.rw",
         "org.rw"
@@ -7839,6 +7838,7 @@
     "sy": [
         "com.sy",
         "edu.sy",
+        "gov.rw",
         "gov.sy",
         "mil.sy",
         "net.sy",
