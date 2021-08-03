@@ -2871,7 +2871,6 @@
         "echizen.fukui.jp",
         "ed.jp",
         "edogawa.tokyo.jp",
-        "edu.kp",
         "ehime.jp",
         "eiheiji.fukui.jp",
         "embetsu.hokkaido.jp",
@@ -4621,6 +4620,7 @@
     ],
     "kp": [
         "com.kp",
+        "edu.kp",
         "gov.kp",
         "org.kp",
         "rep.kp",
