@@ -2871,6 +2871,7 @@
         "echizen.fukui.jp",
         "ed.jp",
         "edogawa.tokyo.jp",
+        "edu.kp",
         "ehime.jp",
         "eiheiji.fukui.jp",
         "embetsu.hokkaido.jp",
@@ -4620,7 +4621,6 @@
     ],
     "kp": [
         "com.kp",
-        "edu.kp",
         "gov.kp",
         "org.kp",
         "rep.kp",
@@ -7566,7 +7566,6 @@
         "for.sale"
     ],
     "sb": [
-        "cc.ca.us",
         "com.sb",
         "edu.sb",
         "gov.sb",
@@ -8187,6 +8186,7 @@
         "cc.ar.us",
         "cc.as.us",
         "cc.az.us",
+        "cc.ca.us",
         "cc.co.us",
         "cc.ct.us",
         "cc.dc.us",
@@ -8579,7 +8579,6 @@
     ],
     "zw": [
         "ac.zw",
-        "cc.ca.us",
         "co.zw",
         "gov.zw",
         "mil.zw",
