@@ -490,6 +490,7 @@
         "am.br",
         "am.gov.br",
         "am.leg.br",
+        "anani.br",
         "ap.gov.br",
         "ap.leg.br",
         "aparecida.br",
@@ -780,7 +781,6 @@
     ],
     "ci": [
         "ac.ci",
-        "anani.br",
         "asso.ci",
         "aéroport.ci",
         "co.ci",
@@ -1019,7 +1019,6 @@
         "ditchyourip.com",
         "dnsalias.com",
         "dnsdojo.com",
-        "dnsiskinky.com",
         "doesntexist.com",
         "dontexist.com",
         "doomdns.com",
@@ -6813,6 +6812,7 @@
         "org.nr"
     ],
     "nu": [
+        "dnsiskinky.com",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
