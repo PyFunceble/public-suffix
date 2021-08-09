@@ -394,6 +394,7 @@
     ],
     "biz": [
         "cloudns.biz",
+        "dscloud.biz",
         "dyndns.biz",
         "for-better.biz",
         "for-more.biz",
@@ -950,6 +951,7 @@
         "ap-southeast-1.elasticbeanstalk.com",
         "ap-southeast-2.elasticbeanstalk.com",
         "api.stdlib.com",
+        "app.lmpm.com",
         "app.render.com",
         "appchizi.com",
         "applinzi.com",
@@ -5581,7 +5583,8 @@
         "school.na",
         "tv.na",
         "us.na",
-        "ws.na"
+        "ws.na",
+        "xn--asky-ira.no"
     ],
     "name": [
         "forgot.her.name",
@@ -5640,7 +5643,6 @@
         "dnsup.net",
         "does-it.net",
         "dontexist.net",
-        "dscloud.biz",
         "dsmynas.net",
         "dynalias.net",
         "dynathome.net",
@@ -6782,7 +6784,6 @@
         "org.nr"
     ],
     "nu": [
-        "app.lmpm.com",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
