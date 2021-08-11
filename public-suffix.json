@@ -806,6 +806,7 @@
         "banzai.cloud",
         "ca.reclaim.cloud",
         "ch.trendhosting.cloud",
+        "cs.keliweb.cloud",
         "de.trendhosting.cloud",
         "diadem.cloud",
         "elementor.cloud",
@@ -6819,7 +6820,6 @@
         "pro.om"
     ],
     "one": [
-        "cs.keliweb.cloud",
         "for.one",
         "homelink.one",
         "onred.one",
