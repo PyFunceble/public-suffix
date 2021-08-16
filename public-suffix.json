@@ -1515,7 +1515,6 @@
         "dyndns.ddnss.de",
         "dyndns1.de",
         "dynvpn.de",
-        "enterprisecloud.nu",
         "firewall-gateway.de",
         "frusky.de",
         "fuettertdasnetz.de",
@@ -3966,7 +3965,6 @@
         "semine.miyagi.jp",
         "sendai.jp",
         "sennan.osaka.jp",
-        "sera.hiroshima.jp",
         "seranishi.hiroshima.jp",
         "setagaya.tokyo.jp",
         "seto.aichi.jp",
@@ -4899,7 +4897,8 @@
         "gov.ml",
         "net.ml",
         "org.ml",
-        "presse.ml"
+        "presse.ml",
+        "sera.hiroshima.jp"
     ],
     "mm": [
         "mm"
