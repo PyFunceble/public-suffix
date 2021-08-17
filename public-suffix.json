@@ -6055,7 +6055,6 @@
         "gs.of.no",
         "gs.ol.no",
         "gs.oslo.no",
-        "gs.rl.no",
         "gs.sf.no",
         "gs.st.no",
         "gs.svalbard.no",
@@ -8533,6 +8532,7 @@
         "ac.zw",
         "co.zw",
         "gov.zw",
+        "gs.rl.no",
         "mil.zw",
         "org.zw"
     ],
