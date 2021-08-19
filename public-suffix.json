@@ -2933,7 +2933,6 @@
         "gotemba.shizuoka.jp",
         "goto.nagasaki.jp",
         "gotsu.shimane.jp",
-        "gov.mr",
         "gr.jp",
         "gujo.gifu.jp",
         "gunma.jp",
@@ -5536,7 +5535,8 @@
         "gov.mw",
         "int.mw",
         "museum.mw",
-        "net.mw"
+        "net.mw",
+        "org.mw"
     ],
     "mx": [
         "blogspot.mx",
@@ -6306,7 +6306,6 @@
         "oppdal.no",
         "oppegard.no",
         "oppegård.no",
-        "org.mw",
         "orkanger.no",
         "orkdal.no",
         "orland.no",
