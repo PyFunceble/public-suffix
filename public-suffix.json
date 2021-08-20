@@ -1786,6 +1786,7 @@
         "freebox-os.fr",
         "freeboxos.fr",
         "geometre-expert.fr",
+        "gotdns.org",
         "goupile.fr",
         "gouv.fr",
         "greta.fr",
@@ -1840,8 +1841,7 @@
         "gov.gi",
         "ltd.gi",
         "mod.gi",
-        "org.gi",
-        "org.hk"
+        "org.gi"
     ],
     "gl": [
         "biz.gl",
@@ -6899,7 +6899,6 @@
         "from-me.org",
         "game-host.org",
         "go.dyndns.org",
-        "gotdns.org",
         "gr.eu.org",
         "hepforge.org",
         "hk.org",
