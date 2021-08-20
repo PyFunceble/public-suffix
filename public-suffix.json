@@ -419,7 +419,6 @@
     "bm": [
         "com.bm",
         "edu.bm",
-        "gov.bm",
         "net.bm",
         "org.bm"
     ],
@@ -557,6 +556,7 @@
         "go.gov.br",
         "go.leg.br",
         "goiania.br",
+        "gov.bm",
         "gov.br",
         "gru.br",
         "imb.br",
@@ -818,7 +818,6 @@
         "jele.cloud",
         "jotelulu.cloud",
         "keliweb.cloud",
-        "kicks-ass.org",
         "kuleuven.cloud",
         "linkyard.cloud",
         "magentosite.cloud",
@@ -6941,6 +6940,7 @@
         "it.eu.org",
         "jp.eu.org",
         "js.org",
+        "kicks-ass.org",
         "kr.eu.org",
         "lt.eu.org",
         "lu.eu.org",
