@@ -1359,6 +1359,7 @@
         "servecounterstrike.com",
         "serveexchange.com",
         "serveftp.com",
+        "servegame.com",
         "servehalflife.com",
         "servehttp.com",
         "servehumour.com",
@@ -8474,10 +8475,6 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
-    ],
-    "xn--p1acf": [
-        "servegame.com",
-        "xn--h1ahn.xn--p1acf"
     ],
     "xyz": [
         "blogsite.xyz",
