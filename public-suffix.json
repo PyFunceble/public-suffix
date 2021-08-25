@@ -1144,7 +1144,6 @@
         "hotelwithflight.com",
         "hu.com",
         "iamallama.com",
-        "idnblogger.com",
         "impertrix.com",
         "impertrixcdn.com",
         "indowapblog.com",
@@ -6111,7 +6110,6 @@
         "hole.no",
         "holmestrand.no",
         "holtalen.no",
-        "holtålen.no",
         "honefoss.no",
         "hornindal.no",
         "horten.no",
@@ -6790,6 +6788,7 @@
     ],
     "nu": [
         "enterprisecloud.nu",
+        "idnblogger.com",
         "merseine.nu",
         "mine.nu",
         "shacknet.nu"
@@ -7393,8 +7392,7 @@
         "go.pw",
         "ne.pw",
         "or.pw",
-        "x443.pw",
-        "xn--uc0atv.tw"
+        "x443.pw"
     ],
     "py": [
         "com.py",
@@ -7984,8 +7982,10 @@
         "org.tw",
         "url.tw",
         "xn--czrw28b.tw",
+        "xn--uc0atv.tw",
         "xn--zf0ao64a.tw",
         "商業.tw",
+        "組織.tw",
         "網路.tw"
     ],
     "tz": [
