@@ -1264,6 +1264,7 @@
         "orsites.com",
         "outsystemscloud.com",
         "ownprovider.com",
+        "paas.hosted-by-previder.com",
         "paas.massivegrid.com",
         "pagefrontapp.com",
         "pages.wiardweb.com",
@@ -4927,8 +4928,7 @@
     ],
     "mom": [
         "and.mom",
-        "for.mom",
-        "paas.hosted-by-previder.com"
+        "for.mom"
     ],
     "mp": [
         "ju.mp"
