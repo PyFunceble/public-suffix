@@ -1724,7 +1724,8 @@
         "user.party.eus"
     ],
     "events": [
-        "co.events"
+        "co.events",
+        "noop.app"
     ],
     "faith": [
         "ybo.faith"
@@ -4392,7 +4393,6 @@
         "xn--uisz3g.jp",
         "xn--uuwu58a.jp",
         "xn--vgu402c.jp",
-        "xn--wcvs22d.hk",
         "xn--zbx025d.jp",
         "yabu.hyogo.jp",
         "yabuki.fukushima.jp",
