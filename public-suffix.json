@@ -583,6 +583,7 @@
         "mg.gov.br",
         "mg.leg.br",
         "mil.br",
+        "mil.cn",
         "morena.br",
         "mp.br",
         "ms.gov.br",
@@ -1420,7 +1421,6 @@
         "wpmucdn.com",
         "writesthisblog.com",
         "x.mythic-beasts.com",
-        "x443.pw",
         "xen.prgmr.com",
         "xnbay.com",
         "yali.mythic-beasts.com",
@@ -7393,7 +7393,8 @@
         "ed.pw",
         "go.pw",
         "ne.pw",
-        "or.pw"
+        "or.pw",
+        "x443.pw"
     ],
     "py": [
         "com.py",
