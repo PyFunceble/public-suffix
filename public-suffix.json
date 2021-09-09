@@ -218,7 +218,6 @@
         "biz.at",
         "blogspot.co.at",
         "co.at",
-        "elementor.cool",
         "ex.futurecms.at",
         "ex.ortsinfo.at",
         "futurecms.at",
@@ -1434,7 +1433,8 @@
         "ravendb.community"
     ],
     "cool": [
-        "de.cool"
+        "de.cool",
+        "elementor.cool"
     ],
     "cr": [
         "ac.cr",
