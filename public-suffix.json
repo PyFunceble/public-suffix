@@ -775,7 +775,6 @@
         "gotdns.ch",
         "lima-city.ch",
         "linkyard-cloud.ch",
-        "localzone.xyz",
         "myspreadshop.ch",
         "square7.ch",
         "svc.firenet.ch"
@@ -1880,7 +1879,8 @@
         "edu.gp",
         "mobi.gp",
         "net.gp",
-        "org.gp"
+        "org.gp",
+        "org.hk"
     ],
     "gr": [
         "blogspot.gr",
@@ -8498,6 +8498,7 @@
     "xyz": [
         "blogsite.xyz",
         "crafting.xyz",
+        "localzone.xyz",
         "telebit.xyz",
         "zapto.xyz"
     ],
