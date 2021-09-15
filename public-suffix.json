@@ -639,7 +639,6 @@
         "rr.gov.br",
         "rr.leg.br",
         "rs.gov.br",
-        "rs.leg.br",
         "salvador.br",
         "sampa.br",
         "santamaria.br",
@@ -8493,6 +8492,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--p1acf": [
+        "rs.leg.br",
+        "xn--80aaa0cvac.xn--p1acf"
     ],
     "xyz": [
         "blogsite.xyz",
