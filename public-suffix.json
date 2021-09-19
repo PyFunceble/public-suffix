@@ -7589,6 +7589,7 @@
         "f.se",
         "fh.se",
         "fhsk.se",
+        "fhv.se",
         "g.se",
         "h.se",
         "i.se",
@@ -7801,7 +7802,6 @@
         "barsy.support"
     ],
     "sv": [
-        "com.sv",
         "edu.sv",
         "gob.sv",
         "org.sv",
@@ -8493,10 +8493,6 @@
         "net.ws",
         "org.ws"
     ],
-    "xn--j6w193g": [
-        "fhv.se",
-        "xn--uc0atv.xn--j6w193g"
-    ],
     "xyz": [
         "blogsite.xyz",
         "crafting.xyz",
@@ -8558,6 +8554,7 @@
     "zw": [
         "ac.zw",
         "co.zw",
+        "com.sv",
         "gov.zw",
         "mil.zw",
         "org.zw"
