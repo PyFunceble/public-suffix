@@ -995,7 +995,6 @@
         "cloudcontrolled.com",
         "cn.com",
         "cns.joyent.com",
-        "co.com",
         "codespot.com",
         "compute-1.amazonaws.com",
         "compute.amazonaws.com",
@@ -1604,6 +1603,7 @@
     "dk": [
         "biz.dk",
         "blogspot.dk",
+        "co.com",
         "co.dk",
         "firm.dk",
         "myspreadshop.dk",
@@ -2181,6 +2181,7 @@
         "g.vbrplsbx.io",
         "ghost.io",
         "github.io",
+        "gitlab.io",
         "hasura-app.io",
         "hostyhosting.io",
         "hzc.io",
@@ -6794,7 +6795,6 @@
     ],
     "nu": [
         "enterprisecloud.nu",
-        "gitlab.io",
         "merseine.nu",
         "mine.nu",
         "shacknet.nu"
