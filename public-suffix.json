@@ -1853,7 +1853,6 @@
     ],
     "gl": [
         "biz.gl",
-        "co.gl",
         "com.gl",
         "edu.gl",
         "net.gl",
@@ -1928,6 +1927,7 @@
     ],
     "hk": [
         "blogspot.hk",
+        "co.gl",
         "com.hk",
         "edu.hk",
         "gov.hk",
