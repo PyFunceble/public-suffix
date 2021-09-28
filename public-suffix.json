@@ -3095,7 +3095,6 @@
         "ichinomiya.aichi.jp",
         "ichinomiya.chiba.jp",
         "ichinoseki.iwate.jp",
-        "id.lv",
         "ide.kyoto.jp",
         "iheya.okinawa.jp",
         "iida.nagano.jp",
@@ -4785,6 +4784,7 @@
         "conf.lv",
         "edu.lv",
         "gov.lv",
+        "id.lv",
         "mil.lv",
         "net.lv",
         "org.lv"
