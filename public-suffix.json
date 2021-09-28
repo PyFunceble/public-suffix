@@ -681,6 +681,7 @@
         "com.bs",
         "edu.bs",
         "gov.bs",
+        "jls-sto2.elastx.net",
         "net.bs",
         "org.bs",
         "we.bs"
@@ -5704,7 +5705,6 @@
         "jelastic.saveincloud.net",
         "jelastic.tsukaeru.net",
         "jls-sto1.elastx.net",
-        "jls-sto2.elastx.net",
         "jls-sto3.elastx.net",
         "jp.net",
         "kicks-ass.net",
@@ -5775,6 +5775,7 @@
         "user.srcf.net",
         "vpndns.net",
         "vps-host.net",
+        "we.bs",
         "webhop.net",
         "webpaas.ovh.net",
         "website.yandexcloud.net",
