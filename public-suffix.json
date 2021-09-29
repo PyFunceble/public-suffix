@@ -7915,6 +7915,9 @@
         "rdv.to",
         "vpnplus.to"
     ],
+    "today": [
+        "prequalifyme.today"
+    ],
     "top": [
         "now-dns.top",
         "ntdll.top"
