@@ -1559,7 +1559,6 @@
         "myspreadshop.de",
         "pages.it.hs-heilbronn.de",
         "schulserver.de",
-        "spdns.de",
         "square7.de",
         "svn-repos.de",
         "syno-ds.de",
@@ -8471,7 +8470,8 @@
         "edu.vu",
         "me.vu",
         "net.vu",
-        "org.vu"
+        "org.vu",
+        "spdns.de"
     ],
     "win": [
         "that.win"
