@@ -5781,7 +5781,8 @@
         "westeurope.azurestaticapps.net",
         "westus2.azurestaticapps.net",
         "yandexcloud.net",
-        "za.net"
+        "za.net",
+        "zapto.xyz"
     ],
     "network": [
         "alces.network",
@@ -8038,7 +8039,6 @@
         "in.ua",
         "inf.ua",
         "ivano-frankivsk.ua",
-        "k12.vi",
         "kh.ua",
         "kharkiv.ua",
         "kharkov.ua",
@@ -8496,8 +8496,7 @@
         "blogsite.xyz",
         "crafting.xyz",
         "localzone.xyz",
-        "telebit.xyz",
-        "zapto.xyz"
+        "telebit.xyz"
     ],
     "ye": [
         "com.ye",
