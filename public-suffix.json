@@ -1308,7 +1308,6 @@
         "s3-ap-southeast-1.amazonaws.com",
         "s3-ap-southeast-2.amazonaws.com",
         "s3-ca-central-1.amazonaws.com",
-        "s3-eu-central-1.amazonaws.com",
         "s3-eu-west-1.amazonaws.com",
         "s3-eu-west-2.amazonaws.com",
         "s3-eu-west-3.amazonaws.com",
@@ -6832,7 +6831,6 @@
         "pro.om"
     ],
     "one": [
-        "ex.ortsinfo.at",
         "for.one",
         "homelink.one",
         "onred.one",
@@ -7506,6 +7504,7 @@
         "pp.ru",
         "pyatigorsk.ru",
         "ras.ru",
+        "s3-eu-central-1.amazonaws.com",
         "spb.ru",
         "spectrum.myjino.ru",
         "test.ru",
