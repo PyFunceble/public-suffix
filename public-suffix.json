@@ -4663,6 +4663,7 @@
         "emb.kw",
         "gov.kw",
         "ind.kw",
+        "net.kw",
         "org.kw"
     ],
     "ky": [
@@ -5817,7 +5818,6 @@
         "mil.ng",
         "mobi.ng",
         "name.ng",
-        "net.kw",
         "net.ng",
         "ngo.ng",
         "org.ng",
