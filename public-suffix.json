@@ -1866,6 +1866,7 @@
         "com.gn",
         "edu.gn",
         "gov.gn",
+        "net.gn",
         "org.gn"
     ],
     "goog": [
@@ -1935,7 +1936,6 @@
         "idv.hk",
         "inc.hk",
         "ltd.hk",
-        "net.gn",
         "net.hk",
         "org.hk",
         "secaas.hk",
