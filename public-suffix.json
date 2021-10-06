@@ -1821,6 +1821,7 @@
     ],
     "ge": [
         "com.ge",
+        "edu.ge",
         "gov.ge",
         "mil.ge",
         "net.ge",
@@ -1930,7 +1931,6 @@
     "hk": [
         "blogspot.hk",
         "com.hk",
-        "edu.ge",
         "edu.hk",
         "gov.hk",
         "idv.hk",
