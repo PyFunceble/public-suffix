@@ -566,7 +566,6 @@
         "imb.br",
         "ind.br",
         "inf.br",
-        "int.ci",
         "jab.br",
         "jampa.br",
         "jdf.br",
@@ -1822,7 +1821,6 @@
     ],
     "ge": [
         "com.ge",
-        "edu.ge",
         "gov.ge",
         "mil.ge",
         "net.ge",
@@ -1932,6 +1930,7 @@
     "hk": [
         "blogspot.hk",
         "com.hk",
+        "edu.ge",
         "edu.hk",
         "gov.hk",
         "idv.hk",
@@ -6654,6 +6653,7 @@
         "xn--kvfjord-nxa.no",
         "xn--kvitsy-fya.no",
         "xn--kvnangen-k0a.no",
+        "xn--l-1fa.no",
         "xn--laheadju-7ya.no",
         "xn--langevg-jxa.no",
         "xn--ldingen-q1a.no",
