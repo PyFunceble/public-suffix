@@ -8548,6 +8548,7 @@
     ],
     "zone": [
         "cloud66.zone",
+        "fireweb.app",
         "hs.zone",
         "lima.zone",
         "triton.zone"
