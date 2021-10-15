@@ -845,6 +845,7 @@
     ],
     "club": [
         "barsy.club",
+        "cloudns.club",
         "jele.club",
         "pony.club"
     ],
@@ -5262,6 +5263,7 @@
         "lans.museum",
         "larsson.museum",
         "lewismiller.museum",
+        "lincoln.museum",
         "linz.museum",
         "living.museum",
         "livinghistory.museum",
@@ -5581,7 +5583,6 @@
         "co.mz",
         "edu.mz",
         "gov.mz",
-        "lincoln.museum",
         "mil.mz",
         "net.mz",
         "org.mz"
@@ -6876,7 +6877,6 @@
         "certmgr.org",
         "ch.eu.org",
         "cloud.fedoraproject.org",
-        "cloudns.club",
         "cloudns.org",
         "cn.eu.org",
         "collegefan.org",
