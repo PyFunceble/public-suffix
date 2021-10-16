@@ -7052,7 +7052,8 @@
         "hlx3.page",
         "magnet.page",
         "pdns.page",
-        "plesk.page"
+        "plesk.page",
+        "prvcy.page"
     ],
     "party": [
         "ybo.party"
@@ -7836,8 +7837,7 @@
     "sz": [
         "ac.sz",
         "co.sz",
-        "org.sz",
-        "xn--12cfi8ixb8l.xn--o3cw4h"
+        "org.sz"
     ],
     "tc": [
         "ch.tc",
@@ -8148,7 +8148,6 @@
         "org.uk",
         "plc.uk",
         "police.uk",
-        "prvcy.page",
         "pymnt.uk",
         "raffleentry.org.uk",
         "sch.uk",
