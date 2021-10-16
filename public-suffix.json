@@ -6850,8 +6850,7 @@
     "online": [
         "barsy.online",
         "eero-stage.online",
-        "eero.online",
-        "wpmudev.host"
+        "eero.online"
     ],
     "org": [
         "accesscam.org",
