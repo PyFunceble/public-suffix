@@ -1878,6 +1878,7 @@
     ],
     "goog": [
         "cloud.goog",
+        "sekd1.beebyteapp.io",
         "translate.goog",
         "usercontent.goog"
     ],
@@ -2219,7 +2220,6 @@
         "resindevice.io",
         "s5y.io",
         "sandcats.io",
-        "sekd1.beebyteapp.io",
         "shiftcrypto.io",
         "shiftedit.io",
         "shw.io",
@@ -6809,7 +6809,8 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "shacknet.nu"
+        "shacknet.nu",
+        "usercontent.goog"
     ],
     "nz": [
         "ac.nz",
