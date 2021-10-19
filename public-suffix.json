@@ -2089,6 +2089,7 @@
     ],
     "il": [
         "ac.il",
+        "b.ssl.fastly.net",
         "blogspot.co.il",
         "co.il",
         "gov.il",
@@ -5626,7 +5627,6 @@
         "azure-mobile.net",
         "azurestaticapps.net",
         "azurewebsites.net",
-        "b.ssl.fastly.net",
         "bar0.net",
         "bar1.net",
         "bar2.net",
@@ -8361,6 +8361,7 @@
         "mircloud.us",
         "mn.us",
         "mo.us",
+        "ms.us",
         "mt.us",
         "mus.mi.us",
         "nc.us",
@@ -8412,7 +8413,6 @@
     "uz": [
         "co.uz",
         "com.uz",
-        "ms.us",
         "net.uz",
         "org.uz"
     ],
