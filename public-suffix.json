@@ -1193,6 +1193,7 @@
         "is-a-teacher.com",
         "is-a-techie.com",
         "is-a-therapist.com",
+        "is-an-accountant.com",
         "is-an-actor.com",
         "is-an-actress.com",
         "is-an-anarchist.com",
@@ -1993,7 +1994,6 @@
         "jele.host",
         "mircloud.host",
         "myfast.host",
-        "novecore.site",
         "pcloud.host",
         "tempurl.host",
         "wpmudev.host"
@@ -7683,6 +7683,7 @@
         "lelux.site",
         "loginline.site",
         "mintere.site",
+        "novecore.site",
         "omniwe.site",
         "opensocial.site",
         "platformsh.site",
@@ -7848,7 +7849,6 @@
     ],
     "team": [
         "discourse.team",
-        "is-an-accountant.com",
         "jelastic.team"
     ],
     "technology": [
