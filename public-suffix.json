@@ -2690,7 +2690,6 @@
         "xn--cesenaforl-i8a.it",
         "xn--forl-cesena-fcb.it",
         "xn--forlcesena-c8a.it",
-        "xn--io0a7i.cn",
         "xn--sdtirol-n2a.it",
         "xn--trentin-sd-tirol-rzb.it",
         "xn--trentin-sdtirol-7vb.it",
@@ -7375,7 +7374,6 @@
         "cloudns.pro",
         "cpa.pro",
         "eng.pro",
-        "jur.pro",
         "law.pro",
         "med.pro",
         "recht.pro"
@@ -7891,6 +7889,7 @@
         "com.tm",
         "edu.tm",
         "gov.tm",
+        "jur.pro",
         "mil.tm",
         "net.tm",
         "nom.tm",
