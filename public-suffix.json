@@ -681,6 +681,7 @@
         "com.bs",
         "edu.bs",
         "gov.bs",
+        "net.bs",
         "org.bs",
         "we.bs"
     ],
@@ -791,7 +792,6 @@
         "gouv.ci",
         "int.ci",
         "md.ci",
-        "net.bs",
         "net.ci",
         "nl.ci",
         "or.ci",
