@@ -717,8 +717,7 @@
         "gov.bz",
         "gsj.bz",
         "net.bz",
-        "org.bz",
-        "za.bz"
+        "org.bz"
     ],
     "ca": [
         "ab.ca",
@@ -7025,6 +7024,7 @@
         "webredirect.org",
         "wmcloud.org",
         "wmflabs.org",
+        "za.bz",
         "za.org",
         "zapto.org"
     ],
