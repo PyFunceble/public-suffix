@@ -348,6 +348,7 @@
         "0.bg",
         "1.bg",
         "2.bg",
+        "3.bg",
         "4.bg",
         "5.bg",
         "6.bg",
@@ -680,7 +681,6 @@
         "com.bs",
         "edu.bs",
         "gov.bs",
-        "net.bs",
         "org.bs",
         "we.bs"
     ],
@@ -791,6 +791,7 @@
         "gouv.ci",
         "int.ci",
         "md.ci",
+        "net.bs",
         "net.ci",
         "nl.ci",
         "or.ci",
@@ -855,7 +856,6 @@
         "net.cm"
     ],
     "cn": [
-        "3.bg",
         "ac.cn",
         "ah.cn",
         "bj.cn",
