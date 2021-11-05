@@ -3718,6 +3718,7 @@
         "ne.jp",
         "nemuro.hokkaido.jp",
         "nerima.tokyo.jp",
+        "net.ws",
         "neyagawa.osaka.jp",
         "nichinan.miyazaki.jp",
         "nichinan.tottori.jp",
@@ -7381,7 +7382,6 @@
         "edu.ps",
         "gov.ps",
         "net.ps",
-        "org.ps",
         "plo.ps",
         "sec.ps"
     ],
@@ -7875,6 +7875,7 @@
         "name.tj",
         "net.tj",
         "nic.tj",
+        "org.ps",
         "org.tj",
         "test.tj",
         "web.tj"
