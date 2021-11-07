@@ -1347,6 +1347,7 @@
         "s3.dualstack.eu-west-3.amazonaws.com",
         "s3.dualstack.sa-east-1.amazonaws.com",
         "s3.dualstack.us-east-1.amazonaws.com",
+        "s3.dualstack.us-east-2.amazonaws.com",
         "s3.eu-central-1.amazonaws.com",
         "s3.eu-west-2.amazonaws.com",
         "s3.eu-west-3.amazonaws.com",
@@ -2145,7 +2146,6 @@
         "mayfirst.info",
         "no-ip.info",
         "nsupdate.info",
-        "s3.dualstack.us-east-2.amazonaws.com",
         "selfip.info",
         "v-info.info",
         "webhop.info"
@@ -7078,6 +7078,7 @@
         "gov.ph",
         "i.ph",
         "mil.ph",
+        "net.ph",
         "ngo.ph",
         "org.ph"
     ],
@@ -7353,7 +7354,6 @@
         "info.pr",
         "isla.pr",
         "name.pr",
-        "net.ph",
         "net.pr",
         "org.pr",
         "pro.pr",
