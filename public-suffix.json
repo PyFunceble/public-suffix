@@ -6805,7 +6805,6 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "own.pm",
         "shacknet.nu"
     ],
     "nz": [
@@ -7331,6 +7330,9 @@
     ],
     "place": [
         "co.place"
+    ],
+    "pm": [
+        "own.pm"
     ],
     "pn": [
         "co.pn",
