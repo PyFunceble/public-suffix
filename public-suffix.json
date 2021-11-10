@@ -1854,7 +1854,8 @@
         "edu.gi",
         "gov.gi",
         "ltd.gi",
-        "mod.gi"
+        "mod.gi",
+        "org.gi"
     ],
     "gl": [
         "biz.gl",
@@ -1871,7 +1872,8 @@
         "edu.gn",
         "gov.gn",
         "net.gn",
-        "org.gn"
+        "org.gn",
+        "org.hk"
     ],
     "goog": [
         "cloud.goog",
@@ -1941,7 +1943,6 @@
         "inc.hk",
         "ltd.hk",
         "net.hk",
-        "org.gi",
         "org.hk",
         "secaas.hk",
         "xn--55qx5d.hk",
