@@ -840,6 +840,7 @@
         "uk.reclaim.cloud",
         "urown.cloud",
         "us.reclaim.cloud",
+        "usr.cloud.muni.cz",
         "vapor.cloud",
         "vip.jelastic.cloud",
         "voorloper.cloud"
@@ -1379,6 +1380,7 @@
         "servesarcasm.com",
         "shopitsite.com",
         "siiites.com",
+        "simple-url.com",
         "sinaapp.com",
         "skygearapp.com",
         "smushcdn.com",
@@ -2144,6 +2146,7 @@
         "here-for-more.info",
         "ilovecollege.info",
         "knowsitall.info",
+        "mayfirst.info",
         "no-ip.info",
         "nsupdate.info",
         "selfip.info",
@@ -2194,7 +2197,6 @@
         "jele.io",
         "loginline.io",
         "lolipop.io",
-        "mayfirst.info",
         "mo-siemens.io",
         "mock.pstmn.io",
         "moonscale.io",
@@ -7721,7 +7723,6 @@
     ],
     "space": [
         "myfast.space",
-        "simple-url.com",
         "uber.space",
         "xs4all.space"
     ],
