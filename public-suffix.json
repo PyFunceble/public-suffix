@@ -1854,8 +1854,7 @@
         "edu.gi",
         "gov.gi",
         "ltd.gi",
-        "mod.gi",
-        "org.gi"
+        "mod.gi"
     ],
     "gl": [
         "biz.gl",
@@ -1942,6 +1941,7 @@
         "inc.hk",
         "ltd.hk",
         "net.hk",
+        "org.gi",
         "org.hk",
         "secaas.hk",
         "xn--55qx5d.hk",
