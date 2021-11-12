@@ -8563,8 +8563,7 @@
         "co.zw",
         "gov.zw",
         "mil.zw",
-        "org.zw",
-        "xn--c1avg.xn--90a3ac"
+        "org.zw"
     ],
     "рус": [
         "xn--41a.xn--p1acf",
@@ -8591,12 +8590,14 @@
     "срб": [
         "xn--80au.xn--90a3ac",
         "xn--90azh.xn--90a3ac",
+        "xn--c1avg.xn--90a3ac",
         "xn--d1at.xn--90a3ac",
         "xn--o1ac.xn--90a3ac",
         "xn--o1ach.xn--90a3ac",
         "ак.срб",
         "обр.срб",
         "од.срб",
+        "орг.срб",
         "пр.срб",
         "упр.срб"
     ],
