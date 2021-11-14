@@ -3449,7 +3449,6 @@
         "kunisaki.oita.jp",
         "kunitachi.tokyo.jp",
         "kunitomi.miyazaki.jp",
-        "kunneppu.hokkaido.jp",
         "kunohe.iwate.jp",
         "kurashiki.okayama.jp",
         "kurate.fukuoka.jp",
@@ -4662,8 +4661,7 @@
     ],
     "krd": [
         "co.krd",
-        "edu.krd",
-        "to.work"
+        "edu.krd"
     ],
     "kw": [
         "com.kw",
@@ -5252,6 +5250,7 @@
         "kids.museum",
         "koebenhavn.museum",
         "koeln.museum",
+        "kunneppu.hokkaido.jp",
         "kunst.museum",
         "kunstsammlung.museum",
         "kunstunddesign.museum",
