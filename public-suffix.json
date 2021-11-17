@@ -7533,6 +7533,7 @@
     "rw": [
         "ac.rw",
         "co.rw",
+        "coop.rw",
         "gov.rw",
         "mil.rw",
         "net.rw",
@@ -8220,7 +8221,6 @@
         "cloudns.us",
         "co.us",
         "cog.mi.us",
-        "coop.rw",
         "ct.us",
         "dc.us",
         "de.us",
