@@ -3744,6 +3744,7 @@
         "nishihara.kumamoto.jp",
         "nishihara.okinawa.jp",
         "nishiizu.shizuoka.jp",
+        "nishikata.tochigi.jp",
         "nishikatsura.yamanashi.jp",
         "nishikawa.yamagata.jp",
         "nishimera.miyazaki.jp",
@@ -4677,7 +4678,6 @@
         "edu.ky",
         "gov.ky",
         "net.ky",
-        "nishikata.tochigi.jp",
         "org.ky"
     ],
     "kz": [
@@ -7078,6 +7078,7 @@
         "com.ph",
         "edu.ph",
         "gov.ph",
+        "gov.pk",
         "i.ph",
         "mil.ph",
         "net.ph",
