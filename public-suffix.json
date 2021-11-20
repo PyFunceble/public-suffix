@@ -1098,6 +1098,7 @@
         "from-mo.com",
         "from-ms.com",
         "from-mt.com",
+        "from-nc.com",
         "from-nd.com",
         "from-ne.com",
         "from-nh.com",
@@ -3104,7 +3105,6 @@
         "ide.kyoto.jp",
         "iheya.okinawa.jp",
         "iida.nagano.jp",
-        "iide.yamagata.jp",
         "iijima.nagano.jp",
         "iitate.fukushima.jp",
         "iiyama.nagano.jp",
@@ -5222,6 +5222,7 @@
         "horology.museum",
         "house.museum",
         "humanities.museum",
+        "iide.yamagata.jp",
         "illustration.museum",
         "imageandsound.museum",
         "indian.museum",
@@ -6804,7 +6805,6 @@
     ],
     "nu": [
         "enterprisecloud.nu",
-        "from-nc.com",
         "merseine.nu",
         "mine.nu",
         "shacknet.nu"
