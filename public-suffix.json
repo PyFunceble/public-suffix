@@ -629,6 +629,7 @@
         "rep.br",
         "ribeirao.br",
         "rio.br",
+        "riobranco.br",
         "riopreto.br",
         "rj.gov.br",
         "rj.leg.br",
@@ -797,7 +798,6 @@
         "or.ci",
         "org.ci",
         "presse.ci",
-        "riobranco.br",
         "xn--aroport-bya.ci"
     ],
     "ck": [
@@ -5137,7 +5137,6 @@
         "detroit.museum",
         "dinosaur.museum",
         "discovery.museum",
-        "dolls.museum",
         "donostia.museum",
         "durham.museum",
         "eastafrica.museum",
@@ -5971,6 +5970,7 @@
         "dielddanuorri.no",
         "divtasvuodna.no",
         "divttasvuotna.no",
+        "dolls.museum",
         "donna.no",
         "dovre.no",
         "drammen.no",
