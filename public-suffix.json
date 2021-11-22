@@ -4770,7 +4770,6 @@
         "ac.ls",
         "biz.ls",
         "co.ls",
-        "convent.museum",
         "de.ls",
         "edu.ls",
         "gov.ls",
@@ -6879,6 +6878,7 @@
         "certmgr.org",
         "ch.eu.org",
         "cloud.fedoraproject.org",
+        "cloud66.zone",
         "cloudns.org",
         "cn.eu.org",
         "collegefan.org",
@@ -8554,7 +8554,6 @@
         "sch.zm"
     ],
     "zone": [
-        "cloud66.zone",
         "hs.zone",
         "lima.zone",
         "triton.zone"
