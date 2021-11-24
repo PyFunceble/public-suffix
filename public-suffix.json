@@ -2892,6 +2892,7 @@
         "fujieda.shizuoka.jp",
         "fujiidera.osaka.jp",
         "fujikawa.shizuoka.jp",
+        "fujikawa.yamanashi.jp",
         "fujikawaguchiko.yamanashi.jp",
         "fujimi.nagano.jp",
         "fujimi.saitama.jp",
@@ -4912,7 +4913,6 @@
     "ml": [
         "com.ml",
         "edu.ml",
-        "fujikawa.yamanashi.jp",
         "gouv.ml",
         "gov.ml",
         "net.ml",
