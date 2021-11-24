@@ -1501,7 +1501,6 @@
         "custom.metacentrum.cz",
         "e4.cz",
         "flt.cloud.muni.cz",
-        "realm.cz",
         "usr.cloud.muni.cz"
     ],
     "de": [
@@ -4871,6 +4870,7 @@
         "org.me",
         "priv.me",
         "ravendb.me",
+        "realm.cz",
         "soundcast.me",
         "synology.me",
         "tbits.me",
