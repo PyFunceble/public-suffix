@@ -358,6 +358,7 @@
         "9.bg",
         "a.bg",
         "b.bg",
+        "barsy.bg",
         "blogspot.bg",
         "c.bg",
         "d.bg",
@@ -482,7 +483,6 @@
         "9guacu.br",
         "abc.br",
         "ac.gov.br",
-        "ac.leg.br",
         "adm.br",
         "adv.br",
         "agr.br",
@@ -972,7 +972,6 @@
         "awsglobalaccelerator.com",
         "awsmppl.com",
         "balena-devices.com",
-        "barsy.bg",
         "barsycenter.com",
         "barsyonline.com",
         "beta.bounty-full.com",
@@ -7104,6 +7103,7 @@
         "web.pk"
     ],
     "pl": [
+        "ac.leg.br",
         "agro.pl",
         "aid.pl",
         "ap.gov.pl",
