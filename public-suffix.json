@@ -1413,6 +1413,7 @@
         "us.com",
         "uy.com",
         "vipsinaapp.com",
+        "vladikavkaz.su",
         "vs.mythic-beasts.com",
         "wafflecell.com",
         "withgoogle.com",
@@ -4430,6 +4431,7 @@
         "yamagata.nagano.jp",
         "yamagata.yamagata.jp",
         "yamaguchi.jp",
+        "yamakita.kanagawa.jp",
         "yamamoto.miyagi.jp",
         "yamanakako.yamanashi.jp",
         "yamanashi.jp",
@@ -4617,8 +4619,7 @@
         "edu.kn",
         "gov.kn",
         "net.kn",
-        "org.kn",
-        "yamakita.kanagawa.jp"
+        "org.kn"
     ],
     "kp": [
         "com.kp",
@@ -7802,7 +7803,6 @@
         "tselinograd.su",
         "tula.su",
         "tuva.su",
-        "vladikavkaz.su",
         "vladimir.su",
         "vologda.su"
     ],
