@@ -750,7 +750,6 @@
     "cc": [
         "cloudns.cc",
         "csx.cc",
-        "dyndns.dappnode.io",
         "fantasyleague.cc",
         "ftpaccess.cc",
         "game-server.cc",
@@ -2183,6 +2182,7 @@
         "devices.resinstaging.io",
         "drud.io",
         "dyn53.io",
+        "dyndns.dappnode.io",
         "editorx.io",
         "fh-muenster.io",
         "g.vbrplsbx.io",
@@ -4930,7 +4930,6 @@
     ],
     "mo": [
         "com.mo",
-        "edu.mo",
         "gov.mo",
         "net.mo",
         "org.mo"
@@ -5142,6 +5141,7 @@
         "durham.museum",
         "eastafrica.museum",
         "eastcoast.museum",
+        "edu.mo",
         "education.museum",
         "educational.museum",
         "egyptian.museum",
