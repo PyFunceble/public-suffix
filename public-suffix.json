@@ -838,6 +838,7 @@
         "uk.oxa.cloud",
         "uk.primetel.cloud",
         "uk.reclaim.cloud",
+        "urown.cloud",
         "us.reclaim.cloud",
         "vapor.cloud",
         "vip.jelastic.cloud",
@@ -6804,8 +6805,7 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "shacknet.nu",
-        "urown.cloud"
+        "shacknet.nu"
     ],
     "nz": [
         "ac.nz",
