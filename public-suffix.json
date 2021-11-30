@@ -5394,7 +5394,6 @@
         "rockart.museum",
         "roma.museum",
         "russia.museum",
-        "saintlouis.museum",
         "salem.museum",
         "salvadordali.museum",
         "salzburg.museum",
@@ -5811,6 +5810,7 @@
         "other.nf",
         "per.nf",
         "rec.nf",
+        "saintlouis.museum",
         "store.nf",
         "web.nf"
     ],
@@ -8040,7 +8040,6 @@
         "donetsk.ua",
         "dp.ua",
         "edu.ua",
-        "enterprisecloud.nu",
         "gov.ua",
         "if.ua",
         "in.ua",
