@@ -4210,7 +4210,6 @@
         "tochio.niigata.jp",
         "toda.saitama.jp",
         "toei.aichi.jp",
-        "toga.toyama.jp",
         "togakushi.nagano.jp",
         "togane.chiba.jp",
         "togitsu.nagasaki.jp",
@@ -4908,7 +4907,8 @@
         "inf.mk",
         "name.mk",
         "net.mk",
-        "org.mk"
+        "org.mk",
+        "toga.toyama.jp"
     ],
     "ml": [
         "com.ml",
