@@ -1913,7 +1913,6 @@
     ],
     "gu": [
         "com.gu",
-        "edu.gu",
         "gov.gu",
         "guam.gu",
         "info.gu",
@@ -1936,6 +1935,7 @@
     "hk": [
         "blogspot.hk",
         "com.hk",
+        "edu.gu",
         "edu.hk",
         "gov.hk",
         "idv.hk",
@@ -4210,6 +4210,7 @@
         "tochio.niigata.jp",
         "toda.saitama.jp",
         "toei.aichi.jp",
+        "toga.toyama.jp",
         "togakushi.nagano.jp",
         "togane.chiba.jp",
         "togitsu.nagasaki.jp",
@@ -4907,8 +4908,7 @@
         "inf.mk",
         "name.mk",
         "net.mk",
-        "org.mk",
-        "toga.toyama.jp"
+        "org.mk"
     ],
     "ml": [
         "com.ml",
