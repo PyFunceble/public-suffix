@@ -8289,7 +8289,6 @@
         "k12.ny.us",
         "k12.oh.us",
         "k12.ok.us",
-        "k12.or.us",
         "k12.pa.us",
         "k12.pr.us",
         "k12.sc.us",
@@ -8508,6 +8507,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--j6w193g": [
+        "k12.or.us",
+        "xn--od0alg.xn--j6w193g"
     ],
     "xyz": [
         "blogsite.xyz",
