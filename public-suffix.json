@@ -860,7 +860,6 @@
         "ac.cn",
         "ah.cn",
         "bj.cn",
-        "cloudycluster.net",
         "cn-north-1.eb.amazonaws.com.cn",
         "cn-northwest-1.eb.amazonaws.com.cn",
         "com.cn",
@@ -1408,7 +1407,6 @@
         "us-east-1.amazonaws.com",
         "us-east-1.elasticbeanstalk.com",
         "us-east-2.elasticbeanstalk.com",
-        "us-gov-west-1.elasticbeanstalk.com",
         "us-west-1.elasticbeanstalk.com",
         "us-west-2.elasticbeanstalk.com",
         "us.com",
@@ -5651,6 +5649,7 @@
         "cloudfront.net",
         "cloudfunctions.net",
         "cloudjiffy.net",
+        "cloudycluster.net",
         "community-pro.net",
         "cryptonomic.net",
         "dattolocal.net",
@@ -5780,6 +5779,7 @@
         "u.channelsdvr.net",
         "uk.net",
         "uni5.net",
+        "us-gov-west-1.elasticbeanstalk.com",
         "user.srcf.net",
         "vpndns.net",
         "vps-host.net",
@@ -7660,7 +7660,8 @@
         "wedeploy.sh"
     ],
     "shop": [
-        "barsy.shop"
+        "barsy.shop",
+        "hoplix.shop"
     ],
     "si": [
         "blogspot.si",
