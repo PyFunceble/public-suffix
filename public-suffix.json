@@ -2190,7 +2190,6 @@
         "dyndns.dappnode.io",
         "editorx.io",
         "edugit.io",
-        "enterprisecloud.nu",
         "fh-muenster.io",
         "g.vbrplsbx.io",
         "ghost.io",
@@ -8395,6 +8394,7 @@
         "pointto.us",
         "pr.us",
         "pvt.k12.ma.us",
+        "ri.us",
         "sc.us",
         "sd.us",
         "stuff-4-sale.us",
@@ -8492,8 +8492,7 @@
         "edu.vu",
         "me.vu",
         "net.vu",
-        "org.vu",
-        "ri.us"
+        "org.vu"
     ],
     "win": [
         "that.win"
