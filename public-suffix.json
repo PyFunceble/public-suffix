@@ -386,7 +386,6 @@
         "z.bg"
     ],
     "bh": [
-        "com.bh",
         "edu.bh",
         "gov.bh",
         "net.bh",
@@ -785,6 +784,7 @@
         "asso.ci",
         "aéroport.ci",
         "co.ci",
+        "com.bh",
         "com.ci",
         "ed.ci",
         "edu.ci",
@@ -5574,8 +5574,7 @@
         "edu.mx",
         "gob.mx",
         "net.mx",
-        "org.mx",
-        "xn--sr-varanger-ggb.no"
+        "org.mx"
     ],
     "my": [
         "biz.my",
