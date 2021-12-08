@@ -386,6 +386,7 @@
         "z.bg"
     ],
     "bh": [
+        "com.bh",
         "edu.bh",
         "gov.bh",
         "net.bh",
@@ -784,7 +785,6 @@
         "asso.ci",
         "aéroport.ci",
         "co.ci",
-        "com.bh",
         "com.ci",
         "ed.ci",
         "edu.ci",
