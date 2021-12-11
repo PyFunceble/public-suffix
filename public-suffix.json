@@ -820,7 +820,6 @@
         "elementor.cloud",
         "es-1.axarnet.cloud",
         "eu.encoway.cloud",
-        "for.sale",
         "it1.eur.aruba.jenv-aruba.cloud",
         "it1.jenv-aruba.cloud",
         "jele.cloud",
@@ -7560,6 +7559,9 @@
         "pub.sa",
         "sch.sa"
     ],
+    "sale": [
+        "for.sale"
+    ],
     "sb": [
         "com.sb",
         "edu.sb",
@@ -8429,7 +8431,6 @@
         "com.vc",
         "d.gv.vc",
         "edu.vc",
-        "for.sale",
         "gov.vc",
         "gv.vc",
         "mil.vc",
