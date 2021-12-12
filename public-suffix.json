@@ -2794,6 +2794,7 @@
         "asahi.ibaraki.jp",
         "asahi.mie.jp",
         "asahi.nagano.jp",
+        "asahi.toyama.jp",
         "asahi.yamagata.jp",
         "asahikawa.hokkaido.jp",
         "asaka.saitama.jp",
@@ -4807,7 +4808,6 @@
         "org.lv"
     ],
     "ly": [
-        "asahi.toyama.jp",
         "com.ly",
         "edu.ly",
         "gov.ly",
