@@ -1986,8 +1986,7 @@
         "edu.hn",
         "gob.hn",
         "mil.hn",
-        "net.hn",
-        "org.hn"
+        "net.hn"
     ],
     "host": [
         "cloudaccess.host",
@@ -2499,6 +2498,7 @@
         "olbia-tempio.it",
         "olbiatempio.it",
         "or.it",
+        "org.hn",
         "oristano.it",
         "ot.it",
         "pa.it",
@@ -3130,6 +3130,7 @@
         "iki.nagasaki.jp",
         "ikoma.nara.jp",
         "ikusaka.nagano.jp",
+        "im.it",
         "imabari.ehime.jp",
         "imakane.hokkaido.jp",
         "imari.saga.jp",
