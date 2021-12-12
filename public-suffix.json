@@ -1203,7 +1203,6 @@
         "is-gone.com",
         "is-into-anime.com",
         "is-into-cars.com",
-        "is-into-cartoons.com",
         "is-into-games.com",
         "is-leet.com",
         "is-not-certified.com",
@@ -2088,6 +2087,7 @@
     "ie": [
         "blogspot.ie",
         "gov.ie",
+        "is-into-cartoons.com",
         "myspreadshop.ie"
     ],
     "il": [
