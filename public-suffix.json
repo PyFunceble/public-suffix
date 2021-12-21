@@ -679,6 +679,7 @@
         "zlg.br"
     ],
     "bs": [
+        "com.bs",
         "edu.bs",
         "gov.bs",
         "net.bs",
@@ -784,7 +785,6 @@
         "asso.ci",
         "aéroport.ci",
         "co.ci",
-        "com.bs",
         "com.ci",
         "ed.ci",
         "edu.ci",
