@@ -1876,7 +1876,6 @@
         "ac.gn",
         "com.gn",
         "edu.gn",
-        "gov.gn",
         "net.gn",
         "org.gn"
     ],
@@ -1943,6 +1942,7 @@
         "blogspot.hk",
         "com.hk",
         "edu.hk",
+        "gov.gn",
         "gov.hk",
         "idv.hk",
         "inc.hk",
