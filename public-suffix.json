@@ -987,7 +987,6 @@
         "bplaced.com",
         "br.com",
         "builtwithdark.com",
-        "ca-central-1.elasticbeanstalk.com",
         "cafjs.com",
         "caracal.mythic-beasts.com",
         "cechire.com",
@@ -1918,7 +1917,6 @@
         "to.gt"
     ],
     "gu": [
-        "com.gu",
         "edu.gu",
         "gov.gu",
         "guam.gu",
@@ -1941,6 +1939,7 @@
     ],
     "hk": [
         "blogspot.hk",
+        "com.gu",
         "com.hk",
         "edu.hk",
         "gov.hk",
@@ -6882,6 +6881,7 @@
         "bmoattachments.org",
         "boldlygoingnowhere.org",
         "c.cdn77.org",
+        "ca-central-1.elasticbeanstalk.com",
         "ca.eu.org",
         "cable-modem.org",
         "camdvr.org",
