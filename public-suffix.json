@@ -713,7 +713,6 @@
         "of.by"
     ],
     "bz": [
-        "com.bz",
         "edu.bz",
         "gov.bz",
         "gsj.bz",
@@ -864,6 +863,7 @@
         "bj.cn",
         "cn-north-1.eb.amazonaws.com.cn",
         "cn-northwest-1.eb.amazonaws.com.cn",
+        "com.bz",
         "com.cn",
         "compute.amazonaws.com.cn",
         "cq.cn",
