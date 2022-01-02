@@ -419,7 +419,6 @@
         "asso.bj",
         "barreau.bj",
         "blogspot.bj",
-        "couk.me",
         "gouv.bj"
     ],
     "bm": [
@@ -676,6 +675,7 @@
         "vet.br",
         "vix.br",
         "vlog.br",
+        "vologda.su",
         "wiki.br",
         "zlg.br"
     ],
@@ -4852,6 +4852,7 @@
         "brasilia.me",
         "c66.me",
         "co.me",
+        "couk.me",
         "daplie.me",
         "ddns.me",
         "diskstation.me",
@@ -7818,8 +7819,7 @@
         "tula.su",
         "tuva.su",
         "vladikavkaz.su",
-        "vladimir.su",
-        "vologda.su"
+        "vladimir.su"
     ],
     "support": [
         "barsy.support"
