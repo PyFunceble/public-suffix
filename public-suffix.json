@@ -1260,6 +1260,7 @@
         "oci.customer-oci.com",
         "ocp.customer-oci.com",
         "ocs.customer-oci.com",
+        "omg.lol",
         "on-aptible.com",
         "oncilla.mythic-beasts.com",
         "onfabrica.com",
@@ -4763,9 +4764,6 @@
         "sch.lk",
         "soc.lk",
         "web.lk"
-    ],
-    "lol": [
-        "omg.lol"
     ],
     "london": [
         "in.london",
