@@ -6451,6 +6451,7 @@
         "skånland.no",
         "slattum.no",
         "smola.no",
+        "smøla.no",
         "snaase.no",
         "snasa.no",
         "snillfjord.no",
@@ -6737,6 +6738,7 @@
         "xn--sknland-fxa.no",
         "xn--slat-5na.no",
         "xn--slt-elab.no",
+        "xn--smla-hra.no",
         "xn--smna-gra.no",
         "xn--snase-nra.no",
         "xn--sndre-land-0cb.no",
@@ -6810,8 +6812,7 @@
         "gov.nr",
         "info.nr",
         "net.nr",
-        "org.nr",
-        "xn--smla-hra.no"
+        "org.nr"
     ],
     "nu": [
         "enterprisecloud.nu",
