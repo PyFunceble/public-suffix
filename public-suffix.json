@@ -7958,7 +7958,6 @@
         "info.tr",
         "k12.tr",
         "kep.tr",
-        "mil.tr",
         "name.tr",
         "nc.tr",
         "net.tr",
@@ -8369,6 +8368,7 @@
         "md.us",
         "me.us",
         "mi.us",
+        "mil.tr",
         "mircloud.us",
         "mn.us",
         "mo.us",
@@ -8512,6 +8512,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--j6w193g": [
+        "mil.tr",
+        "xn--wcvs22d.xn--j6w193g"
     ],
     "xyz": [
         "blogsite.xyz",
