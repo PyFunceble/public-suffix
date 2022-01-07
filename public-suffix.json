@@ -6066,7 +6066,6 @@
         "gjøvik.no",
         "gloppen.no",
         "gol.no",
-        "gov.sy",
         "gran.no",
         "grane.no",
         "granvin.no",
@@ -7838,6 +7837,7 @@
     "sy": [
         "com.sy",
         "edu.sy",
+        "gov.sy",
         "mil.sy",
         "net.sy",
         "org.sy"
