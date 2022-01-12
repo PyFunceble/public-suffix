@@ -6387,7 +6387,6 @@
         "roan.no",
         "rodoy.no",
         "rollag.no",
-        "romsa.no",
         "romskog.no",
         "roros.no",
         "rost.no",
@@ -8493,7 +8492,8 @@
         "edu.vu",
         "me.vu",
         "net.vu",
-        "org.vu"
+        "org.vu",
+        "romsa.no"
     ],
     "win": [
         "that.win"
