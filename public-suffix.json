@@ -3689,7 +3689,6 @@
         "nakamura.kochi.jp",
         "nakaniikawa.toyama.jp",
         "nakano.nagano.jp",
-        "nakano.tokyo.jp",
         "nakanojo.gunma.jp",
         "nakanoto.ishikawa.jp",
         "nakasatsunai.hokkaido.jp",
@@ -4723,6 +4722,7 @@
         "com.lb",
         "edu.lb",
         "gov.lb",
+        "nakano.tokyo.jp",
         "net.lb",
         "org.lb"
     ],
@@ -5832,6 +5832,7 @@
         "col.ng",
         "com.ng",
         "edu.ng",
+        "edu.scot",
         "firm.ng",
         "gen.ng",
         "gov.ng",
