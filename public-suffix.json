@@ -2809,6 +2809,7 @@
         "ashoro.hokkaido.jp",
         "aso.kumamoto.jp",
         "assabu.hokkaido.jp",
+        "assassination.museum",
         "asuke.aichi.jp",
         "atami.shizuoka.jp",
         "atsugi.kanagawa.jp",
@@ -7667,6 +7668,7 @@
         "mil.sh",
         "net.sh",
         "now.sh",
+        "org.sh",
         "us.platform.sh",
         "vxl.sh",
         "wedeploy.sh"
@@ -8492,7 +8494,6 @@
         "edu.vu",
         "me.vu",
         "net.vu",
-        "org.sh",
         "org.vu"
     ],
     "win": [
