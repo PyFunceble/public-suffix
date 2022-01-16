@@ -2517,6 +2517,7 @@
         "pescara.it",
         "pg.it",
         "pi.it",
+        "piacenza.it",
         "piedmont.it",
         "piemonte.it",
         "pisa.it",
@@ -3913,7 +3914,6 @@
         "ozora.hokkaido.jp",
         "ozu.ehime.jp",
         "ozu.kumamoto.jp",
-        "piacenza.it",
         "pippu.hokkaido.jp",
         "rankoshi.hokkaido.jp",
         "ranzan.saitama.jp",
@@ -7667,7 +7667,6 @@
         "mil.sh",
         "net.sh",
         "now.sh",
-        "org.sh",
         "us.platform.sh",
         "vxl.sh",
         "wedeploy.sh"
@@ -8493,6 +8492,7 @@
         "edu.vu",
         "me.vu",
         "net.vu",
+        "org.sh",
         "org.vu"
     ],
     "win": [
