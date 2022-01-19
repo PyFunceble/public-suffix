@@ -8455,7 +8455,6 @@
         "nom.ve",
         "org.ve",
         "rar.ve",
-        "rec.ve",
         "store.ve",
         "tec.ve",
         "web.ve"
@@ -8576,7 +8575,8 @@
         "co.zw",
         "gov.zw",
         "mil.zw",
-        "org.zw"
+        "org.zw",
+        "rec.ve"
     ],
     "рус": [
         "xn--41a.xn--p1acf",
