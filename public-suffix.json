@@ -1256,6 +1256,7 @@
         "nfshost.com",
         "no.com",
         "nodebalancer.linode.com",
+        "now-dns.top",
         "ocelot.mythic-beasts.com",
         "oci.customer-oci.com",
         "ocp.customer-oci.com",
@@ -7940,7 +7941,6 @@
         "prequalifyme.today"
     ],
     "top": [
-        "now-dns.top",
         "ntdll.top"
     ],
     "tr": [
@@ -8455,6 +8455,7 @@
         "nom.ve",
         "org.ve",
         "rar.ve",
+        "rec.ve",
         "store.ve",
         "tec.ve",
         "web.ve"
@@ -8575,8 +8576,7 @@
         "co.zw",
         "gov.zw",
         "mil.zw",
-        "org.zw",
-        "rec.ve"
+        "org.zw"
     ],
     "рус": [
         "xn--41a.xn--p1acf",
