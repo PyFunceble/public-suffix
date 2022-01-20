@@ -1919,7 +1919,6 @@
         "to.gt"
     ],
     "gu": [
-        "com.gu",
         "edu.gu",
         "gov.gu",
         "guam.gu",
@@ -1942,6 +1941,7 @@
     ],
     "hk": [
         "blogspot.hk",
+        "com.gu",
         "com.hk",
         "edu.hk",
         "gov.hk",
@@ -2184,6 +2184,7 @@
         "cust.disrec.thingdust.io",
         "cust.prod.thingdust.io",
         "cust.testing.thingdust.io",
+        "dedyn.io",
         "definima.io",
         "devices.resinstaging.io",
         "drud.io",
@@ -7140,7 +7141,6 @@
         "com.pl",
         "czeladz.pl",
         "czest.pl",
-        "dedyn.io",
         "dlugoleka.pl",
         "ecommerce-shop.pl",
         "edu.pl",
