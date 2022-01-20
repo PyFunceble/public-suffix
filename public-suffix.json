@@ -4358,6 +4358,7 @@
         "utsunomiya.tochigi.jp",
         "uwajima.ehime.jp",
         "wada.nagano.jp",
+        "wajiki.tokushima.jp",
         "wajima.ishikawa.jp",
         "wakasa.fukui.jp",
         "wakasa.tottori.jp",
@@ -4724,8 +4725,7 @@
         "edu.lb",
         "gov.lb",
         "net.lb",
-        "org.lb",
-        "wajiki.tokushima.jp"
+        "org.lb"
     ],
     "lc": [
         "co.lc",
