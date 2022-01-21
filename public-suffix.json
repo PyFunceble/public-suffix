@@ -495,7 +495,6 @@
         "am.leg.br",
         "anani.br",
         "ap.gov.br",
-        "ap.leg.br",
         "aparecida.br",
         "app.br",
         "arq.br",
@@ -6815,6 +6814,7 @@
         "org.nr"
     ],
     "nu": [
+        "ap.leg.br",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
