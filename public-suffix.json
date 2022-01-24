@@ -1397,6 +1397,7 @@
         "theworkpc.com",
         "thingdustdata.com",
         "townnews-staging.com",
+        "translate.goog",
         "try-snowplow.com",
         "trycloudflare.com",
         "tuleap-partners.com",
@@ -1883,7 +1884,6 @@
     ],
     "goog": [
         "cloud.goog",
-        "translate.goog",
         "usercontent.goog"
     ],
     "gp": [
