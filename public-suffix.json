@@ -1652,8 +1652,7 @@
         "tm.dz"
     ],
     "earth": [
-        "bzz.dapps.earth",
-        "dapps.earth"
+        "bzz.dapps.earth"
     ],
     "ec": [
         "base.ec",
@@ -7782,6 +7781,7 @@
         "bukhara.su",
         "chimkent.su",
         "dagestan.su",
+        "dapps.earth",
         "east-kazakhstan.su",
         "exnet.su",
         "georgia.su",
