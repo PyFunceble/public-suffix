@@ -1415,7 +1415,6 @@
         "us-west-1.elasticbeanstalk.com",
         "us-west-2.elasticbeanstalk.com",
         "us.com",
-        "us.platform.sh",
         "uy.com",
         "vipsinaapp.com",
         "vs.mythic-beasts.com",
@@ -7670,6 +7669,7 @@
         "net.sh",
         "now.sh",
         "org.sh",
+        "us.platform.sh",
         "vxl.sh",
         "wedeploy.sh"
     ],
