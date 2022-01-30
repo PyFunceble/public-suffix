@@ -1303,6 +1303,7 @@
         "reserve-online.com",
         "rhcloud.com",
         "ru.com",
+        "ru.net",
         "ryd.wafaicloud.com",
         "s3-ap-northeast-1.amazonaws.com",
         "s3-ap-northeast-2.amazonaws.com",
@@ -1892,7 +1893,8 @@
         "com.gp",
         "edu.gp",
         "mobi.gp",
-        "net.gp"
+        "net.gp",
+        "org.gp"
     ],
     "gr": [
         "blogspot.gr",
@@ -1948,7 +1950,6 @@
         "inc.hk",
         "ltd.hk",
         "net.hk",
-        "org.gp",
         "org.hk",
         "secaas.hk",
         "xn--55qx5d.hk",
@@ -5764,7 +5765,6 @@
         "redirectme.net",
         "reserve-online.net",
         "ric.jelastic.vps-host.net",
-        "ru.net",
         "schokokeks.net",
         "scrapper-site.net",
         "se.net",
@@ -6816,7 +6816,6 @@
     ],
     "nu": [
         "enterprisecloud.nu",
-        "int.eu.org",
         "merseine.nu",
         "mine.nu",
         "shacknet.nu"
@@ -6946,6 +6945,7 @@
         "in-dsl.org",
         "in-vpn.org",
         "in.eu.org",
+        "int.eu.org",
         "is-a-bruinsfan.org",
         "is-a-candidate.org",
         "is-a-celticsfan.org",
