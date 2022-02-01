@@ -5824,7 +5824,6 @@
         "other.nf",
         "per.nf",
         "rec.nf",
-        "store.nf",
         "web.nf"
     ],
     "ng": [
@@ -6492,6 +6491,7 @@
         "stor-elvdal.no",
         "stord.no",
         "stordal.no",
+        "store.nf",
         "storfjord.no",
         "strand.no",
         "stranda.no",
