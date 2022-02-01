@@ -1073,7 +1073,6 @@
         "firewall-gateway.com",
         "fldrv.com",
         "forgeblocks.com",
-        "framer.app",
         "framercanvas.com",
         "freebox-os.com",
         "freeboxos.com",
@@ -4122,6 +4121,7 @@
         "susaki.kochi.jp",
         "susono.shizuoka.jp",
         "suwa.nagano.jp",
+        "suwalki.pl",
         "suzaka.nagano.jp",
         "suzu.ishikawa.jp",
         "suzuka.mie.jp",
@@ -6553,7 +6553,6 @@
         "tysvar.no",
         "tysvær.no",
         "tønsberg.no",
-        "ullensaker.no",
         "ullensvang.no",
         "ulvik.no",
         "unjarga.no",
@@ -7285,7 +7284,6 @@
         "starachowice.pl",
         "stargard.pl",
         "starostwo.gov.pl",
-        "suwalki.pl",
         "swidnica.pl",
         "swidnik.pl",
         "swiebodzin.pl",
@@ -8579,7 +8577,8 @@
         "co.zw",
         "gov.zw",
         "mil.zw",
-        "org.zw"
+        "org.zw",
+        "ullensaker.no"
     ],
     "рус": [
         "xn--41a.xn--p1acf",
