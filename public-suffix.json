@@ -147,7 +147,6 @@
         "co.am",
         "com.am",
         "commune.am",
-        "instance.datadetect.com",
         "neko.am",
         "net.am",
         "nyaa.am",
@@ -981,6 +980,7 @@
         "betainabox.com",
         "blogdns.com",
         "blogspot.com",
+        "blogspot.my",
         "blogsyte.com",
         "bloxcms.com",
         "bounty-full.com",
@@ -5580,7 +5580,6 @@
     ],
     "my": [
         "biz.my",
-        "blogspot.my",
         "com.my",
         "edu.my",
         "gov.my",
