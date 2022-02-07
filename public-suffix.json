@@ -1098,7 +1098,6 @@
         "from-mi.com",
         "from-mn.com",
         "from-mo.com",
-        "from-ms.com",
         "from-mt.com",
         "from-nc.com",
         "from-nd.com",
@@ -2096,6 +2095,7 @@
         "ac.il",
         "blogspot.co.il",
         "co.il",
+        "from-ms.com",
         "gov.il",
         "idf.il",
         "k12.il",
@@ -7729,8 +7729,7 @@
         "me.so",
         "net.so",
         "org.so",
-        "sch.so",
-        "sch.uk"
+        "sch.so"
     ],
     "solutions": [
         "diher.solutions"
