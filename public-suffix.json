@@ -335,7 +335,6 @@
     ],
     "be": [
         "ac.be",
-        "blogspot.be",
         "cloud.interhostsolutions.be",
         "ezproxy.kuleuven.be",
         "myspreadshop.be",
@@ -980,7 +979,6 @@
         "betainabox.com",
         "blogdns.com",
         "blogspot.com",
-        "blogspot.my",
         "blogsyte.com",
         "bloxcms.com",
         "bounty-full.com",
@@ -5580,6 +5578,7 @@
     ],
     "my": [
         "biz.my",
+        "blogspot.my",
         "com.my",
         "edu.my",
         "gov.my",
@@ -7908,6 +7907,7 @@
         "org.tm"
     ],
     "tn": [
+        "blogspot.be",
         "com.tn",
         "ens.tn",
         "fin.tn",
