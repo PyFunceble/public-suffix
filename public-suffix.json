@@ -7160,6 +7160,7 @@
         "homesklep.pl",
         "ic.gov.pl",
         "ilawa.pl",
+        "info.pl",
         "is.gov.pl",
         "jaworzno.pl",
         "jelenia-gora.pl",
@@ -7460,7 +7461,6 @@
         "co.ro",
         "com.ro",
         "firm.ro",
-        "info.pl",
         "info.ro",
         "nom.ro",
         "nt.ro",
@@ -7729,7 +7729,8 @@
         "me.so",
         "net.so",
         "org.so",
-        "sch.so"
+        "sch.so",
+        "sch.uk"
     ],
     "solutions": [
         "diher.solutions"
