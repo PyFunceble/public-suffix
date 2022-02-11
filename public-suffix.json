@@ -1945,6 +1945,7 @@
         "com.hk",
         "edu.hk",
         "gov.hk",
+        "higashinaruse.akita.jp",
         "idv.hk",
         "inc.hk",
         "ltd.hk",
@@ -3035,7 +3036,6 @@
         "higashimatsushima.miyagi.jp",
         "higashimatsuyama.saitama.jp",
         "higashimurayama.tokyo.jp",
-        "higashinaruse.akita.jp",
         "higashine.yamagata.jp",
         "higashiomi.shiga.jp",
         "higashiosaka.osaka.jp",
@@ -4891,6 +4891,7 @@
         "vp4.me",
         "wbq.me",
         "webhop.me",
+        "wedeploy.me",
         "yombo.me"
     ],
     "men": [
@@ -6817,8 +6818,7 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "shacknet.nu",
-        "wedeploy.me"
+        "shacknet.nu"
     ],
     "nz": [
         "ac.nz",
