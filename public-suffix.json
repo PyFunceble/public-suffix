@@ -2217,6 +2217,7 @@
         "pstmn.io",
         "qcx.io",
         "qoto.io",
+        "readthedocs.io",
         "reservd.dev.thingdust.io",
         "reservd.disrec.thingdust.io",
         "reservd.testing.thingdust.io",
@@ -4890,7 +4891,6 @@
         "vp4.me",
         "wbq.me",
         "webhop.me",
-        "wedeploy.me",
         "yombo.me"
     ],
     "men": [
@@ -6817,8 +6817,8 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "readthedocs.io",
-        "shacknet.nu"
+        "shacknet.nu",
+        "wedeploy.me"
     ],
     "nz": [
         "ac.nz",
