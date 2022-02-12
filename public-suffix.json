@@ -1440,7 +1440,6 @@
     ],
     "community": [
         "myforum.community",
-        "nog.community",
         "ravendb.community"
     ],
     "cool": [
@@ -2507,7 +2506,6 @@
         "ot.it",
         "pa.it",
         "padova.it",
-        "padua.it",
         "palermo.it",
         "parma.it",
         "pavia.it",
@@ -3917,6 +3915,7 @@
         "ozora.hokkaido.jp",
         "ozu.ehime.jp",
         "ozu.kumamoto.jp",
+        "padua.it",
         "pippu.hokkaido.jp",
         "rankoshi.hokkaido.jp",
         "ranzan.saitama.jp",
@@ -6820,6 +6819,7 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
+        "nog.community",
         "shacknet.nu"
     ],
     "nz": [
