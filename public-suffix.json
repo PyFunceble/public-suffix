@@ -423,7 +423,6 @@
         "gouv.bj"
     ],
     "bm": [
-        "com.bm",
         "edu.bm",
         "gov.bm",
         "net.bm",
@@ -444,6 +443,7 @@
         "blog.bo",
         "bolivia.bo",
         "ciencia.bo",
+        "com.bm",
         "com.bo",
         "cooperativa.bo",
         "democracia.bo",
