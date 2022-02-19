@@ -934,7 +934,6 @@
         "net.co",
         "nom.co",
         "org.co",
-        "otap.co",
         "rec.co",
         "repl.co",
         "supabase.co",
@@ -5813,6 +5812,7 @@
         "arvo.network",
         "azimuth.network",
         "co.network",
+        "otap.co",
         "tlon.network"
     ],
     "news": [
