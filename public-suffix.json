@@ -1849,8 +1849,7 @@
         "daemon.panel.gg",
         "kaas.gg",
         "net.gg",
-        "org.gg",
-        "panel.gg"
+        "org.gg"
     ],
     "gh": [
         "com.gh",
@@ -6821,6 +6820,7 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
+        "panel.gg",
         "shacknet.nu"
     ],
     "nz": [
