@@ -809,8 +809,7 @@
         "co.cl",
         "gob.cl",
         "gov.cl",
-        "mil.cl",
-        "tashkent.su"
+        "mil.cl"
     ],
     "cloud": [
         "banzai.cloud",
@@ -7818,6 +7817,7 @@
         "pokrovsk.su",
         "sochi.su",
         "spb.su",
+        "tashkent.su",
         "termez.su",
         "togliatti.su",
         "troitsk.su",
