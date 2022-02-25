@@ -322,6 +322,7 @@
     "bb": [
         "biz.bb",
         "co.bb",
+        "com.bb",
         "edu.bb",
         "gov.bb",
         "info.bb",
@@ -759,7 +760,6 @@
         "twmail.cc"
     ],
     "cd": [
-        "com.bb",
         "gov.cd"
     ],
     "cf": [
