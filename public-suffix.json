@@ -1001,6 +1001,7 @@
         "cn.com",
         "cns.joyent.com",
         "co.com",
+        "co.nl",
         "codespot.com",
         "compute-1.amazonaws.com",
         "compute.amazonaws.com",
@@ -1227,6 +1228,7 @@
         "kozow.com",
         "kr.com",
         "ktistory.com",
+        "kuron.jp",
         "likes-pie.com",
         "likescandy.com",
         "linodeobjects.com",
@@ -5971,7 +5973,6 @@
     "nl": [
         "blogspot.nl",
         "cistron.nl",
-        "co.nl",
         "demon.nl",
         "hosting-cluster.nl",
         "khplay.nl",
