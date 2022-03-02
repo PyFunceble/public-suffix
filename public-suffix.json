@@ -1442,7 +1442,6 @@
         "za.com"
     ],
     "community": [
-        "myforum.community",
         "nog.community",
         "ravendb.community"
     ],
@@ -6923,6 +6922,7 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
+        "myforum.community",
         "shacknet.nu"
     ],
     "nz": [
