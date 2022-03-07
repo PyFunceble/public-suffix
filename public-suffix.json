@@ -1238,6 +1238,7 @@
         "lpusercontent.com",
         "lynx.mythic-beasts.com",
         "mazeplay.com",
+        "me.vu",
         "members.linode.com",
         "messwithdns.com",
         "meteorapp.com",
@@ -2817,7 +2818,6 @@
         "ashiya.hyogo.jp",
         "ashoro.hokkaido.jp",
         "aso.kumamoto.jp",
-        "ass.km",
         "assabu.hokkaido.jp",
         "asuke.aichi.jp",
         "atami.shizuoka.jp",
@@ -4721,6 +4721,7 @@
         "org.ki"
     ],
     "km": [
+        "ass.km",
         "asso.km",
         "com.km",
         "coop.km",
