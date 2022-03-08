@@ -4149,6 +4149,7 @@
         "shinjo.nara.jp",
         "shinjo.okayama.jp",
         "shinjo.yamagata.jp",
+        "shinjuku.tokyo.jp",
         "shinkamigoto.nagasaki.jp",
         "shinonsen.hyogo.jp",
         "shinshinotsu.hokkaido.jp",
@@ -4275,7 +4276,6 @@
         "takazaki.miyazaki.jp",
         "takehara.hiroshima.jp",
         "taketa.oita.jp",
-        "taketomi.okinawa.jp",
         "taki.mie.jp",
         "takikawa.hokkaido.jp",
         "takino.hyogo.jp",
@@ -4749,7 +4749,6 @@
         "gov.kp",
         "org.kp",
         "rep.kp",
-        "shinjuku.tokyo.jp",
         "tra.kp"
     ],
     "kr": [
@@ -5577,6 +5576,7 @@
         "svizzera.museum",
         "sweden.museum",
         "sydney.museum",
+        "taketomi.okinawa.jp",
         "tank.museum",
         "tcm.museum",
         "technology.museum",
