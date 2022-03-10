@@ -4950,7 +4950,6 @@
         "tm.mc"
     ],
     "md": [
-        "at.md",
         "blogspot.md",
         "de.md",
         "jp.md",
@@ -6924,6 +6923,7 @@
         "org.nr"
     ],
     "nu": [
+        "at.md",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
