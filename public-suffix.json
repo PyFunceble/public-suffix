@@ -234,6 +234,7 @@
         "gv.at",
         "in.futurecms.at",
         "info.at",
+        "jed.wafaicloud.com",
         "kunden.ortsinfo.at",
         "lima-city.at",
         "myspreadshop.at",
@@ -487,7 +488,6 @@
         "abc.br",
         "ac.gov.br",
         "ac.leg.br",
-        "adm.br",
         "adv.br",
         "agr.br",
         "aju.br",
@@ -785,6 +785,7 @@
     ],
     "ci": [
         "ac.ci",
+        "adm.br",
         "asso.ci",
         "aéroport.ci",
         "co.ci",
