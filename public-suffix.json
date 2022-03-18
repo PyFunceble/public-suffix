@@ -3450,7 +3450,6 @@
         "kiyama.saga.jp",
         "kiyokawa.kanagawa.jp",
         "kiyosato.hokkaido.jp",
-        "kiyose.tokyo.jp",
         "kiyosu.aichi.jp",
         "kizu.kyoto.jp",
         "kobayashi.miyazaki.jp",
@@ -4774,6 +4773,7 @@
         "jeonbuk.kr",
         "jeonnam.kr",
         "kg.kr",
+        "kiyose.tokyo.jp",
         "mil.kr",
         "ms.kr",
         "ne.kr",
@@ -6440,6 +6440,7 @@
         "nøtterøy.no",
         "odda.no",
         "of.no",
+        "oksnes.no",
         "ol.no",
         "omasvuotna.no",
         "oppdal.no",
@@ -7686,7 +7687,6 @@
         "edu.sb",
         "gov.sb",
         "net.sb",
-        "oksnes.no",
         "org.sb"
     ],
     "sc": [
