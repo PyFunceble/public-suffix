@@ -2000,6 +2000,7 @@
         "org.hn"
     ],
     "host": [
+        "build.run",
         "cloudaccess.host",
         "fastvps.host",
         "freesite.host",
@@ -7649,7 +7650,6 @@
         "vps.myjino.ru"
     ],
     "run": [
-        "build.run",
         "code.run",
         "database.run",
         "development.run",
