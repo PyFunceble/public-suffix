@@ -2000,7 +2000,6 @@
         "org.hn"
     ],
     "host": [
-        "build.run",
         "cloudaccess.host",
         "fastvps.host",
         "freesite.host",
@@ -5640,6 +5639,7 @@
         "xn--comunicaes-v6a2o.museum",
         "xn--correios-e-telecomunicaes-ghc29a.museum",
         "xn--h1aegh.museum",
+        "xn--hnefoss-q1a.no",
         "xn--lns-qla.museum",
         "york.museum",
         "yorkshire.museum",
@@ -6262,7 +6262,6 @@
         "hápmir.no",
         "hå.no",
         "hægebostad.no",
-        "hønefoss.no",
         "høyanger.no",
         "høylandet.no",
         "ibestad.no",
@@ -6761,7 +6760,6 @@
         "xn--hery-ira.xn--mre-og-romsdal-qqb.no",
         "xn--hgebostad-g3a.no",
         "xn--hmmrfeasta-s4ac.no",
-        "xn--hnefoss-q1a.no",
         "xn--hobl-ira.no",
         "xn--holtlen-hxa.no",
         "xn--hpmir-xqa.no",
@@ -7650,6 +7648,7 @@
         "vps.myjino.ru"
     ],
     "run": [
+        "build.run",
         "code.run",
         "database.run",
         "development.run",
@@ -8078,7 +8077,6 @@
         "k12.tr",
         "kep.tr",
         "mil.tr",
-        "name.tr",
         "nc.tr",
         "net.tr",
         "org.tr",
@@ -8502,6 +8500,7 @@
         "ms.us",
         "mt.us",
         "mus.mi.us",
+        "name.tr",
         "nc.us",
         "nd.us",
         "ne.us",
