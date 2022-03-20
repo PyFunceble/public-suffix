@@ -2499,6 +2499,7 @@
         "na.it",
         "naples.it",
         "napoli.it",
+        "no.it",
         "novara.it",
         "nu.it",
         "nuoro.it",
@@ -3841,7 +3842,6 @@
         "nishiwaki.hyogo.jp",
         "nisshin.aichi.jp",
         "niyodogawa.kochi.jp",
-        "no.it",
         "nobeoka.miyazaki.jp",
         "noboribetsu.hokkaido.jp",
         "nobushi.jp",
@@ -4886,7 +4886,8 @@
         "com.lr",
         "edu.lr",
         "gov.lr",
-        "net.lr"
+        "net.lr",
+        "org.lr"
     ],
     "ls": [
         "ac.ls",
@@ -5472,7 +5473,6 @@
         "openair.museum",
         "oregon.museum",
         "oregontrail.museum",
-        "org.lr",
         "otago.museum",
         "oxford.museum",
         "pacific.museum",
