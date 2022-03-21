@@ -363,7 +363,6 @@
         "b.bg",
         "barsy.bg",
         "blogspot.bg",
-        "c.bg",
         "d.bg",
         "e.bg",
         "f.bg",
@@ -396,6 +395,7 @@
         "org.bh"
     ],
     "bi": [
+        "c.bg",
         "co.bi",
         "com.bi",
         "edu.bi",
