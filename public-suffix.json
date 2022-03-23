@@ -356,6 +356,7 @@
         "4.bg",
         "5.bg",
         "6.bg",
+        "7.bg",
         "8.bg",
         "9.bg",
         "a.bg",
@@ -783,7 +784,6 @@
         "svc.firenet.ch"
     ],
     "ci": [
-        "7.bg",
         "ac.ci",
         "asso.ci",
         "aéroport.ci",
