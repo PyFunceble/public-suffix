@@ -1251,7 +1251,6 @@
         "myasustor.com",
         "mydatto.com",
         "mydobiss.com",
-        "mydrobo.com",
         "myiphost.com",
         "myqnapcloud.com",
         "myravendb.com",
@@ -6931,6 +6930,7 @@
     ],
     "nu": [
         "enterprisecloud.nu",
+        "magnet.page",
         "merseine.nu",
         "mine.nu",
         "shacknet.nu"
@@ -7101,6 +7101,7 @@
         "mt.eu.org",
         "my-firewall.org",
         "my.eu.org",
+        "mydrobo.com",
         "myfirewall.org",
         "myftp.org",
         "mysecuritycamera.org",
@@ -7178,7 +7179,6 @@
         "codeberg.page",
         "hlx.page",
         "hlx3.page",
-        "magnet.page",
         "pdns.page",
         "plesk.page",
         "prvcy.page",
