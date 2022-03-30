@@ -1489,8 +1489,7 @@
     ],
     "cx": [
         "ath.cx",
-        "gov.cx",
-        "info.cx"
+        "gov.cx"
     ],
     "cy": [
         "ac.cy",
@@ -2516,6 +2515,7 @@
         "or.it",
         "oristano.it",
         "ot.it",
+        "pa.it",
         "padova.it",
         "padua.it",
         "palermo.it",
@@ -3997,7 +3997,6 @@
         "ozora.hokkaido.jp",
         "ozu.ehime.jp",
         "ozu.kumamoto.jp",
-        "pa.it",
         "parallel.jp",
         "parasite.jp",
         "pecori.jp",
@@ -7623,6 +7622,7 @@
         "grozny.ru",
         "hb.cldmail.ru",
         "hosting.myjino.ru",
+        "info.cx",
         "int.ru",
         "jelastic.regruhosting.ru",
         "kalmykia.ru",
