@@ -1489,7 +1489,8 @@
     ],
     "cx": [
         "ath.cx",
-        "gov.cx"
+        "gov.cx",
+        "info.cx"
     ],
     "cy": [
         "ac.cy",
@@ -6319,7 +6320,6 @@
         "kvæfjord.no",
         "kvænangen.no",
         "kárášjohka.no",
-        "kåfjord.no",
         "laakesvuemie.no",
         "lahppi.no",
         "langevag.no",
@@ -7622,7 +7622,6 @@
         "grozny.ru",
         "hb.cldmail.ru",
         "hosting.myjino.ru",
-        "info.cx",
         "int.ru",
         "jelastic.regruhosting.ru",
         "kalmykia.ru",
