@@ -6931,7 +6931,6 @@
         "org.nr"
     ],
     "nu": [
-        "clan.rip",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
@@ -7572,6 +7571,9 @@
     ],
     "review": [
         "ybo.review"
+    ],
+    "rip": [
+        "clan.rip"
     ],
     "ro": [
         "arts.ro",
