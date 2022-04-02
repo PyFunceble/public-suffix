@@ -1622,7 +1622,6 @@
     ],
     "digital": [
         "cloudapps.digital",
-        "cust.retrosnub.co.uk",
         "london.cloudapps.digital"
     ],
     "dk": [
@@ -5044,7 +5043,6 @@
         "edu.ml",
         "gouv.ml",
         "gov.ml",
-        "net.ml",
         "org.ml",
         "presse.ml"
     ],
@@ -5460,6 +5458,7 @@
         "naumburg.museum",
         "naval.museum",
         "nebraska.museum",
+        "net.ml",
         "neues.museum",
         "newhampshire.museum",
         "newjersey.museum",
