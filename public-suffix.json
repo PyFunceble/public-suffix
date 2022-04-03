@@ -7699,7 +7699,6 @@
     "sc": [
         "com.sc",
         "edu.sc",
-        "gov.sc",
         "net.sc",
         "org.sc"
     ],
@@ -7850,6 +7849,7 @@
     "so": [
         "com.so",
         "edu.so",
+        "gov.sc",
         "gov.so",
         "me.so",
         "net.so",
