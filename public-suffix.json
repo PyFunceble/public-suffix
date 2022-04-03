@@ -7699,6 +7699,7 @@
     "sc": [
         "com.sc",
         "edu.sc",
+        "gov.sc",
         "net.sc",
         "org.sc"
     ],
@@ -7849,7 +7850,6 @@
     "so": [
         "com.so",
         "edu.so",
-        "gov.sc",
         "gov.so",
         "me.so",
         "net.so",
@@ -8296,7 +8296,6 @@
         "pymnt.uk",
         "raffleentry.org.uk",
         "royal-commission.uk",
-        "sch.uk",
         "service.gov.uk",
         "vm.bytemark.co.uk",
         "weeklylottery.org.uk",
@@ -8532,6 +8531,7 @@
         "pvt.k12.ma.us",
         "ri.us",
         "sc.us",
+        "sch.uk",
         "sd.us",
         "stuff-4-sale.us",
         "tec.mi.us",
