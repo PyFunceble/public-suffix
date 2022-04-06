@@ -545,6 +545,7 @@
         "emp.br",
         "enf.br",
         "eng.br",
+        "enterprisecloud.nu",
         "es.gov.br",
         "es.leg.br",
         "esp.br",
@@ -1646,7 +1647,6 @@
     ],
     "digital": [
         "cloudapps.digital",
-        "here-for-more.info",
         "london.cloudapps.digital"
     ],
     "dk": [
@@ -2188,6 +2188,7 @@
         "forumz.info",
         "groks-the.info",
         "groks-this.info",
+        "here-for-more.info",
         "ilovecollege.info",
         "knowsitall.info",
         "mayfirst.info",
