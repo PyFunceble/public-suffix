@@ -7123,7 +7123,6 @@
         "misconfused.org",
         "mk.eu.org",
         "mlbfan.org",
-        "moonscale.net",
         "mozilla-iot.org",
         "mt.eu.org",
         "my-firewall.org",
@@ -8050,6 +8049,7 @@
     ],
     "tm": [
         "co.tm",
+        "com.tm",
         "edu.tm",
         "gov.tm",
         "mil.tm",
@@ -8665,7 +8665,6 @@
     "ws": [
         "advisor.ws",
         "cloud66.ws",
-        "com.tm",
         "com.ws",
         "dyndns.ws",
         "edu.ws",
