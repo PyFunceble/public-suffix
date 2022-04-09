@@ -1515,7 +1515,8 @@
     "cx": [
         "ath.cx",
         "gov.cx",
-        "info.cx"
+        "info.cx",
+        "pcloud.host"
     ],
     "cy": [
         "ac.cy",
@@ -2880,6 +2881,7 @@
         "boo.jp",
         "boy.jp",
         "boyfriend.jp",
+        "broadcast.museum",
         "bungoono.oita.jp",
         "bungotakada.oita.jp",
         "bunkyo.tokyo.jp",
