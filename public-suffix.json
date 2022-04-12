@@ -6959,8 +6959,7 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "shacknet.nu",
-        "storebase.store"
+        "shacknet.nu"
     ],
     "nz": [
         "ac.nz",
@@ -7916,7 +7915,8 @@
     ],
     "store": [
         "sellfy.store",
-        "shopware.store"
+        "shopware.store",
+        "storebase.store"
     ],
     "su": [
         "abkhazia.su",
