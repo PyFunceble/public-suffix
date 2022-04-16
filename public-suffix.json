@@ -835,7 +835,6 @@
         "k8s.fr-par.scw.cloud",
         "k8s.nl-ams.scw.cloud",
         "k8s.pl-waw.scw.cloud",
-        "k8s.scw.cloud",
         "keliweb.cloud",
         "kuleuven.cloud",
         "linkyard.cloud",
@@ -6958,6 +6957,7 @@
     ],
     "nu": [
         "enterprisecloud.nu",
+        "k8s.scw.cloud",
         "merseine.nu",
         "mine.nu",
         "shacknet.nu"
