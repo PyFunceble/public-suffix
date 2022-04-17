@@ -4550,7 +4550,6 @@
         "xn--nit225k.jp",
         "xn--ntso0iqx3a.jp",
         "xn--ntsq17g.jp",
-        "xn--od0alg.cn",
         "xn--pssu33l.jp",
         "xn--qqqt11m.jp",
         "xn--rht27z.jp",
@@ -6001,7 +6000,6 @@
         "mil.ni",
         "net.ni",
         "nom.ni",
-        "org.ni",
         "web.ni"
     ],
     "nl": [
@@ -6480,6 +6478,7 @@
         "oppdal.no",
         "oppegard.no",
         "oppegård.no",
+        "org.ni",
         "orkanger.no",
         "orkdal.no",
         "orland.no",
