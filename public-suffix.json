@@ -1897,7 +1897,6 @@
         "org.gh"
     ],
     "gi": [
-        "com.gi",
         "edu.gi",
         "gov.gi",
         "ltd.gi",
@@ -1982,6 +1981,7 @@
     ],
     "hk": [
         "blogspot.hk",
+        "com.gi",
         "com.hk",
         "edu.hk",
         "gov.hk",
@@ -5298,6 +5298,7 @@
         "education.museum",
         "educational.museum",
         "egyptian.museum",
+        "eisenbahn.museum",
         "elburg.museum",
         "elvendrell.museum",
         "embroidery.museum",
@@ -5372,7 +5373,6 @@
         "historisches.museum",
         "history.museum",
         "historyofscience.museum",
-        "hobol.no",
         "horology.museum",
         "house.museum",
         "humanities.museum",
@@ -6140,7 +6140,6 @@
         "eidskog.no",
         "eidsvoll.no",
         "eigersund.no",
-        "eisenbahn.museum",
         "elverum.no",
         "enebakk.no",
         "engerdal.no",
@@ -6272,6 +6271,7 @@
         "hjelmeland.no",
         "hl.no",
         "hm.no",
+        "hobol.no",
         "hobøl.no",
         "hof.no",
         "hokksund.no",
