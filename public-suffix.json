@@ -870,6 +870,7 @@
         "us.reclaim.cloud",
         "vapor.cloud",
         "vip.jelastic.cloud",
+        "voorloper.cloud",
         "whm.fr-par.scw.cloud",
         "whm.nl-ams.scw.cloud"
     ],
@@ -5297,7 +5298,6 @@
         "education.museum",
         "educational.museum",
         "egyptian.museum",
-        "eisenbahn.museum",
         "elburg.museum",
         "elvendrell.museum",
         "embroidery.museum",
@@ -5372,6 +5372,7 @@
         "historisches.museum",
         "history.museum",
         "historyofscience.museum",
+        "hobol.no",
         "horology.museum",
         "house.museum",
         "humanities.museum",
@@ -6139,6 +6140,7 @@
         "eidskog.no",
         "eidsvoll.no",
         "eigersund.no",
+        "eisenbahn.museum",
         "elverum.no",
         "enebakk.no",
         "engerdal.no",
@@ -6270,7 +6272,6 @@
         "hjelmeland.no",
         "hl.no",
         "hm.no",
-        "hobol.no",
         "hobøl.no",
         "hof.no",
         "hokksund.no",
@@ -6959,8 +6960,7 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "shacknet.nu",
-        "voorloper.cloud"
+        "shacknet.nu"
     ],
     "nz": [
         "ac.nz",
