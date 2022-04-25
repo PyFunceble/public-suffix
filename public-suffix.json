@@ -5069,8 +5069,7 @@
         "gouv.ml",
         "gov.ml",
         "net.ml",
-        "org.ml",
-        "presse.ml"
+        "org.ml"
     ],
     "mm": [
         "mm"
@@ -5534,6 +5533,7 @@
         "preservation.museum",
         "presidio.museum",
         "press.museum",
+        "presse.ml",
         "project.museum",
         "public.museum",
         "pubol.museum",
