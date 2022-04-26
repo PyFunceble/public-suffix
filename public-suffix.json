@@ -2226,7 +2226,6 @@
         "definima.io",
         "devices.resinstaging.io",
         "drud.io",
-        "dscloud.mobi",
         "dyn53.io",
         "dyndns.dappnode.io",
         "editorx.io",
@@ -5090,7 +5089,8 @@
         "org.mo"
     ],
     "mobi": [
-        "barsy.mobi"
+        "barsy.mobi",
+        "dscloud.mobi"
     ],
     "mom": [
         "and.mom",
