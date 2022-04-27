@@ -816,6 +816,7 @@
     ],
     "cloud": [
         "banzai.cloud",
+        "blogspot.nl",
         "ca.reclaim.cloud",
         "ch.trendhosting.cloud",
         "cs.keliweb.cloud",
@@ -2507,7 +2508,6 @@
         "matera.it",
         "mb.it",
         "mc.it",
-        "me.it",
         "medio-campidano.it",
         "mediocampidano.it",
         "messina.it",
@@ -3623,6 +3623,7 @@
         "matsuura.nagasaki.jp",
         "matsuyama.ehime.jp",
         "matsuzaki.shizuoka.jp",
+        "me.it",
         "meguro.tokyo.jp",
         "meiwa.gunma.jp",
         "meiwa.mie.jp",
@@ -6004,7 +6005,6 @@
         "web.ni"
     ],
     "nl": [
-        "blogspot.nl",
         "cistron.nl",
         "co.nl",
         "demon.nl",
