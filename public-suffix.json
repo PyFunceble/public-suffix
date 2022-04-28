@@ -752,6 +752,7 @@
         "ui.nabu.casa"
     ],
     "cc": [
+        "cloudns.cc",
         "csx.cc",
         "fantasyleague.cc",
         "ftpaccess.cc",
@@ -5803,7 +5804,6 @@
         "cloudfront.net",
         "cloudfunctions.net",
         "cloudjiffy.net",
-        "cloudns.cc",
         "cloudycluster.net",
         "community-pro.net",
         "cryptonomic.net",
