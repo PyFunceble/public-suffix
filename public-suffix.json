@@ -1689,8 +1689,7 @@
         "tm.dz"
     ],
     "earth": [
-        "bzz.dapps.earth",
-        "dapps.earth"
+        "bzz.dapps.earth"
     ],
     "ec": [
         "base.ec",
@@ -2222,6 +2221,7 @@
         "cust.disrec.thingdust.io",
         "cust.prod.thingdust.io",
         "cust.testing.thingdust.io",
+        "dapps.earth",
         "dedyn.io",
         "definima.io",
         "devices.resinstaging.io",
