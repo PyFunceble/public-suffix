@@ -8595,6 +8595,7 @@
         "edu.vc",
         "gov.vc",
         "gv.vc",
+        "mil.vc",
         "net.vc",
         "org.vc"
     ],
@@ -8672,10 +8673,6 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
-    ],
-    "xn--o3cw4h": [
-        "mil.vc",
-        "xn--12co0c3b4eva.xn--o3cw4h"
     ],
     "xyz": [
         "blogsite.xyz",
