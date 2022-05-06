@@ -5192,6 +5192,7 @@
         "bilbao.museum",
         "bill.museum",
         "birdart.museum",
+        "birthplace.museum",
         "bonn.museum",
         "boston.museum",
         "botanical.museum",
@@ -7702,7 +7703,6 @@
         "org.rw"
     ],
     "sa": [
-        "birthplace.museum",
         "com.sa",
         "edu.sa",
         "gov.sa",
