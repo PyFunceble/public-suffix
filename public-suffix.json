@@ -894,7 +894,6 @@
         "cn-northwest-1.eb.amazonaws.com.cn",
         "com.cn",
         "compute.amazonaws.com.cn",
-        "cosenza.it",
         "cq.cn",
         "direct.quickconnect.cn",
         "edu.cn",
@@ -1334,6 +1333,7 @@
         "rackmaze.com",
         "rag-cloud-ch.hosteur.com",
         "rag-cloud.hosteur.com",
+        "raindrop.jp",
         "remotewd.com",
         "reservd.com",
         "reserve-online.com",
@@ -2415,6 +2415,7 @@
         "cn.it",
         "co.it",
         "como.it",
+        "cosenza.it",
         "cr.it",
         "cremona.it",
         "crotone.it",
@@ -5039,6 +5040,9 @@
         "for.men",
         "repair.men"
     ],
+    "menu": [
+        "barsy.menu"
+    ],
     "mg": [
         "co.mg",
         "com.mg",
@@ -5779,7 +5783,6 @@
         "bar0.net",
         "bar1.net",
         "bar2.net",
-        "barsy.menu",
         "barsy.net",
         "beta.tailscale.net",
         "bitbridge.net",
