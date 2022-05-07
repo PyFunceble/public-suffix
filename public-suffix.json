@@ -2290,6 +2290,7 @@
         "org.iq"
     ],
     "ir": [
+        "ac.ir",
         "co.ir",
         "gov.ir",
         "id.ir",
@@ -2317,7 +2318,6 @@
         "64-b.it",
         "abr.it",
         "abruzzo.it",
-        "ac.ir",
         "ag.it",
         "agrigento.it",
         "al.it",
@@ -4030,7 +4030,6 @@
         "peewee.jp",
         "penne.jp",
         "pepper.jp",
-        "perma.jp",
         "pigboat.jp",
         "pinoko.jp",
         "pippu.hokkaido.jp",
@@ -4843,6 +4842,7 @@
         "mil.kz",
         "net.kz",
         "org.kz",
+        "perma.jp",
         "upaas.kazteleport.kz"
     ],
     "la": [
