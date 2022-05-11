@@ -1633,6 +1633,7 @@
         "lcl.dev",
         "lclstage.dev",
         "loginline.dev",
+        "magentosite.cloud",
         "mediatech.dev",
         "pages.dev",
         "platter-app.dev",
@@ -4873,7 +4874,6 @@
         "co.lc",
         "com.lc",
         "edu.lc",
-        "gov.lc",
         "net.lc",
         "org.lc",
         "oy.lc"
@@ -6209,6 +6209,7 @@
         "gjøvik.no",
         "gloppen.no",
         "gol.no",
+        "gov.lc",
         "gran.no",
         "grane.no",
         "granvin.no",
