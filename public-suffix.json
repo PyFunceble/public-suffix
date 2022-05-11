@@ -1499,7 +1499,6 @@
         "org.cu"
     ],
     "cv": [
-        "blogspot.cv",
         "com.cv",
         "edu.cv",
         "int.cv",
@@ -1622,6 +1621,7 @@
         "bss.design"
     ],
     "dev": [
+        "blogspot.cv",
         "curv.dev",
         "deno-staging.dev",
         "deno.dev",
@@ -8207,7 +8207,6 @@
         "dnipropetrovsk.ua",
         "donetsk.ua",
         "dp.ua",
-        "east-kazakhstan.su",
         "edu.ua",
         "gov.ua",
         "if.ua",
