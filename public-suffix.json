@@ -480,8 +480,7 @@
         "tksat.bo",
         "transporte.bo",
         "tv.bo",
-        "web.bo",
-        "wiki.bo"
+        "web.bo"
     ],
     "br": [
         "9guacu.br",
@@ -679,6 +678,7 @@
         "vet.br",
         "vix.br",
         "vlog.br",
+        "wiki.bo",
         "wiki.br",
         "zlg.br"
     ],
@@ -1035,6 +1035,7 @@
         "codespot.com",
         "compute-1.amazonaws.com",
         "compute.amazonaws.com",
+        "conf.se",
         "customer-oci.com",
         "customer.mythic-beasts.com",
         "damnserver.com",
