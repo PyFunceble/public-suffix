@@ -848,6 +848,7 @@
         "oxa.cloud",
         "perspecta.cloud",
         "primetel.cloud",
+        "priv.instances.scw.cloud",
         "pub.instances.scw.cloud",
         "ravendb.cloud",
         "s3-website.fr-par.scw.cloud",
@@ -6963,7 +6964,6 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "priv.instances.scw.cloud",
         "shacknet.nu"
     ],
     "nz": [
