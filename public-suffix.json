@@ -8164,7 +8164,6 @@
         "ebiz.tw",
         "edu.tw",
         "game.tw",
-        "gov.tw",
         "idv.tw",
         "mil.tw",
         "mymailer.com.tw",
@@ -8747,6 +8746,7 @@
     "zw": [
         "ac.zw",
         "co.zw",
+        "gov.tw",
         "gov.zw",
         "mil.zw",
         "org.zw"
