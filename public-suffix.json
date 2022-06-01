@@ -3988,7 +3988,6 @@
         "ooshika.nagano.jp",
         "or.jp",
         "ora.gunma.jp",
-        "org.uz",
         "osaka.jp",
         "osakasayama.osaka.jp",
         "osaki.miyagi.jp",
@@ -6484,7 +6483,6 @@
         "oppdal.no",
         "oppegard.no",
         "oppegård.no",
-        "org.uz",
         "orkanger.no",
         "orkdal.no",
         "orland.no",
@@ -8595,7 +8593,8 @@
     "uz": [
         "co.uz",
         "com.uz",
-        "net.uz"
+        "net.uz",
+        "org.uz"
     ],
     "vc": [
         "0e.vc",
