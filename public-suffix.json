@@ -361,6 +361,7 @@
         "8.bg",
         "9.bg",
         "a.bg",
+        "asso.ci",
         "b.bg",
         "barsy.bg",
         "blogspot.bg",
@@ -4858,7 +4859,8 @@
         "int.la",
         "net.la",
         "org.la",
-        "per.la"
+        "per.la",
+        "vm.bytemark.co.uk"
     ],
     "land": [
         "dev.static.land",
@@ -5430,6 +5432,7 @@
         "lucerne.museum",
         "luxembourg.museum",
         "luzern.museum",
+        "läns.museum",
         "mad.museum",
         "madrid.museum",
         "mallorca.museum",
@@ -5673,6 +5676,7 @@
         "xn--comunicaes-v6a2o.museum",
         "xn--correios-e-telecomunicaes-ghc29a.museum",
         "xn--h1aegh.museum",
+        "xn--lns-qla.museum",
         "york.museum",
         "yorkshire.museum",
         "yosemite.museum",
@@ -6826,7 +6830,6 @@
         "xn--lgrd-poac.no",
         "xn--lhppi-xqa.no",
         "xn--linds-pra.no",
-        "xn--lns-qla.museum",
         "xn--loabt-0qa.no",
         "xn--lrdal-sra.no",
         "xn--lrenskog-54a.no",
@@ -7810,7 +7813,8 @@
         "gov.sg",
         "net.sg",
         "org.sg",
-        "per.sg"
+        "per.sg",
+        "sells-it.net"
     ],
     "sh": [
         "bc.platform.sh",
@@ -8331,7 +8335,6 @@
         "royal-commission.uk",
         "sch.uk",
         "service.gov.uk",
-        "vm.bytemark.co.uk",
         "weeklylottery.org.uk",
         "wellbeingzone.co.uk"
     ],
