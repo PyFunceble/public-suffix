@@ -1933,7 +1933,6 @@
         "app.gp",
         "asso.gp",
         "com.gp",
-        "edu.gp",
         "mobi.gp",
         "net.gp",
         "org.gp"
@@ -1986,6 +1985,7 @@
     "hk": [
         "blogspot.hk",
         "com.hk",
+        "edu.gp",
         "edu.hk",
         "gov.hk",
         "idv.hk",
