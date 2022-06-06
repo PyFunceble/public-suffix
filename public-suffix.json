@@ -795,6 +795,7 @@
         "fin.ci",
         "go.ci",
         "gouv.ci",
+        "gov.gu",
         "int.ci",
         "md.ci",
         "net.ci",
@@ -1964,7 +1965,6 @@
     "gu": [
         "com.gu",
         "edu.gu",
-        "gov.gu",
         "guam.gu",
         "info.gu",
         "net.gu",
