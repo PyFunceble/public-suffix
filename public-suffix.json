@@ -4820,8 +4820,7 @@
         "ulsan.kr"
     ],
     "krd": [
-        "co.krd",
-        "edu.krd"
+        "co.krd"
     ],
     "kw": [
         "com.kw",
@@ -6961,6 +6960,7 @@
         "org.nr"
     ],
     "nu": [
+        "edu.krd",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
