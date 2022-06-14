@@ -2271,7 +2271,6 @@
         "shiftedit.io",
         "shw.io",
         "spacekit.io",
-        "square7.net",
         "stage.nodeart.io",
         "stolos.io",
         "sys.qcx.io",
@@ -7750,8 +7749,7 @@
         "info.sd",
         "med.sd",
         "net.sd",
-        "org.sd",
-        "tv.sd"
+        "org.sd"
     ],
     "se": [
         "a.se",
@@ -8081,7 +8079,8 @@
         "orangecloud.tn",
         "org.tn",
         "perso.tn",
-        "tourism.tn"
+        "tourism.tn",
+        "tv.sd"
     ],
     "to": [
         "611.to",
