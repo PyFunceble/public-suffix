@@ -1926,8 +1926,7 @@
     ],
     "goog": [
         "cloud.goog",
-        "translate.goog",
-        "usercontent.goog"
+        "translate.goog"
     ],
     "gp": [
         "app.gp",
@@ -7856,7 +7855,8 @@
         "opensocial.site",
         "platformsh.site",
         "srht.site",
-        "tst.site"
+        "tst.site",
+        "usercontent.goog"
     ],
     "sk": [
         "blogspot.sk"
