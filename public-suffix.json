@@ -1182,6 +1182,7 @@
         "homelinux.com",
         "homesecuritymac.com",
         "homesecuritypc.com",
+        "homesklep.pl",
         "homeunix.com",
         "hostedpi.com",
         "hotelwithflight.com",
@@ -1926,7 +1927,8 @@
     ],
     "goog": [
         "cloud.goog",
-        "translate.goog"
+        "translate.goog",
+        "usercontent.goog"
     ],
     "gp": [
         "app.gp",
@@ -7855,8 +7857,7 @@
         "opensocial.site",
         "platformsh.site",
         "srht.site",
-        "tst.site",
-        "usercontent.goog"
+        "tst.site"
     ],
     "sk": [
         "blogspot.sk"
