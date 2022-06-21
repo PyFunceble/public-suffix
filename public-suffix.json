@@ -1012,7 +1012,6 @@
         "betainabox.com",
         "blogdns.com",
         "blogspot.com",
-        "blogspot.qa",
         "blogsyte.com",
         "bloxcms.com",
         "bounty-full.com",
@@ -7585,6 +7584,7 @@
         "org.py"
     ],
     "qa": [
+        "blogspot.qa",
         "com.qa",
         "edu.qa",
         "gov.qa",
