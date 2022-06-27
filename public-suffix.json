@@ -1031,7 +1031,6 @@
         "cloudcontrolled.com",
         "cn.com",
         "cns.joyent.com",
-        "co.bn",
         "co.com",
         "codespot.com",
         "compute-1.amazonaws.com",
@@ -6537,6 +6536,7 @@
         "romsa.no",
         "romskog.no",
         "roros.no",
+        "rost.no",
         "royken.no",
         "royrvik.no",
         "ruovat.no",
@@ -7732,8 +7732,7 @@
         "edu.sc",
         "gov.sc",
         "net.sc",
-        "org.sc",
-        "rost.no"
+        "org.sc"
     ],
     "science": [
         "ybo.science"
