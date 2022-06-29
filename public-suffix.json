@@ -6111,7 +6111,6 @@
         "báhccavuotna.no",
         "báidár.no",
         "bájddar.no",
-        "bálát.no",
         "bådåddjå.no",
         "båtsfjord.no",
         "bærum.no",
@@ -6766,7 +6765,6 @@
         "xn--bievt-0qa.no",
         "xn--bjarky-fya.no",
         "xn--bjddar-pta.no",
-        "xn--blt-elab.no",
         "xn--bmlo-gra.no",
         "xn--bod-2na.no",
         "xn--brnny-wuac.no",
@@ -8051,7 +8049,8 @@
         "nic.tj",
         "org.tj",
         "test.tj",
-        "web.tj"
+        "web.tj",
+        "xn--blt-elab.no"
     ],
     "tl": [
         "gov.tl"
