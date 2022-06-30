@@ -735,7 +735,6 @@
         "co.ca",
         "gc.ca",
         "mb.ca",
-        "myspreadshop.ca",
         "nb.ca",
         "nf.ca",
         "nl.ca",
@@ -4980,6 +4979,7 @@
         "press.ma"
     ],
     "management": [
+        "myspreadshop.ca",
         "router.management"
     ],
     "marketing": [
