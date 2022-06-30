@@ -5006,7 +5006,6 @@
         "daplie.me",
         "ddns.me",
         "diskstation.me",
-        "dnsfor.me",
         "dscloud.me",
         "edgestack.me",
         "edu.me",
@@ -8691,6 +8690,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--p1acf": [
+        "dnsfor.me",
+        "xn--90a1af.xn--p1acf"
     ],
     "xyz": [
         "blogsite.xyz",
