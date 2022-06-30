@@ -1038,7 +1038,6 @@
         "compute.amazonaws.com",
         "customer-oci.com",
         "customer.mythic-beasts.com",
-        "damnserver.com",
         "dattolocal.com",
         "dattorelay.com",
         "dattoweb.com",
@@ -4917,6 +4916,7 @@
         "web.lk"
     ],
     "lol": [
+        "damnserver.com",
         "omg.lol"
     ],
     "london": [
