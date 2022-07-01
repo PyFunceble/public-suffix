@@ -150,8 +150,7 @@
         "neko.am",
         "net.am",
         "nyaa.am",
-        "org.am",
-        "radio.am"
+        "org.am"
     ],
     "ao": [
         "co.ao",
@@ -7244,6 +7243,7 @@
         "pg"
     ],
     "ph": [
+        "com.ph",
         "edu.ph",
         "gov.ph",
         "i.ph",
@@ -7970,6 +7970,7 @@
         "obninsk.su",
         "penza.su",
         "pokrovsk.su",
+        "radio.am",
         "sochi.su",
         "spb.su",
         "tashkent.su",
@@ -8045,7 +8046,6 @@
         "ac.tj",
         "biz.tj",
         "co.tj",
-        "com.ph",
         "com.tj",
         "edu.tj",
         "go.tj",
