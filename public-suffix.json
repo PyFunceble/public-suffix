@@ -5637,6 +5637,7 @@
         "trolley.museum",
         "trust.museum",
         "trustee.museum",
+        "tv.na",
         "uhren.museum",
         "ulm.museum",
         "undersea.museum",
@@ -5704,8 +5705,7 @@
         "name.mv",
         "net.mv",
         "org.mv",
-        "pro.mv",
-        "xn--s-1fa.no"
+        "pro.mv"
     ],
     "mw": [
         "ac.mw",
