@@ -1786,7 +1786,8 @@
     ],
     "events": [
         "co.events",
-        "koobin.events"
+        "koobin.events",
+        "netlify.app"
     ],
     "faith": [
         "ybo.faith"
