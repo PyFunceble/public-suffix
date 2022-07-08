@@ -6821,6 +6821,7 @@
         "xn--krdsherad-m8a.no",
         "xn--krehamn-dxa.no",
         "xn--krjohka-hwab49j.no",
+        "xn--ksnes-uua.no",
         "xn--kvfjord-nxa.no",
         "xn--kvitsy-fya.no",
         "xn--kvnangen-k0a.no",
@@ -6942,6 +6943,7 @@
         "ås.no",
         "åseral.no",
         "åsnes.no",
+        "øksnes.no",
         "ørland.no",
         "ørskog.no",
         "ørsta.no",
@@ -7207,8 +7209,7 @@
         "net.pa",
         "nom.pa",
         "org.pa",
-        "sld.pa",
-        "xn--ksnes-uua.no"
+        "sld.pa"
     ],
     "page": [
         "codeberg.page",
