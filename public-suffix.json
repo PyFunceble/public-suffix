@@ -5681,7 +5681,6 @@
         "xn--correios-e-telecomunicaes-ghc29a.museum",
         "xn--h1aegh.museum",
         "xn--lns-qla.museum",
-        "xn--unjrga-rta.no",
         "york.museum",
         "yorkshire.museum",
         "yosemite.museum",
@@ -7417,6 +7416,7 @@
         "rawa-maz.pl",
         "realestate.pl",
         "rel.pl",
+        "ruovat.no",
         "rybnik.pl",
         "rzeszow.pl",
         "rzgw.gov.pl",
@@ -7488,6 +7488,7 @@
         "wolomin.pl",
         "wroc.pl",
         "wroclaw.pl",
+        "wsa.gov.pl",
         "wskr.gov.pl",
         "wuoz.gov.pl",
         "wzmiuw.gov.pl",
@@ -7909,8 +7910,7 @@
         "me.ss",
         "net.ss",
         "org.ss",
-        "sch.ss",
-        "wsa.gov.pl"
+        "sch.ss"
     ],
     "st": [
         "co.st",
@@ -8554,7 +8554,6 @@
         "nc.us",
         "nd.us",
         "ne.us",
-        "nh.us",
         "nj.us",
         "nm.us",
         "noip.us",
@@ -8692,6 +8691,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--90a3ac": [
+        "nh.us",
+        "xn--90azh.xn--90a3ac"
     ],
     "xyz": [
         "blogsite.xyz",
