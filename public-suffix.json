@@ -5391,6 +5391,7 @@
         "indiana.museum",
         "indianapolis.museum",
         "indianmarket.museum",
+        "info.mv",
         "intelligence.museum",
         "interactive.museum",
         "iraq.museum",
@@ -5905,7 +5906,6 @@
         "ny-2.paas.massivegrid.net",
         "office-on-the.net",
         "onavstack.net",
-        "org.sb",
         "ownip.net",
         "pages.torproject.net",
         "pgafan.net",
@@ -7731,7 +7731,8 @@
         "com.sb",
         "edu.sb",
         "gov.sb",
-        "net.sb"
+        "net.sb",
+        "org.sb"
     ],
     "sc": [
         "com.sc",
