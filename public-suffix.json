@@ -5993,7 +5993,6 @@
         "name.ng",
         "net.ng",
         "ngo.ng",
-        "org.ng",
         "sch.ng"
     ],
     "ni": [
@@ -6489,6 +6488,7 @@
         "oppdal.no",
         "oppegard.no",
         "oppegård.no",
+        "org.ng",
         "orkanger.no",
         "orkdal.no",
         "orland.no",
