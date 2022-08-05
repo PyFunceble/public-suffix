@@ -2278,7 +2278,6 @@
         "stolos.io",
         "sys.qcx.io",
         "telebit.io",
-        "tickets.io",
         "uk0.bigv.io",
         "upli.io",
         "utwente.io",
@@ -6970,7 +6969,8 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "shacknet.nu"
+        "shacknet.nu",
+        "tickets.io"
     ],
     "nz": [
         "ac.nz",
