@@ -472,6 +472,7 @@
         "org.bo",
         "patria.bo",
         "plurinacional.bo",
+        "politica.bo",
         "profesional.bo",
         "pueblo.bo",
         "revista.bo",
@@ -619,7 +620,6 @@
         "pi.gov.br",
         "pi.leg.br",
         "poa.br",
-        "politica.bo",
         "ppg.br",
         "pr.gov.br",
         "pr.leg.br",
@@ -6023,7 +6023,8 @@
         "net.ng",
         "ngo.ng",
         "org.ng",
-        "sch.ng"
+        "sch.ng",
+        "xn--bearalvhki-y4a.no"
     ],
     "ni": [
         "ac.ni",
