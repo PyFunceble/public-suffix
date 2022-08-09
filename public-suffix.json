@@ -2887,6 +2887,7 @@
         "ashoro.hokkaido.jp",
         "aso.kumamoto.jp",
         "assabu.hokkaido.jp",
+        "asso.mc",
         "asuke.aichi.jp",
         "atami.shizuoka.jp",
         "atsugi.kanagawa.jp",
@@ -7867,8 +7868,7 @@
     "shop": [
         "barsy.shop",
         "base.shop",
-        "hoplix.shop",
-        "repair.men"
+        "hoplix.shop"
     ],
     "si": [
         "blogspot.si",
