@@ -475,6 +475,7 @@
         "politica.bo",
         "profesional.bo",
         "pueblo.bo",
+        "revista.bo",
         "salud.bo",
         "tecnologia.bo",
         "tksat.bo",
@@ -802,7 +803,6 @@
         "or.ci",
         "org.ci",
         "presse.ci",
-        "revista.bo",
         "xn--aroport-bya.ci"
     ],
     "ck": [
