@@ -4748,6 +4748,7 @@
         "静岡.jp",
         "香川.jp",
         "高知.jp",
+        "鳥取.jp",
         "鹿児島.jp"
     ],
     "ke": [
@@ -5230,6 +5231,7 @@
         "bill.museum",
         "birdart.museum",
         "birthplace.museum",
+        "biz.ni",
         "bonn.museum",
         "boston.museum",
         "botanical.museum",
@@ -6026,7 +6028,6 @@
     ],
     "ni": [
         "ac.ni",
-        "biz.ni",
         "co.ni",
         "com.ni",
         "edu.ni",
