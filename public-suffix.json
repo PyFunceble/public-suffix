@@ -256,7 +256,6 @@
         "gov.au",
         "id.au",
         "info.au",
-        "mel.cloudlets.com.au",
         "myspreadshop.com.au",
         "net.au",
         "nsw.au",
@@ -1600,6 +1599,7 @@
         "logoip.de",
         "mein-iserv.de",
         "mein-vigor.de",
+        "mel.cloudlets.com.au",
         "my-gateway.de",
         "my-router.de",
         "my-vigor.de",
@@ -2313,7 +2313,8 @@
         "utwente.io",
         "vaporcloud.io",
         "virtualserver.io",
-        "webthings.io"
+        "webthings.io",
+        "wedeploy.io"
     ],
     "iq": [
         "com.iq",
@@ -2902,7 +2903,6 @@
         "bambina.jp",
         "bandai.fukushima.jp",
         "bando.ibaraki.jp",
-        "barsy.site",
         "bato.tochigi.jp",
         "beppu.oita.jp",
         "bibai.hokkaido.jp",
@@ -7875,6 +7875,7 @@
         "gitpage.si"
     ],
     "site": [
+        "barsy.site",
         "byen.site",
         "cloudera.site",
         "cyon.site",
@@ -8719,10 +8720,6 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
-    ],
-    "xn--p1acf": [
-        "wedeploy.io",
-        "xn--90amc.xn--p1acf"
     ],
     "xyz": [
         "blogsite.xyz",
