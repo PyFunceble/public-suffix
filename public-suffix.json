@@ -2313,8 +2313,7 @@
         "utwente.io",
         "vaporcloud.io",
         "virtualserver.io",
-        "webthings.io",
-        "wedeploy.io"
+        "webthings.io"
     ],
     "iq": [
         "com.iq",
@@ -2903,6 +2902,7 @@
         "bambina.jp",
         "bandai.fukushima.jp",
         "bando.ibaraki.jp",
+        "barsy.site",
         "bato.tochigi.jp",
         "beppu.oita.jp",
         "bibai.hokkaido.jp",
@@ -7875,7 +7875,6 @@
         "gitpage.si"
     ],
     "site": [
-        "barsy.site",
         "byen.site",
         "cloudera.site",
         "cyon.site",
@@ -8720,6 +8719,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--p1acf": [
+        "wedeploy.io",
+        "xn--90amc.xn--p1acf"
     ],
     "xyz": [
         "blogsite.xyz",
