@@ -1559,6 +1559,7 @@
         "customer.speedpartner.de",
         "dd-dns.de",
         "ddnss.de",
+        "discourse.group",
         "diskussionsbereich.de",
         "dnshome.de",
         "dnsupdater.de",
@@ -1948,9 +1949,6 @@
         "gov.gr",
         "net.gr",
         "org.gr"
-    ],
-    "group": [
-        "discourse.group"
     ],
     "gt": [
         "blog.gt",
