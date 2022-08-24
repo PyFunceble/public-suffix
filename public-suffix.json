@@ -430,8 +430,7 @@
         "com.bm",
         "edu.bm",
         "gov.bm",
-        "net.bm",
-        "org.bm"
+        "net.bm"
     ],
     "bn": [
         "co.bn",
@@ -469,6 +468,7 @@
         "net.bo",
         "nombre.bo",
         "noticias.bo",
+        "org.bm",
         "org.bo",
         "patria.bo",
         "plurinacional.bo",
