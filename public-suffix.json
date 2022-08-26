@@ -2256,7 +2256,6 @@
         "browsersafetymark.io",
         "cleverapps.io",
         "cloud-fr1.unispace.io",
-        "collegefan.org",
         "com.io",
         "cust.dev.thingdust.io",
         "cust.disrec.thingdust.io",
@@ -8498,6 +8497,7 @@
         "k12.mn.us",
         "k12.mo.us",
         "k12.ms.us",
+        "k12.mt.us",
         "k12.nc.us",
         "k12.ne.us",
         "k12.nh.us",
@@ -8736,10 +8736,6 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
-    ],
-    "xn--j6w193g": [
-        "k12.mt.us",
-        "xn--uc0atv.xn--j6w193g"
     ],
     "xyz": [
         "blogsite.xyz",
