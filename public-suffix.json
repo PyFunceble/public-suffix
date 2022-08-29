@@ -7339,7 +7339,6 @@
         "dlugoleka.pl",
         "ecommerce-shop.pl",
         "edu.pl",
-        "edu.sb",
         "elblag.pl",
         "elk.pl",
         "gda.pl",
@@ -7768,6 +7767,7 @@
     ],
     "sb": [
         "com.sb",
+        "edu.sb",
         "gov.sb",
         "net.sb",
         "org.sb"
