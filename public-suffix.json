@@ -2245,7 +2245,6 @@
         "apps.lair.io",
         "azurecontainer.io",
         "b-data.io",
-        "backplaneapp.io",
         "backyards.banzaicloud.io",
         "barsy.io",
         "basicserver.io",
@@ -4888,6 +4887,7 @@
         "upaas.kazteleport.kz"
     ],
     "la": [
+        "backplaneapp.io",
         "bnr.la",
         "c.la",
         "com.la",
