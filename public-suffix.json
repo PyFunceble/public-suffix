@@ -4770,7 +4770,6 @@
     "kg": [
         "blog.kg",
         "com.kg",
-        "edu.kg",
         "gov.kg",
         "io.kg",
         "jp.kg",
@@ -4787,6 +4786,7 @@
     "ki": [
         "biz.ki",
         "com.ki",
+        "edu.kg",
         "edu.ki",
         "gov.ki",
         "info.ki",
