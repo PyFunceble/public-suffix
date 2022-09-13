@@ -899,7 +899,6 @@
         "cq.cn",
         "direct.quickconnect.cn",
         "edu.cn",
-        "edu.gt",
         "elb.amazonaws.com.cn",
         "fj.cn",
         "gd.cn",
@@ -1959,6 +1958,7 @@
         "blog.gt",
         "com.gt",
         "de.gt",
+        "edu.gt",
         "gob.gt",
         "ind.gt",
         "mil.gt",
@@ -5624,6 +5624,7 @@
         "settlers.museum",
         "shell.museum",
         "sherbrooke.museum",
+        "sibenik.museum",
         "silk.museum",
         "ski.museum",
         "skole.museum",
@@ -6356,6 +6357,7 @@
         "jorpeland.no",
         "jølster.no",
         "jørpeland.no",
+        "k12.wi.us",
         "kafjord.no",
         "karasjohka.no",
         "karasjok.no",
@@ -6615,7 +6617,6 @@
         "selje.no",
         "seljord.no",
         "sf.no",
-        "sibenik.museum",
         "siellak.no",
         "sigdal.no",
         "siljan.no",
@@ -6789,7 +6790,6 @@
         "várggát.no",
         "vågan.no",
         "vågsøy.no",
-        "vågå.no",
         "våler.hedmark.no",
         "våler.østfold.no",
         "værøy.no",
@@ -6954,7 +6954,6 @@
         "xn--vard-jra.no",
         "xn--vegrshei-c0a.no",
         "xn--vestvgy-ixa6o.no",
-        "xn--vg-yiab.no",
         "xn--vgan-qoa.no",
         "xn--vgsy-qoa0j.no",
         "xn--vler-qoa.hedmark.no",
@@ -8109,7 +8108,8 @@
         "mil.tm",
         "net.tm",
         "nom.tm",
-        "org.tm"
+        "org.tm",
+        "xn--uc0atv.xn--j6w193g"
     ],
     "tn": [
         "com.tn",
@@ -8518,7 +8518,6 @@
         "k12.vi.us",
         "k12.vt.us",
         "k12.wa.us",
-        "k12.wi.us",
         "k12.wy.us",
         "kids.us",
         "ks.us",
@@ -8800,7 +8799,8 @@
         "co.zw",
         "gov.zw",
         "mil.zw",
-        "org.zw"
+        "org.zw",
+        "xn--vg-yiab.no"
     ],
     "рус": [
         "xn--41a.xn--p1acf",
