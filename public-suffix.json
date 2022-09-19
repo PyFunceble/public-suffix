@@ -2294,7 +2294,6 @@
         "protonet.io",
         "pstmn.io",
         "qcx.io",
-        "qoto.io",
         "readthedocs.io",
         "reservd.dev.thingdust.io",
         "reservd.disrec.thingdust.io",
@@ -5946,6 +5945,7 @@
         "pgafan.net",
         "podzone.net",
         "privatizehealthinsurance.net",
+        "qoto.io",
         "r.cdn77.net",
         "rackmaze.net",
         "redirectme.net",
@@ -7076,7 +7076,6 @@
         "ca.eu.org",
         "cable-modem.org",
         "camdvr.org",
-        "catfood.jp",
         "cd.eu.org",
         "certmgr.org",
         "ch.eu.org",
@@ -7786,6 +7785,7 @@
     "scot": [
         "edu.scot",
         "gov.scot",
+        "qoto.io",
         "service.gov.scot"
     ],
     "sd": [
