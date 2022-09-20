@@ -4752,6 +4752,7 @@
         "静岡.jp",
         "香川.jp",
         "高知.jp",
+        "鳥取.jp",
         "鹿児島.jp"
     ],
     "ke": [
@@ -6677,6 +6678,7 @@
         "stjørdalshalsen.no",
         "stokke.no",
         "stor-elvdal.no",
+        "stord.no",
         "stordal.no",
         "storfjord.no",
         "strand.no",
@@ -7243,8 +7245,7 @@
         "net.pa",
         "nom.pa",
         "org.pa",
-        "sld.pa",
-        "stord.no"
+        "sld.pa"
     ],
     "page": [
         "codeberg.page",
