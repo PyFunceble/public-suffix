@@ -2297,7 +2297,6 @@
         "qoto.io",
         "readthedocs.io",
         "reservd.dev.thingdust.io",
-        "reservd.disrec.thingdust.io",
         "reservd.testing.thingdust.io",
         "resindevice.io",
         "s5y.io",
@@ -8736,6 +8735,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--p1acf": [
+        "reservd.disrec.thingdust.io",
+        "xn--j1aef.xn--p1acf"
     ],
     "xyz": [
         "blogsite.xyz",
