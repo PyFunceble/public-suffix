@@ -7770,8 +7770,7 @@
         "edu.sb",
         "gov.sb",
         "net.sb",
-        "org.sb",
-        "web.tj"
+        "org.sb"
     ],
     "sc": [
         "com.sc",
@@ -8625,8 +8624,7 @@
         "washtenaw.mi.us",
         "wi.us",
         "wv.us",
-        "wy.us",
-        "xn--12c1fe0br.xn--o3cw4h"
+        "wy.us"
     ],
     "uy": [
         "blogspot.com.uy",
@@ -8851,6 +8849,7 @@
         "צהל.ישראל"
     ],
     "ไทย": [
+        "xn--12c1fe0br.xn--o3cw4h",
         "xn--12cfi8ixb8l.xn--o3cw4h",
         "xn--12co0c3b4eva.xn--o3cw4h",
         "xn--h3cuzk1di.xn--o3cw4h",
@@ -8859,6 +8858,7 @@
         "ทหาร.ไทย",
         "ธุรกิจ.ไทย",
         "รัฐบาล.ไทย",
+        "ศึกษา.ไทย",
         "องค์กร.ไทย",
         "เน็ต.ไทย"
     ],
