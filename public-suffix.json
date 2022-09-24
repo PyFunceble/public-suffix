@@ -7678,6 +7678,7 @@
         "mil.qa",
         "name.qa",
         "net.qa",
+        "org.qa",
         "sch.qa"
     ],
     "re": [
@@ -8334,7 +8335,6 @@
         "od.ua",
         "odesa.ua",
         "odessa.ua",
-        "org.qa",
         "org.ua",
         "pl.ua",
         "poltava.ua",
