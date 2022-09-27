@@ -754,7 +754,6 @@
         "ui.nabu.casa"
     ],
     "cc": [
-        "cloudns.cc",
         "csx.cc",
         "fantasyleague.cc",
         "ftpaccess.cc",
@@ -1672,6 +1671,7 @@
         "bss.design"
     ],
     "dev": [
+        "cloudns.cc",
         "curv.dev",
         "deno-staging.dev",
         "deno.dev",
