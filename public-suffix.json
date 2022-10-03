@@ -654,6 +654,7 @@
         "saobernardo.br",
         "saogonca.br",
         "sc.gov.br",
+        "sc.leg.br",
         "se.gov.br",
         "se.leg.br",
         "seg.br",
@@ -5694,6 +5695,7 @@
         "surrey.museum",
         "svizzera.museum",
         "sweden.museum",
+        "sydney.museum",
         "tank.museum",
         "tcm.museum",
         "technology.museum",
@@ -5801,8 +5803,7 @@
         "edu.mx",
         "gob.mx",
         "net.mx",
-        "org.mx",
-        "sydney.museum"
+        "org.mx"
     ],
     "my": [
         "biz.my",
@@ -7912,7 +7913,6 @@
         "net.sh",
         "now.sh",
         "org.sh",
-        "sc.leg.br",
         "us.platform.sh",
         "vxl.sh",
         "wedeploy.sh"
