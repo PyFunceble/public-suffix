@@ -143,6 +143,7 @@
         "org.al"
     ],
     "am": [
+        "blogspot.am",
         "co.am",
         "com.am",
         "commune.am",
@@ -1014,7 +1015,6 @@
         "beta.bounty-full.com",
         "betainabox.com",
         "blogdns.com",
-        "blogspot.am",
         "blogspot.com",
         "blogsyte.com",
         "bloxcms.com",
@@ -1825,7 +1825,6 @@
         "mycd.eu",
         "spdns.eu",
         "transurl.eu",
-        "vladikavkaz.su",
         "wellbeingzone.eu"
     ],
     "eus": [
@@ -8066,6 +8065,7 @@
         "tselinograd.su",
         "tula.su",
         "tuva.su",
+        "vladikavkaz.su",
         "vladimir.su",
         "vologda.su"
     ],
