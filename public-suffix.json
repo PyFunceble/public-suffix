@@ -2313,7 +2313,6 @@
         "dyndns.dappnode.io",
         "editorx.io",
         "edugit.io",
-        "enterprisecloud.nu",
         "fh-muenster.io",
         "g.vbrplsbx.io",
         "ghost.io",
@@ -5539,7 +5538,6 @@
         "mesaverde.museum",
         "michigan.museum",
         "midatlantic.museum",
-        "mil.mv",
         "military.museum",
         "mill.museum",
         "miners.museum",
@@ -6599,7 +6597,6 @@
         "priv.no",
         "rade.no",
         "radoy.no",
-        "radøy.no",
         "rahkkeravju.no",
         "raholt.no",
         "raisa.no",
@@ -6944,7 +6941,6 @@
         "xn--ostery-fya.no",
         "xn--osyro-wua.no",
         "xn--porsgu-sta26f.no",
-        "xn--rady-ira.no",
         "xn--rdal-poa.no",
         "xn--rde-ula.no",
         "xn--rdy-0nab.no",
@@ -7357,7 +7353,8 @@
         "info.pk",
         "net.pk",
         "org.pk",
-        "web.pk"
+        "web.pk",
+        "xn--rady-ira.no"
     ],
     "pl": [
         "agro.pl",
