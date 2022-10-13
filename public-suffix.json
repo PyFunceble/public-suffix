@@ -7365,7 +7365,6 @@
         "gob.pk",
         "gok.pk",
         "gon.pk",
-        "gop.pk",
         "gos.pk",
         "gov.pk",
         "info.pk",
@@ -7992,6 +7991,7 @@
     "so": [
         "com.so",
         "edu.so",
+        "gop.pk",
         "gov.so",
         "me.so",
         "net.so",
