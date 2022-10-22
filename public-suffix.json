@@ -4971,6 +4971,7 @@
         "edu.lc",
         "gov.lc",
         "net.lc",
+        "org.lc",
         "oy.lc"
     ],
     "li": [
@@ -5588,7 +5589,6 @@
         "openair.museum",
         "oregon.museum",
         "oregontrail.museum",
-        "org.lc",
         "otago.museum",
         "oxford.museum",
         "pacific.museum",
@@ -5890,7 +5890,6 @@
         "cloudfunctions.net",
         "cloudjiffy.net",
         "cloudycluster.net",
-        "community-pro.net",
         "cryptonomic.net",
         "dattolocal.net",
         "ddns.net",
@@ -7045,6 +7044,7 @@
         "org.nr"
     ],
     "nu": [
+        "community-pro.net",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
