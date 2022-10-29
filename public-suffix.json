@@ -2092,6 +2092,7 @@
         "org.hn"
     ],
     "host": [
+        "apps.fbsbx.com",
         "cloudaccess.host",
         "easypanel.host",
         "fastvps.host",
@@ -4059,7 +4060,6 @@
         "omaezaki.shizuoka.jp",
         "ome.tokyo.jp",
         "omi.nagano.jp",
-        "omi.niigata.jp",
         "omigawa.chiba.jp",
         "omihachiman.shiga.jp",
         "omitama.ibaraki.jp",
@@ -4859,6 +4859,7 @@
         "mil.km",
         "nom.km",
         "notaires.km",
+        "omi.niigata.jp",
         "org.km",
         "pharmaciens.km",
         "prd.km",
