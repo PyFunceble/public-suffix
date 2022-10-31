@@ -184,6 +184,7 @@
         "onflashdrive.app",
         "platform0.app",
         "run.app",
+        "telebit.app",
         "typedream.app",
         "vercel.app",
         "web.app",
@@ -7047,8 +7048,7 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "shacknet.nu",
-        "telebit.app"
+        "shacknet.nu"
     ],
     "nz": [
         "ac.nz",
