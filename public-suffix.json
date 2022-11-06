@@ -1668,6 +1668,7 @@
         "taifun-dns.de",
         "test-iserv.de",
         "traeumtgerade.de",
+        "triton.zone",
         "uberspace.de",
         "virtual-user.de",
         "virtualuser.de",
@@ -8825,8 +8826,7 @@
     "zone": [
         "cloud66.zone",
         "hs.zone",
-        "lima.zone",
-        "triton.zone"
+        "lima.zone"
     ],
     "zw": [
         "ac.zw",
