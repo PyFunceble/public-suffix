@@ -4264,7 +4264,6 @@
         "shimonita.gunma.jp",
         "shimonoseki.yamaguchi.jp",
         "shimosuwa.nagano.jp",
-        "shimotsuke.tochigi.jp",
         "shimotsuma.ibaraki.jp",
         "shinagawa.tokyo.jp",
         "shinanomachi.nagano.jp",
@@ -4909,6 +4908,7 @@
         "re.kr",
         "sc.kr",
         "seoul.kr",
+        "shimotsuke.tochigi.jp",
         "ulsan.kr"
     ],
     "krd": [
@@ -8120,6 +8120,7 @@
         "net.th",
         "online.th",
         "or.th",
+        "or.us",
         "shop.th"
     ],
     "tj": [
