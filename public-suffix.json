@@ -187,7 +187,6 @@
         "telebit.app",
         "typedream.app",
         "vercel.app",
-        "web.app",
         "wnext.app"
     ],
     "ar": [
@@ -4264,6 +4263,7 @@
         "shimonita.gunma.jp",
         "shimonoseki.yamaguchi.jp",
         "shimosuwa.nagano.jp",
+        "shimotsuke.tochigi.jp",
         "shimotsuma.ibaraki.jp",
         "shinagawa.tokyo.jp",
         "shinanomachi.nagano.jp",
@@ -4908,7 +4908,6 @@
         "re.kr",
         "sc.kr",
         "seoul.kr",
-        "shimotsuke.tochigi.jp",
         "ulsan.kr"
     ],
     "krd": [
@@ -4938,7 +4937,8 @@
         "mil.kz",
         "net.kz",
         "org.kz",
-        "upaas.kazteleport.kz"
+        "upaas.kazteleport.kz",
+        "web.app"
     ],
     "la": [
         "bnr.la",
@@ -7197,6 +7197,7 @@
         "is.eu.org",
         "isa-geek.org",
         "it.eu.org",
+        "jcloud.kz",
         "jp.eu.org",
         "js.org",
         "kicks-ass.org",
@@ -8120,7 +8121,6 @@
         "net.th",
         "online.th",
         "or.th",
-        "or.us",
         "shop.th"
     ],
     "tj": [
