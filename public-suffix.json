@@ -187,6 +187,7 @@
         "telebit.app",
         "typedream.app",
         "vercel.app",
+        "web.app",
         "wnext.app"
     ],
     "ar": [
@@ -4937,8 +4938,7 @@
         "mil.kz",
         "net.kz",
         "org.kz",
-        "upaas.kazteleport.kz",
-        "web.app"
+        "upaas.kazteleport.kz"
     ],
     "la": [
         "bnr.la",
@@ -7197,7 +7197,6 @@
         "is.eu.org",
         "isa-geek.org",
         "it.eu.org",
-        "jcloud.kz",
         "jp.eu.org",
         "js.org",
         "kicks-ass.org",
