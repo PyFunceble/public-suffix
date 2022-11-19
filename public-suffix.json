@@ -2347,6 +2347,7 @@
         "pstmn.io",
         "qcx.io",
         "qoto.io",
+        "readthedocs.io",
         "reservd.dev.thingdust.io",
         "reservd.disrec.thingdust.io",
         "reservd.testing.thingdust.io",
@@ -2711,6 +2712,7 @@
         "südtirol.it",
         "ta.it",
         "taa.it",
+        "taito.tokyo.jp",
         "taranto.it",
         "te.it",
         "tempio-olbia.it",
@@ -5175,8 +5177,7 @@
     ],
     "mobi": [
         "barsy.mobi",
-        "dscloud.mobi",
-        "readthedocs.io"
+        "dscloud.mobi"
     ],
     "mp": [
         "ju.mp"
