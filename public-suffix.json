@@ -7463,6 +7463,7 @@
         "opole.pl",
         "org.pl",
         "ostroda.pl",
+        "ostroleka.pl",
         "ostrowiec.pl",
         "ostrowwlkp.pl",
         "oum.gov.pl",
@@ -8148,8 +8149,7 @@
         "mil.tm",
         "net.tm",
         "nom.tm",
-        "org.tm",
-        "ostroleka.pl"
+        "org.tm"
     ],
     "tn": [
         "com.tn",
@@ -8707,6 +8707,7 @@
         "net.ve",
         "nom.ve",
         "org.ve",
+        "org.zw",
         "rar.ve",
         "rec.ve",
         "store.ve",
