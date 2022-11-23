@@ -319,6 +319,7 @@
         "mil.ba",
         "net.ba",
         "org.ba",
+        "outsystemscloud.com",
         "rs.ba"
     ],
     "basketball": [
@@ -4091,7 +4092,6 @@
         "osakikamijima.hiroshima.jp",
         "oseto.nagasaki.jp",
         "oshima.tokyo.jp",
-        "oshima.yamaguchi.jp",
         "oshino.yamanashi.jp",
         "oshu.iwate.jp",
         "ota.gunma.jp",
@@ -5592,6 +5592,7 @@
         "openair.museum",
         "oregon.museum",
         "oregontrail.museum",
+        "oshima.yamaguchi.jp",
         "otago.museum",
         "oxford.museum",
         "pacific.museum",
@@ -7821,7 +7822,8 @@
         "edu.sc",
         "gov.sc",
         "net.sc",
-        "org.sc"
+        "org.sc",
+        "org.zw"
     ],
     "science": [
         "ybo.science"
