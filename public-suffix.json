@@ -766,8 +766,7 @@
         "instances.spawn.cc",
         "myphotos.cc",
         "scrapping.cc",
-        "twmail.cc",
-        "ybo.party"
+        "twmail.cc"
     ],
     "cd": [
         "gov.cd"
