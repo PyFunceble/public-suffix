@@ -7636,6 +7636,7 @@
         "com.ps",
         "edu.ps",
         "gov.ps",
+        "net.ps",
         "org.ps",
         "plo.ps",
         "sec.ps"
@@ -8179,7 +8180,6 @@
         "edu.to",
         "gov.to",
         "mil.to",
-        "net.ps",
         "net.to",
         "nyan.to",
         "org.to",
