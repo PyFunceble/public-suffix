@@ -1087,7 +1087,6 @@
         "dyndns-ip.com",
         "dyndns-mail.com",
         "dyndns-office.com",
-        "dyndns-pics.com",
         "dyndns-remote.com",
         "dyndns-server.com",
         "dyndns-web.com",
@@ -8029,6 +8028,7 @@
         "bukhara.su",
         "chimkent.su",
         "dagestan.su",
+        "dyndns-pics.com",
         "east-kazakhstan.su",
         "exnet.su",
         "georgia.su",
@@ -8065,6 +8065,7 @@
         "tselinograd.su",
         "tula.su",
         "tuva.su",
+        "vivian.jp",
         "vladikavkaz.su",
         "vladimir.su",
         "vologda.su"
@@ -8825,6 +8826,7 @@
         "mil.zm",
         "net.zm",
         "org.zm",
+        "org.zw",
         "sch.zm"
     ],
     "zone": [
