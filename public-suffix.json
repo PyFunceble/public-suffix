@@ -1281,7 +1281,6 @@
         "dattolocal.com",
         "dattorelay.com",
         "dattoweb.com",
-        "ddns5.com",
         "ddnsfree.com",
         "ddnsgeek.com",
         "ddnsking.com",
@@ -6189,7 +6188,6 @@
         "map.fastly.net",
         "map.fastlylb.net",
         "meinforum.net",
-        "memset.net",
         "moonscale.net",
         "myamaze.net",
         "mydatto.net",
@@ -8277,6 +8275,7 @@
     ],
     "store": [
         "barsy.store",
+        "memset.net",
         "sellfy.store",
         "shopware.store",
         "storebase.store"
