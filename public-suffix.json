@@ -8073,7 +8073,6 @@
     "sb": [
         "com.sb",
         "edu.sb",
-        "gov.sb",
         "net.sb",
         "org.sb"
     ],
@@ -9174,6 +9173,7 @@
     "zw": [
         "ac.zw",
         "co.zw",
+        "gov.sb",
         "gov.zw",
         "mil.zw",
         "org.zw"
