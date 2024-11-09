@@ -8993,7 +8993,6 @@
         "info.ve",
         "int.ve",
         "mil.ve",
-        "net.ve",
         "nom.ve",
         "org.ve",
         "rar.ve",
@@ -9049,6 +9048,7 @@
         "hoabinh.vn",
         "hungyen.vn",
         "id.vn",
+        "info.vn",
         "int.vn",
         "io.vn",
         "khanhhoa.vn",
@@ -9180,8 +9180,8 @@
         "ac.zw",
         "co.zw",
         "gov.zw",
-        "info.vn",
         "mil.zw",
+        "net.ve",
         "org.zw"
     ],
     "рус": [
