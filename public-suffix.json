@@ -522,8 +522,7 @@
         "no-ip.biz",
         "orx.biz",
         "selfip.biz",
-        "webhop.biz",
-        "xn--mxtq1m.hk"
+        "webhop.biz"
     ],
     "bj": [
         "africa.bj",
@@ -2001,7 +2000,6 @@
         "s3.eu-south-2.amazonaws.com",
         "s3.eu-west-1.amazonaws.com",
         "s3.eu-west-2.amazonaws.com",
-        "s3.eu-west-3.amazonaws.com",
         "s3.il-central-1.amazonaws.com",
         "s3.me-central-1.amazonaws.com",
         "s3.me-south-1.amazonaws.com",
@@ -2647,6 +2645,7 @@
         "pharmacien.fr",
         "port.fr",
         "prd.fr",
+        "s3.eu-west-3.amazonaws.com",
         "tm.fr",
         "veterinaire.fr",
         "ynh.fr"
