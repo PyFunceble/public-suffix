@@ -1250,6 +1250,7 @@
         "co.com",
         "codespot.com",
         "compute-1.amazonaws.com",
+        "compute.amazonaws.com",
         "cprapid.com",
         "cpserver.com",
         "customer-oci.com",
@@ -7246,7 +7247,6 @@
         "org.nr"
     ],
     "nu": [
-        "compute.amazonaws.com",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
