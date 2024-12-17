@@ -5603,6 +5603,7 @@
         "notaires.km",
         "org.km",
         "pharmaciens.km",
+        "prd.km",
         "presse.km",
         "tm.km",
         "veterinaire.km"
@@ -6788,7 +6789,6 @@
         "porsangu.no",
         "porsgrunn.no",
         "porsáŋgu.no",
-        "prd.km",
         "priv.no",
         "rade.no",
         "radoy.no",
@@ -7247,6 +7247,7 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
+        "service.one",
         "shacknet.nu"
     ],
     "nz": [
@@ -7281,8 +7282,7 @@
         "pro.om"
     ],
     "one": [
-        "kin.one",
-        "service.one"
+        "kin.one"
     ],
     "ong": [
         "obl.ong"
@@ -7634,6 +7634,7 @@
         "leczna.pl",
         "legnica.pl",
         "lezajsk.pl",
+        "lib.nh.us",
         "limanowa.pl",
         "lodz.pl",
         "lomza.pl",
