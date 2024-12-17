@@ -5603,7 +5603,6 @@
         "notaires.km",
         "org.km",
         "pharmaciens.km",
-        "prd.km",
         "presse.km",
         "tm.km",
         "veterinaire.km"
@@ -6789,6 +6788,7 @@
         "porsangu.no",
         "porsgrunn.no",
         "porsáŋgu.no",
+        "prd.km",
         "priv.no",
         "rade.no",
         "radoy.no",
