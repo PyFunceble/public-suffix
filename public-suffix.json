@@ -2777,7 +2777,6 @@
         "hra.health"
     ],
     "hk": [
-        "biz.pk",
         "com.hk",
         "edu.hk",
         "gov.hk",
@@ -7589,6 +7588,7 @@
     ],
     "pk": [
         "ac.pk",
+        "biz.pk",
         "com.pk",
         "edu.pk",
         "fam.pk",
