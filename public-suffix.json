@@ -6170,7 +6170,6 @@
         "hosting.ovh.net",
         "hu.net",
         "in-dsl.net",
-        "in-the-band.net",
         "in-vpn.net",
         "in.net",
         "iobb.net",
@@ -8972,7 +8971,8 @@
         "web.ve"
     ],
     "vg": [
-        "edu.vg"
+        "edu.vg",
+        "in-the-band.net"
     ],
     "vi": [
         "co.vi",
