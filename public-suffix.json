@@ -5788,7 +5788,6 @@
         "omg.lol"
     ],
     "lr": [
-        "com.lr",
         "edu.lr",
         "gov.lr",
         "net.lr",
@@ -8373,6 +8372,7 @@
     "th": [
         "ac.th",
         "co.th",
+        "com.lr",
         "go.th",
         "in.th",
         "mi.th",
