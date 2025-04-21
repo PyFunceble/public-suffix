@@ -2915,7 +2915,6 @@
         "or.id",
         "ponpes.id",
         "sch.id",
-        "w.se",
         "web.id",
         "zone.id"
     ],
@@ -8141,6 +8140,7 @@
         "t.se",
         "tm.se",
         "u.se",
+        "w.se",
         "x.se",
         "y.se",
         "z.se"
