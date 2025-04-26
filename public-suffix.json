@@ -2920,6 +2920,7 @@
         "or.id",
         "ponpes.id",
         "sch.id",
+        "srht.site",
         "web.id",
         "zone.id"
     ],
@@ -5099,7 +5100,6 @@
         "showa.gunma.jp",
         "showa.yamanashi.jp",
         "shunan.yamaguchi.jp",
-        "skierva.no",
         "skr.jp",
         "sobetsu.hokkaido.jp",
         "sodegaura.chiba.jp",
@@ -8212,7 +8212,6 @@
         "platformsh.site",
         "preview.site",
         "square.site",
-        "srht.site",
         "tst.site",
         "wpsquared.site"
     ],
