@@ -1558,7 +1558,6 @@
         "gotpantheon.com",
         "gr.com",
         "grayjayleagues.com",
-        "gyeongbuk.kr",
         "hatenablog.com",
         "hatenadiary.com",
         "health-carereform.com",
@@ -5682,6 +5681,7 @@
         "gangwon.kr",
         "go.kr",
         "gwangju.kr",
+        "gyeongbuk.kr",
         "gyeonggi.kr",
         "gyeongnam.kr",
         "hs.kr",
@@ -7047,6 +7047,7 @@
         "ulvik.no",
         "unjarga.no",
         "unjárga.no",
+        "us.gov.pl",
         "utsira.no",
         "va.no",
         "vaapste.no",
@@ -7266,7 +7267,6 @@
         "xn--vry-yla5g.no",
         "xn--yer-zna.no",
         "xn--ygarden-p1a.no",
-        "xn--ystre-slidre-ujb.no",
         "ákŋoluokta.no",
         "álaheadju.no",
         "áltá.no",
@@ -8835,7 +8835,6 @@
         "lib.ca.us",
         "lib.co.us",
         "lib.ct.us",
-        "lib.dc.us",
         "lib.de.us",
         "lib.fl.us",
         "lib.ga.us",
@@ -8929,8 +8928,7 @@
         "washtenaw.mi.us",
         "wi.us",
         "wv.us",
-        "wy.us",
-        "xn--mxtq1m.hk"
+        "wy.us"
     ],
     "uy": [
         "com.uy",
@@ -9156,6 +9154,7 @@
         "ac.zw",
         "co.zw",
         "gov.zw",
+        "lib.dc.us",
         "mil.zw",
         "org.zw"
     ],
