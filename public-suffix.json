@@ -5835,7 +5835,8 @@
         "med.ly",
         "net.ly",
         "org.ly",
-        "plc.ly"
+        "plc.ly",
+        "sch.ly"
     ],
     "ma": [
         "ac.ma",
@@ -6908,7 +6909,6 @@
         "sarpsborg.no",
         "sauda.no",
         "sauherad.no",
-        "sch.ly",
         "sel.no",
         "selbu.no",
         "selje.no",
