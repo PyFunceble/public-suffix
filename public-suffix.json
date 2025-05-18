@@ -4720,6 +4720,7 @@
         "nishiarita.saga.jp",
         "nishiawakura.okayama.jp",
         "nishiazai.shiga.jp",
+        "nishigo.fukushima.jp",
         "nishihara.kumamoto.jp",
         "nishihara.okinawa.jp",
         "nishiizu.shizuoka.jp",
@@ -6798,7 +6799,6 @@
         "nesoddtangen.no",
         "nesseby.no",
         "nesset.no",
-        "nishigo.fukushima.jp",
         "nissedal.no",
         "nittedal.no",
         "nl.no",
@@ -7465,7 +7465,6 @@
         "js.org",
         "kicks-ass.org",
         "kr.eu.org",
-        "lt.eu.org",
         "lu.eu.org",
         "lv.eu.org",
         "mayfirst.org",
@@ -9094,6 +9093,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--p1acf": [
+        "lt.eu.org",
+        "xn--h1aliz.xn--p1acf"
     ],
     "xyz": [
         "botdash.xyz",
