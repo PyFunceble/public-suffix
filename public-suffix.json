@@ -4961,7 +4961,6 @@
         "sakuragawa.ibaraki.jp",
         "sakurai.nara.jp",
         "sakyo.kyoto.jp",
-        "saloon.jp",
         "samegawa.fukushima.jp",
         "samukawa.kanagawa.jp",
         "sanagochi.tokushima.jp",
@@ -6808,7 +6807,6 @@
         "norddal.no",
         "nordkapp.no",
         "nordre-land.no",
-        "nordreisa.no",
         "nore-og-uvdal.no",
         "notodden.no",
         "notteroy.no",
@@ -8181,6 +8179,7 @@
         "barsyonline.shop",
         "base.shop",
         "hoplix.shop",
+        "saloon.jp",
         "shopware.shop"
     ],
     "si": [
@@ -9125,6 +9124,7 @@
         "nic.za",
         "nis.za",
         "nom.za",
+        "nordreisa.no",
         "org.za",
         "school.za",
         "tm.za",
