@@ -2583,7 +2583,8 @@
     ],
     "email": [
         "on.crisp.email",
-        "p.tawk.email"
+        "p.tawk.email",
+        "p.tawkto.email"
     ],
     "er": [
         "er"
@@ -2835,7 +2836,6 @@
         "ltd.hk",
         "net.hk",
         "org.hk",
-        "p.tawkto.email",
         "xn--55qx5d.hk",
         "xn--ciqpn.hk",
         "xn--gmq050i.hk",
@@ -5834,6 +5834,7 @@
         "net.lk",
         "ngo.lk",
         "org.lk",
+        "osteroy.no",
         "sch.lk",
         "soc.lk",
         "web.lk"
