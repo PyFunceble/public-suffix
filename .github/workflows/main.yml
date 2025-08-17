@@ -9,7 +9,6 @@ on:
   schedule:
     - cron: "35 */6 * * *"
   workflow_dispatch: {}
-  
 
 env:
   PYFUNCEBLE_AUTO_CONFIGURATION: "YES"
@@ -41,7 +40,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install --pre PyFunceble-dev 
+          pip install PyFunceble-dev
 
       - name: Get PyFunceble version
         run: |
