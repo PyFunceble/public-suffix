@@ -217,6 +217,7 @@
         "up.railway.app",
         "upsun.app",
         "vercel.app",
+        "wal.app",
         "wdh.app",
         "web.app",
         "windsurf.app",
@@ -1237,7 +1238,9 @@
         "nom.co",
         "org.co",
         "otap.co",
+        "realtime.supabase.co",
         "repl.co",
+        "storage.supabase.co",
         "supabase.co",
         "xmit.co"
     ],
