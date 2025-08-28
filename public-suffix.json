@@ -5156,7 +5156,6 @@
         "seihi.nagasaki.jp",
         "seika.kyoto.jp",
         "seiro.niigata.jp",
-        "seirou.niigata.jp",
         "seiyo.ehime.jp",
         "seki.gifu.jp",
         "sekigahara.gifu.jp",
@@ -6072,7 +6071,8 @@
         "mil.mg",
         "nom.mg",
         "org.mg",
-        "prd.mg"
+        "prd.mg",
+        "seirou.niigata.jp"
     ],
     "mk": [
         "com.mk",
