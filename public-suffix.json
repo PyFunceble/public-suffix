@@ -1058,6 +1058,7 @@
         "it1.eur.aruba.jenv-aruba.cloud",
         "it1.jenv-aruba.cloud",
         "jele.cloud",
+        "jote.cloud",
         "jotelulu.cloud",
         "k8s.fr-par.scw.cloud",
         "k8s.nl-ams.scw.cloud",
@@ -5156,6 +5157,7 @@
         "seihi.nagasaki.jp",
         "seika.kyoto.jp",
         "seiro.niigata.jp",
+        "seirou.niigata.jp",
         "seiyo.ehime.jp",
         "seki.gifu.jp",
         "sekigahara.gifu.jp",
@@ -6071,8 +6073,7 @@
         "mil.mg",
         "nom.mg",
         "org.mg",
-        "prd.mg",
-        "seirou.niigata.jp"
+        "prd.mg"
     ],
     "mk": [
         "com.mk",
