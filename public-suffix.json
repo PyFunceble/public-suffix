@@ -988,6 +988,7 @@
         "4lima.ch",
         "alp1.ae.flow.ch",
         "appengine.flow.ch",
+        "cloudns.ch",
         "cust.cloudscale.ch",
         "dnsking.ch",
         "firenet.ch",
@@ -2942,7 +2943,6 @@
         "hra.health"
     ],
     "hk": [
-        "cloudns.ch",
         "com.hk",
         "edu.hk",
         "gov.hk",
@@ -4864,7 +4864,6 @@
         "ne.jp",
         "nemuro.hokkaido.jp",
         "nerima.tokyo.jp",
-        "net.lr",
         "netgamers.jp",
         "neyagawa.osaka.jp",
         "nichinan.miyazaki.jp",
