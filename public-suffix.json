@@ -1032,7 +1032,6 @@
         "mil.cl"
     ],
     "cloud": [
-        "azureedge.net",
         "ca.reclaim.cloud",
         "ch.trendhosting.cloud",
         "cockpit.fr-par.scw.cloud",
@@ -6253,6 +6252,7 @@
         "atl.jelastic.vps-host.net",
         "azure-api.net",
         "azure-mobile.net",
+        "azureedge.net",
         "azurefd.net",
         "azurestaticapps.net",
         "azurewebsites.net",
