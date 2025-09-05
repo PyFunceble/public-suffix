@@ -1032,6 +1032,7 @@
         "mil.cl"
     ],
     "cloud": [
+        "azureedge.net",
         "ca.reclaim.cloud",
         "ch.trendhosting.cloud",
         "cockpit.fr-par.scw.cloud",
@@ -5947,6 +5948,7 @@
     "lk": [
         "ac.lk",
         "assn.lk",
+        "com.lk",
         "edu.lk",
         "gov.lk",
         "grp.lk",
@@ -6251,7 +6253,6 @@
         "atl.jelastic.vps-host.net",
         "azure-api.net",
         "azure-mobile.net",
-        "azureedge.net",
         "azurefd.net",
         "azurestaticapps.net",
         "azurewebsites.net",
@@ -6630,7 +6631,6 @@
         "bømlo.no",
         "cahcesuolo.no",
         "co.no",
-        "com.lk",
         "davvenjarga.no",
         "davvenjárga.no",
         "davvesiida.no",
