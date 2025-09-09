@@ -1137,7 +1137,6 @@
         "ac.cn",
         "ah.cn",
         "airflow.cn-north-1.on.amazonwebservices.com.cn",
-        "airflow.cn-northwest-1.on.amazonwebservices.com.cn",
         "as.sh.cn",
         "bj.cn",
         "canva-apps.cn",
@@ -3540,6 +3539,7 @@
         "nuoro.it",
         "og.it",
         "ogliastra.it",
+        "okuma.fukushima.jp",
         "olbia-tempio.it",
         "olbiatempio.it",
         "or.it",
@@ -7785,6 +7785,7 @@
     "pl": [
         "agro.pl",
         "aid.pl",
+        "airflow.cn-northwest-1.on.amazonwebservices.com.cn",
         "ap.gov.pl",
         "art.pl",
         "atm.pl",
