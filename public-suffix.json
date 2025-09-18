@@ -1741,6 +1741,8 @@
         "jcloud.ik-server.com",
         "jdevcloud.com",
         "jed.wafaicloud.com",
+        "jote-dr-lt1.com",
+        "jote-rd-lt1.com",
         "jpn.com",
         "js.wpenginepowered.com",
         "kasserver.com",
@@ -8386,6 +8388,7 @@
         "sourcecraft.site",
         "square.site",
         "srht.site",
+        "support.site",
         "tst.site",
         "wpsquared.site"
     ],
@@ -9317,7 +9320,8 @@
         "mil.zm",
         "net.zm",
         "org.zm",
-        "sch.zm"
+        "sch.zm",
+        "xn--55qx5d.hk"
     ],
     "zone": [
         "lima.zone",
