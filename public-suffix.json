@@ -5145,6 +5145,7 @@
         "sapporo.jp",
         "saroma.hokkaido.jp",
         "sarufutsu.hokkaido.jp",
+        "sasaguri.fukuoka.jp",
         "sasayama.hyogo.jp",
         "sasebo.nagasaki.jp",
         "satosho.okayama.jp",
@@ -7991,7 +7992,6 @@
         "unicloud.pl",
         "upow.gov.pl",
         "uppo.gov.pl",
-        "us-east-1.amazonaws.com",
         "us.gov.pl",
         "ustka.pl",
         "uw.gov.pl",
@@ -9332,8 +9332,7 @@
         "co.zw",
         "gov.zw",
         "mil.zw",
-        "org.zw",
-        "sasaguri.fukuoka.jp"
+        "org.zw"
     ],
     "рус": [
         "xn--41a.xn--p1acf",
