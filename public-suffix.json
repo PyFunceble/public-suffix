@@ -1262,8 +1262,6 @@
         "af-south-1.airflow.amazonaws.com",
         "af-south-1.elasticbeanstalk.com",
         "africa.com",
-        "airkitapps-au.com",
-        "airkitapps.com",
         "aivencloud.com",
         "aliases121.com",
         "alibabacloudcs.com",
@@ -2727,7 +2725,6 @@
         "org.et"
     ],
     "eu": [
-        "airkitapps.eu",
         "barsy.eu",
         "cloudns.eu",
         "diskstation.eu",
@@ -3075,6 +3072,7 @@
         "biz.id",
         "co.id",
         "desa.id",
+        "e.id",
         "go.id",
         "kop.id",
         "mil.id",
