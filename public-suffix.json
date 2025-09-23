@@ -364,6 +364,7 @@
         "labeling.ap-southeast-1.sagemaker.aws",
         "labeling.ap-southeast-2.sagemaker.aws",
         "labeling.ca-central-1.sagemaker.aws",
+        "labeling.eu-central-1.sagemaker.aws",
         "labeling.eu-west-1.sagemaker.aws",
         "labeling.eu-west-2.sagemaker.aws",
         "labeling.us-east-1.sagemaker.aws",
@@ -5897,8 +5898,7 @@
         "gov.kz",
         "jcloud.kz",
         "mil.kz",
-        "net.kz",
-        "org.kz"
+        "net.kz"
     ],
     "la": [
         "bnr.la",
@@ -5935,7 +5935,8 @@
         "ipfs.storacha.link",
         "ipfs.w3s.link",
         "myfritz.link",
-        "mypep.link"
+        "mypep.link",
+        "org.kz"
     ],
     "live": [
         "aem.live",
@@ -6361,7 +6362,6 @@
         "kinghost.net",
         "knx-server.net",
         "krellian.net",
-        "labeling.eu-central-1.sagemaker.aws",
         "live-on.net",
         "localcert.net",
         "localto.net",
@@ -8347,6 +8347,7 @@
         "net.sh",
         "now.sh",
         "org.sh",
+        "teleport.sh",
         "us.platform.sh"
     ],
     "shop": [
