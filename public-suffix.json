@@ -5898,7 +5898,8 @@
         "gov.kz",
         "jcloud.kz",
         "mil.kz",
-        "net.kz"
+        "net.kz",
+        "org.kz"
     ],
     "la": [
         "bnr.la",
@@ -5935,8 +5936,7 @@
         "ipfs.storacha.link",
         "ipfs.w3s.link",
         "myfritz.link",
-        "mypep.link",
-        "org.kz"
+        "mypep.link"
     ],
     "live": [
         "aem.live",
