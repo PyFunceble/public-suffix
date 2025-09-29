@@ -188,6 +188,7 @@
         "hasura.app",
         "hosted.app",
         "id.replit.app",
+        "leapcell.app",
         "loginline.app",
         "lovable.app",
         "luyani.app",
@@ -2511,6 +2512,7 @@
         "kirk.replit.dev",
         "lcl.dev",
         "lclstage.dev",
+        "leapcell.dev",
         "localplayer.dev",
         "loginline.dev",
         "lp.dev",
@@ -2993,6 +2995,7 @@
         "org.hn"
     ],
     "host": [
+        "bolt.host",
         "cloudaccess.host",
         "easypanel.host",
         "fastvps.host",
@@ -7520,6 +7523,7 @@
         "barsy.online",
         "eero-stage.online",
         "eero.online",
+        "leapcell.online",
         "websitebuilder.online"
     ],
     "orange": [
