@@ -971,6 +971,7 @@
     ],
     "cc": [
         "cleverapps.cc",
+        "cloud-ip.cc",
         "cloudns.cc",
         "csx.cc",
         "fantasyleague.cc",
@@ -1259,6 +1260,7 @@
         "3utilities.com",
         "4u.com",
         "a2hosted.com",
+        "abrdns.com",
         "adobeaemcloud.com",
         "af-south-1.airflow.amazonaws.com",
         "af-south-1.elasticbeanstalk.com",
