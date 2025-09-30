@@ -5266,6 +5266,7 @@
         "shizuoka.jp",
         "shizuoka.shizuoka.jp",
         "shobara.hiroshima.jp",
+        "shonai.fukuoka.jp",
         "shonai.yamagata.jp",
         "shoo.okayama.jp",
         "showa.fukushima.jp",
@@ -7090,7 +7091,6 @@
         "selje.no",
         "seljord.no",
         "sf.no",
-        "shonai.fukuoka.jp",
         "siellak.no",
         "sigdal.no",
         "siljan.no",
@@ -8011,7 +8011,6 @@
         "wif.gov.pl",
         "wiih.gov.pl",
         "winb.gov.pl",
-        "wios.gov.pl",
         "witd.gov.pl",
         "wiw.gov.pl",
         "wkz.gov.pl",
@@ -9340,7 +9339,8 @@
         "co.zw",
         "gov.zw",
         "mil.zw",
-        "org.zw"
+        "org.zw",
+        "wios.gov.pl"
     ],
     "рус": [
         "xn--41a.xn--p1acf",
