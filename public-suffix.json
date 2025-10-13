@@ -1368,6 +1368,8 @@
         "ca-west-1.airflow.amazonaws.com",
         "cafjs.com",
         "canva-apps.com",
+        "canva-hosted-embed.com",
+        "canvacode.com",
         "caracal.mythic-beasts.com",
         "cdn77-storage.com",
         "cechire.com",
@@ -9284,6 +9286,7 @@
     ],
     "xyz": [
         "botdash.xyz",
+        "caffeine.xyz",
         "telebit.xyz"
     ],
     "ye": [
