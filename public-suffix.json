@@ -6459,7 +6459,6 @@
         "west1-us.cloudjiffy.net",
         "westeurope.azurestaticapps.net",
         "westus2.azurestaticapps.net",
-        "xn--nry-yla5g.no",
         "yandexcloud.net",
         "za.net",
         "zabc.net"
@@ -6994,6 +6993,7 @@
         "nt.no",
         "návuotna.no",
         "nååmesjevuemie.no",
+        "nærøy.no",
         "nøtterøy.no",
         "odda.no",
         "of.no",
@@ -7367,6 +7367,7 @@
         "xn--mtta-vrjjat-k7af.no",
         "xn--muost-0qa.no",
         "xn--nmesjevuemie-tcba.no",
+        "xn--nry-yla5g.no",
         "xn--nttery-byae.no",
         "xn--nvuotna-hwa.no",
         "xn--oppegrd-ixa.no",
@@ -7745,8 +7746,7 @@
         "mil.pe",
         "net.pe",
         "nom.pe",
-        "org.pe",
-        "services.clever-cloud.com"
+        "org.pe"
     ],
     "pf": [
         "com.pf",
