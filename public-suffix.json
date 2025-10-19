@@ -6445,7 +6445,6 @@
         "torproject.net",
         "trafficmanager.net",
         "ts.net",
-        "tuxfamily.org",
         "twmail.net",
         "u.channelsdvr.net",
         "uk.net",
@@ -7485,8 +7484,7 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "shacknet.nu",
-        "tuxfamily.org"
+        "shacknet.nu"
     ],
     "nz": [
         "ac.nz",
@@ -7701,6 +7699,7 @@
         "toolforge.org",
         "tr.eu.org",
         "tunk.org",
+        "tuxfamily.org",
         "twmail.org",
         "ufcfan.org",
         "uk.eu.org",
