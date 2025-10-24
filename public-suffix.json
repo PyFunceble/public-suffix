@@ -8235,6 +8235,7 @@
         "liara.run",
         "lovable.run",
         "migration.run",
+        "needle.run",
         "onporter.run",
         "ravendb.run",
         "repl.run",
