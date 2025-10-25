@@ -190,6 +190,7 @@
         "id.replit.app",
         "leapcell.app",
         "loginline.app",
+        "lovable.app",
         "luyani.app",
         "medusajs.app",
         "messerli.app",
@@ -1386,6 +1387,7 @@
         "cpserver.com",
         "customer-oci.com",
         "customer.mythic-beasts.com",
+        "cyon.site",
         "damnserver.com",
         "dattolocal.com",
         "dattorelay.com",
@@ -2488,6 +2490,7 @@
         "api.lp.dev",
         "archer.replit.dev",
         "barsy.dev",
+        "bearblog.dev",
         "bones.replit.dev",
         "botdash.dev",
         "canary.replit.dev",
@@ -8029,7 +8032,6 @@
         "wsse.gov.pl",
         "wuoz.gov.pl",
         "wzmiuw.gov.pl",
-        "xn--j1adp.xn--p1acf",
         "you2.pl",
         "zachpomor.pl",
         "zagan.pl",
@@ -9286,10 +9288,6 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
-    ],
-    "xn--p1acf": [
-        "lovable.app",
-        "xn--h1ahn.xn--p1acf"
     ],
     "xyz": [
         "botdash.xyz",
