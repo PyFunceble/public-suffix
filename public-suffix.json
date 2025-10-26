@@ -1039,7 +1039,6 @@
         "cockpit.fr-par.scw.cloud",
         "cockpit.nl-ams.scw.cloud",
         "cockpit.pl-waw.scw.cloud",
-        "convex.cloud",
         "cs.keliweb.cloud",
         "ddl.fr-par.scw.cloud",
         "ddl.nl-ams.scw.cloud",
@@ -2314,6 +2313,7 @@
         "za.com"
     ],
     "community": [
+        "convex.cloud",
         "myforum.community",
         "nog.community",
         "ravendb.community"
@@ -5164,6 +5164,7 @@
         "sayama.saitama.jp",
         "sayo.hyogo.jp",
         "sblo.jp",
+        "sc.ls",
         "schoolbus.jp",
         "secret.jp",
         "seihi.nagasaki.jp",
@@ -5986,6 +5987,7 @@
         "biz.ls",
         "co.ls",
         "edu.ls",
+        "enebakk.no",
         "gov.ls",
         "info.ls",
         "net.ls",
