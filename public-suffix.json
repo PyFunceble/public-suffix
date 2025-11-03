@@ -994,7 +994,6 @@
         "game-server.cc",
         "instances.spawn.cc",
         "myphotos.cc",
-        "s3-website.cn-northwest-1.amazonaws.com.cn",
         "scrapping.cc",
         "twmail.cc"
     ],
@@ -1213,6 +1212,7 @@
         "s3-object-lambda.cn-north-1.amazonaws.com.cn",
         "s3-object-lambda.cn-northwest-1.amazonaws.com.cn",
         "s3-website.cn-north-1.amazonaws.com.cn",
+        "s3-website.cn-northwest-1.amazonaws.com.cn",
         "s3-website.dualstack.cn-north-1.amazonaws.com.cn",
         "s3.cn-north-1.amazonaws.com.cn",
         "s3.cn-northwest-1.amazonaws.com.cn",
