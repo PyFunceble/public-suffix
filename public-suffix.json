@@ -8469,8 +8469,7 @@
         "gov.ss",
         "me.ss",
         "net.ss",
-        "org.ss",
-        "sch.ss"
+        "org.ss"
     ],
     "st": [
         "co.st",
@@ -9307,7 +9306,8 @@
         "gov.ws",
         "mypets.ws",
         "net.ws",
-        "org.ws"
+        "org.ws",
+        "sch.ss"
     ],
     "xyz": [
         "botdash.xyz",
