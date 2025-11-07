@@ -8469,7 +8469,8 @@
         "gov.ss",
         "me.ss",
         "net.ss",
-        "org.ss"
+        "org.ss",
+        "sch.ss"
     ],
     "st": [
         "co.st",
@@ -9136,7 +9137,8 @@
         "washtenaw.mi.us",
         "wi.us",
         "wv.us",
-        "wy.us"
+        "wy.us",
+        "zabc.net"
     ],
     "uy": [
         "com.uy",
@@ -9306,8 +9308,7 @@
         "gov.ws",
         "mypets.ws",
         "net.ws",
-        "org.ws",
-        "sch.ss"
+        "org.ws"
     ],
     "xyz": [
         "botdash.xyz",
