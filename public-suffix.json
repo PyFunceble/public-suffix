@@ -195,8 +195,8 @@
         "luyani.app",
         "medusajs.app",
         "messerli.app",
+        "mocha.app",
         "mtls.run.app",
-        "netfy.app",
         "netlify.app",
         "ngrok-free.app",
         "ngrok.app",
@@ -1787,6 +1787,7 @@
         "meteorapp.com",
         "mex.com",
         "miniserver.com",
+        "mochausercontent.com",
         "modelscape.com",
         "mrap.accesspoint.s3-global.amazonaws.com",
         "mwcloudnonprod.com",
@@ -2538,6 +2539,7 @@
         "loginline.dev",
         "lp.dev",
         "mediatech.dev",
+        "mocha-sandbox.dev",
         "modx.dev",
         "myaddr.dev",
         "ngrok-free.dev",
@@ -2789,7 +2791,9 @@
         "ac.fj",
         "biz.fj",
         "com.fj",
+        "edu.fj",
         "gov.fj",
+        "id.fj",
         "info.fj",
         "mil.fj",
         "name.fj",
@@ -2866,8 +2870,10 @@
         "school.ge"
     ],
     "gg": [
+        "at.ply.gg",
         "botdash.gg",
         "co.gg",
+        "d6.ply.gg",
         "daemon.panel.gg",
         "kaas.gg",
         "net.gg",
@@ -5965,6 +5971,7 @@
         "ipfs.nftstorage.link",
         "ipfs.storacha.link",
         "ipfs.w3s.link",
+        "joinmc.link",
         "myfritz.link",
         "mypep.link"
     ],
@@ -6244,7 +6251,8 @@
     ],
     "name": [
         "forgot.her.name",
-        "forgot.his.name"
+        "forgot.his.name",
+        "ispmanager.name"
     ],
     "nc": [
         "asso.nc",
@@ -6626,8 +6634,6 @@
         "bievát.no",
         "bindal.no",
         "birkenes.no",
-        "bjarkoy.no",
-        "bjarkøy.no",
         "bjerkreim.no",
         "bjugn.no",
         "bo.nordland.no",
@@ -6968,7 +6974,6 @@
         "mosjøen.no",
         "moskenes.no",
         "moss.no",
-        "mosvik.no",
         "moåreke.no",
         "mr.no",
         "muosat.no",
@@ -7304,7 +7309,6 @@
         "xn--bhccavuotna-k7a.no",
         "xn--bidr-5nac.no",
         "xn--bievt-0qa.no",
-        "xn--bjarky-fya.no",
         "xn--bjddar-pta.no",
         "xn--blt-elab.no",
         "xn--bmlo-gra.no",
@@ -8065,6 +8069,11 @@
     "place": [
         "co.place"
     ],
+    "plus": [
+        "at.playit.plus",
+        "playit.plus",
+        "with.playit.plus"
+    ],
     "pm": [
         "name.pm",
         "own.pm"
@@ -8406,6 +8415,7 @@
         "cpanel.site",
         "cyon.site",
         "fastvps.site",
+        "figma-gov.site",
         "figma.site",
         "heyflow.site",
         "jele.site",
