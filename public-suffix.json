@@ -1087,6 +1087,7 @@
         "dtwh.nl-ams.scw.cloud",
         "dtwh.pl-waw.scw.cloud",
         "elementor.cloud",
+        "emergent.cloud",
         "es-1.axarnet.cloud",
         "eu.encoway.cloud",
         "fnc.fr-par.scw.cloud",
@@ -1286,6 +1287,7 @@
         "repl.co",
         "storage.supabase.co",
         "supabase.co",
+        "umso.co",
         "xmit.co"
     ],
     "codes": [
@@ -3089,6 +3091,7 @@
         "bolt.host",
         "cloudaccess.host",
         "easypanel.host",
+        "emergent.host",
         "fastvps.host",
         "freesite.host",
         "half.host",
