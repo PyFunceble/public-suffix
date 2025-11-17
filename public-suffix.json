@@ -222,7 +222,6 @@
         "vercel.app",
         "wal.app",
         "wasmer.app",
-        "wdh.app",
         "web.app",
         "windsurf.app",
         "wnext.app",
@@ -298,7 +297,6 @@
         "conf.au",
         "edu.au",
         "gov.au",
-        "hrsn.au",
         "id.au",
         "mel.cloudlets.com.au",
         "myspreadshop.com.au",
@@ -2823,6 +2821,7 @@
         "diskstation.eu",
         "jelastic.dogado.eu",
         "nxa.eu",
+        "prvw.eu",
         "spdns.eu",
         "transurl.eu"
     ],
