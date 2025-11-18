@@ -7629,6 +7629,7 @@
     "org": [
         "accesscam.org",
         "ae.org",
+        "aem.page",
         "al.eu.org",
         "altervista.org",
         "app.os.fedoraproject.org",
@@ -7820,7 +7821,6 @@
         "sld.pa"
     ],
     "page": [
-        "aem.page",
         "codeberg.page",
         "heyflow.page",
         "hlx.page",
