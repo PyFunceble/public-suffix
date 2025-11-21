@@ -5451,7 +5451,6 @@
         "takatsuki.shiga.jp",
         "takayama.gifu.jp",
         "takayama.gunma.jp",
-        "takayama.nagano.jp",
         "takazaki.miyazaki.jp",
         "takehara.hiroshima.jp",
         "taketa.oita.jp",
@@ -6535,6 +6534,7 @@
         "subsc-pay.net",
         "supabase.net",
         "sytes.net",
+        "takayama.nagano.jp",
         "thruhere.net",
         "torproject.net",
         "trafficmanager.net",
@@ -8210,7 +8210,6 @@
         "kin.pub"
     ],
     "pw": [
-        "binhthuan.vn",
         "cloudns.pw",
         "gov.pw",
         "x443.pw"
