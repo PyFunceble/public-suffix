@@ -5957,7 +5957,6 @@
         "incheon.kr",
         "io.kr",
         "it.kr",
-        "jeju.kr",
         "jeonbuk.kr",
         "jeonnam.kr",
         "kg.kr",
@@ -5968,6 +5967,7 @@
         "ne.kr",
         "or.kr",
         "pe.kr",
+        "re.kr",
         "sc.kr",
         "seoul.kr",
         "ulsan.kr",
@@ -9061,6 +9061,7 @@
         "in.us",
         "is-by.us",
         "isa.us",
+        "jeju.kr",
         "k12.ak.us",
         "k12.al.us",
         "k12.ar.us",
@@ -9445,8 +9446,7 @@
         "co.zw",
         "gov.zw",
         "mil.zw",
-        "org.zw",
-        "re.kr"
+        "org.zw"
     ],
     "рус": [
         "xn--41a.xn--p1acf",
