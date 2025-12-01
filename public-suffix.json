@@ -221,6 +221,7 @@
         "up.railway.app",
         "upsun.app",
         "vercel.app",
+        "wal.app",
         "wasmer.app",
         "web.app",
         "windsurf.app",
@@ -5666,7 +5667,6 @@
         "wake.okayama.jp",
         "wakkanai.hokkaido.jp",
         "wakuya.miyagi.jp",
-        "wal.app",
         "wanouchi.gifu.jp",
         "warabi.saitama.jp",
         "wassamu.hokkaido.jp",
@@ -7895,6 +7895,7 @@
     ],
     "pl": [
         "agro.pl",
+        "aid.pl",
         "ap.gov.pl",
         "art.pl",
         "atm.pl",
@@ -8981,7 +8982,6 @@
         "weeklylottery.org.uk"
     ],
     "us": [
-        "aid.pl",
         "ak.us",
         "al.us",
         "ann-arbor.mi.us",
