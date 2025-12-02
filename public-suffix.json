@@ -7662,7 +7662,6 @@
         "cloudns.org",
         "cn.eu.org",
         "collegefan.org",
-        "com.ph",
         "couchpotatofries.org",
         "cy.eu.org",
         "cz.eu.org",
@@ -7859,6 +7858,7 @@
     ],
     "ph": [
         "cloudns.ph",
+        "com.ph",
         "edu.ph",
         "gov.ph",
         "i.ph",
@@ -9436,6 +9436,7 @@
     "zm": [
         "ac.zm",
         "biz.zm",
+        "co.zm",
         "com.zm",
         "edu.zm",
         "gov.zm",
@@ -9452,7 +9453,6 @@
     ],
     "zw": [
         "ac.zw",
-        "co.zm",
         "co.zw",
         "gov.zw",
         "mil.zw",
