@@ -1266,6 +1266,7 @@
     ],
     "co": [
         "carrd.co",
+        "clusters.rdpa.co",
         "com.co",
         "crd.co",
         "edu.co",
@@ -1284,6 +1285,7 @@
         "otap.co",
         "realtime.supabase.co",
         "repl.co",
+        "srvrless.rdpa.co",
         "storage.supabase.co",
         "supabase.co",
         "umso.co",
@@ -1902,6 +1904,7 @@
         "point2this.com",
         "polyspace.com",
         "postman-echo.com",
+        "preview.emergentagent.com",
         "pro.typeform.com",
         "pythonanywhere.com",
         "qa2.com",
@@ -8011,6 +8014,7 @@
         "olsztyn.pl",
         "oow.gov.pl",
         "opoczno.pl",
+        "opole.pl",
         "org.pl",
         "oschr.gov.pl",
         "ostroda.pl",
@@ -8303,7 +8307,6 @@
         "kalmykia.ru",
         "kustanai.ru",
         "landing.myjino.ru",
-        "lk3.ru",
         "marine.ru",
         "mcdir.ru",
         "mcpre.ru",
@@ -9455,7 +9458,6 @@
         "co.zw",
         "gov.zw",
         "mil.zw",
-        "opole.pl",
         "org.zw"
     ],
     "рус": [
