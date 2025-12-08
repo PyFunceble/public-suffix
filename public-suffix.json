@@ -7459,7 +7459,6 @@
         "xn--lt-liac.no",
         "xn--lten-gra.no",
         "xn--lury-ira.no",
-        "xn--m3ch0j3a.xn--o3cw4h",
         "xn--mely-ira.no",
         "xn--merker-kua.no",
         "xn--mjndalen-64a.no",
@@ -8387,7 +8386,10 @@
         "org.sc"
     ],
     "scot": [
+        "co.scot",
         "gov.scot",
+        "me.scot",
+        "org.scot",
         "service.gov.scot"
     ],
     "sd": [
