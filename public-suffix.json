@@ -1071,7 +1071,6 @@
     ],
     "cloud": [
         "ca.reclaim.cloud",
-        "cc.vt.us",
         "ch.trendhosting.cloud",
         "cockpit.fr-par.scw.cloud",
         "cockpit.nl-ams.scw.cloud",
@@ -9047,6 +9046,7 @@
         "cc.ut.us",
         "cc.va.us",
         "cc.vi.us",
+        "cc.vt.us",
         "cc.wa.us",
         "cc.wi.us",
         "cc.wv.us",
