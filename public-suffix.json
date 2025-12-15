@@ -8210,7 +8210,6 @@
         "edu.pt",
         "gov.pt",
         "int.pt",
-        "net.pt",
         "nome.pt",
         "org.pt",
         "publ.pt"
@@ -9289,6 +9288,7 @@
         "co.vi",
         "com.vi",
         "k12.vi",
+        "net.pt",
         "net.vi",
         "org.vi"
     ],
