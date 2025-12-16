@@ -1005,6 +1005,9 @@
     "casa": [
         "ui.nabu.casa"
     ],
+    "case": [
+        "sav.case"
+    ],
     "cc": [
         "cleverapps.cc",
         "cloud-ip.cc",
@@ -8210,6 +8213,7 @@
         "edu.pt",
         "gov.pt",
         "int.pt",
+        "net.pt",
         "nome.pt",
         "org.pt",
         "publ.pt"
@@ -9288,7 +9292,6 @@
         "co.vi",
         "com.vi",
         "k12.vi",
-        "net.pt",
         "net.vi",
         "org.vi"
     ],
