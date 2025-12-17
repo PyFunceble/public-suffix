@@ -206,6 +206,7 @@
         "nyat.app",
         "on-fleek.app",
         "ondigitalocean.app",
+        "onhercules.app",
         "preview.csb.app",
         "privatelink.snowflake.app",
         "relay.evervault.app",
@@ -1009,6 +1010,7 @@
         "sav.case"
     ],
     "cc": [
+        "ccwu.cc",
         "cleverapps.cc",
         "cloud-ip.cc",
         "cloudns.cc",
@@ -1022,6 +1024,7 @@
         "twmail.cc"
     ],
     "cd": [
+        "cc.cd",
         "gov.cd"
     ],
     "ch": [
@@ -1060,6 +1063,7 @@
         "net.ci",
         "or.ci",
         "org.ci",
+        "us.ci",
         "xn--aroport-bya.ci"
     ],
     "ck": [
@@ -1739,6 +1743,8 @@
         "hatenablog.com",
         "hatenadiary.com",
         "health-carereform.com",
+        "hercules-app.com",
+        "hercules-dev.com",
         "herokuapp.com",
         "hk.com",
         "hobby-site.com",
@@ -2900,7 +2906,6 @@
         "chirurgiens-dentistes.fr",
         "com.fr",
         "dedibox.fr",
-        "en-root.fr",
         "experts-comptables.fr",
         "fbx-os.fr",
         "fbxos.fr",
