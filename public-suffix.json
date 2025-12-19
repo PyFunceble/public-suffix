@@ -1095,6 +1095,7 @@
         "mil.cl"
     ],
     "cloud": [
+        "antagonist.cloud",
         "ca.reclaim.cloud",
         "ch.trendhosting.cloud",
         "cockpit.fr-par.scw.cloud",
