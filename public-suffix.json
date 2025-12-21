@@ -8592,6 +8592,7 @@
         "sch.ss"
     ],
     "st": [
+        "cn.st",
         "co.st",
         "com.st",
         "consulado.st",
@@ -9417,6 +9418,9 @@
     ],
     "wiki": [
         "framer.wiki"
+    ],
+    "work": [
+        "imagine-proxy.work"
     ],
     "ws": [
         "advisor.ws",
