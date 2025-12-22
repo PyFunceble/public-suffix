@@ -5920,6 +5920,7 @@
         "sc.ke"
     ],
     "kg": [
+        "ae.kg",
         "com.kg",
         "edu.kg",
         "gov.kg",
@@ -8545,6 +8546,9 @@
         "tst.site",
         "wpsquared.site"
     ],
+    "sk": [
+        "org.sk"
+    ],
     "sl": [
         "com.sl",
         "edu.sl",
@@ -8775,6 +8779,7 @@
         "gov.to",
         "mil.to",
         "net.to",
+        "nett.to",
         "org.to",
         "oya.to",
         "vpnplus.to",
