@@ -378,6 +378,7 @@
         "airflow.us-east-2.on.aws",
         "airflow.us-west-1.on.aws",
         "airflow.us-west-2.on.aws",
+        "dyndns-mail.com",
         "experiments.sagemaker.aws",
         "labeling.ap-northeast-1.sagemaker.aws",
         "labeling.ap-northeast-2.sagemaker.aws",
