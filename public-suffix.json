@@ -8697,7 +8697,6 @@
         "knightpoint.systems"
     ],
     "sz": [
-        "ac.sz",
         "co.sz",
         "org.sz"
     ],
@@ -9437,6 +9436,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--j6w193g": [
+        "ac.sz",
+        "xn--od0alg.xn--j6w193g"
     ],
     "xyz": [
         "botdash.xyz",
