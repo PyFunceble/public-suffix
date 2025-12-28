@@ -1033,13 +1033,18 @@
         "cloud-ip.cc",
         "cloudns.cc",
         "csx.cc",
+        "ec.cc",
+        "eu.cc",
         "fantasyleague.cc",
         "ftpaccess.cc",
         "game-server.cc",
+        "gu.cc",
         "instances.spawn.cc",
         "myphotos.cc",
         "scrapping.cc",
-        "twmail.cc"
+        "twmail.cc",
+        "uk.cc",
+        "us.cc"
     ],
     "cd": [
         "cc.cd",
@@ -9240,7 +9245,6 @@
         "oh.us",
         "ok.us",
         "or.us",
-        "org.zw",
         "pa.us",
         "paroch.k12.ma.us",
         "phx.enscaled.us",
@@ -9270,6 +9274,7 @@
         "com.uy",
         "edu.uy",
         "gub.uy",
+        "gv.uy",
         "mil.uy",
         "net.uy",
         "org.uy"
