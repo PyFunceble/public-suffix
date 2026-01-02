@@ -5820,7 +5820,6 @@
         "yawatahama.ehime.jp",
         "yazu.tottori.jp",
         "yoichi.hokkaido.jp",
-        "yoita.niigata.jp",
         "yoka.hyogo.jp",
         "yokaichiba.chiba.jp",
         "yokawa.hyogo.jp",
@@ -6222,7 +6221,8 @@
         "mil.mg",
         "nom.mg",
         "org.mg",
-        "prd.mg"
+        "prd.mg",
+        "yoita.niigata.jp"
     ],
     "mk": [
         "com.mk",
