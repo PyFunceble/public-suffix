@@ -167,7 +167,6 @@
         "aiven.app",
         "beget.app",
         "bookonline.app",
-        "botdash.app",
         "brave.app",
         "clerk.app",
         "clerkstage.app",
@@ -3081,6 +3080,7 @@
         "hra.health"
     ],
     "hk": [
+        "botdash.app",
         "com.hk",
         "edu.hk",
         "gov.hk",
