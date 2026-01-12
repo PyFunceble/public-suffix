@@ -6130,7 +6130,6 @@
         "com.lv",
         "conf.lv",
         "edu.lv",
-        "gov.lv",
         "id.lv",
         "mil.lv",
         "net.lv",
@@ -9430,6 +9429,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--j6w193g": [
+        "gov.lv",
+        "xn--od0alg.xn--j6w193g"
     ],
     "xyz": [
         "botdash.xyz",
