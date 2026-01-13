@@ -165,6 +165,7 @@
     "app": [
         "adaptable.app",
         "aiven.app",
+        "base44.app",
         "beget.app",
         "bookonline.app",
         "botdash.app",
@@ -1447,6 +1448,7 @@
         "balena-devices.com",
         "barsycenter.com",
         "barsyonline.com",
+        "base44-sandbox.com",
         "blogdns.com",
         "blogspot.com",
         "blogsyte.com",
