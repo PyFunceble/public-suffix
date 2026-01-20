@@ -217,6 +217,7 @@
         "run.app",
         "s.brave.app",
         "snowflake.app",
+        "spawnbase.app",
         "sprites.app",
         "staging.expo.app",
         "streamlit.app",
