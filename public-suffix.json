@@ -1443,7 +1443,6 @@
         "auth.us-west-2.amazoncognito.com",
         "authgear-staging.com",
         "authgearapps.com",
-        "awsapprunner.com",
         "awsapps.com",
         "awsglobalaccelerator.com",
         "balena-devices.com",
@@ -3073,6 +3072,7 @@
         "hra.health"
     ],
     "hk": [
+        "awsapprunner.com",
         "com.hk",
         "edu.hk",
         "gov.hk",
