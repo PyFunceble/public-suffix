@@ -5978,8 +5978,7 @@
         "edu.kp",
         "gov.kp",
         "org.kp",
-        "rep.kp",
-        "tra.kp"
+        "rep.kp"
     ],
     "kr": [
         "ac.kr",
@@ -6584,6 +6583,7 @@
         "sytes.net",
         "thruhere.net",
         "torproject.net",
+        "tra.kp",
         "trafficmanager.net",
         "ts.net",
         "tunnelmole.net",
