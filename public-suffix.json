@@ -175,6 +175,7 @@
         "clerkstage.app",
         "cloudflare.app",
         "convex.app",
+        "corespeed.app",
         "csb.app",
         "deta.app",
         "developer.app",
@@ -199,6 +200,7 @@
         "magicpatterns.app",
         "medusajs.app",
         "messerli.app",
+        "miren.app",
         "mocha.app",
         "mtls.run.app",
         "netlify.app",
@@ -216,6 +218,7 @@
         "replit.app",
         "run.app",
         "s.brave.app",
+        "shiptoday.app",
         "snowflake.app",
         "spawnbase.app",
         "sprites.app",
@@ -963,6 +966,7 @@
         "org.bt"
     ],
     "build": [
+        "shiptoday.build",
         "v0.build",
         "windsurf.build"
     ],
@@ -2690,6 +2694,9 @@
     "direct": [
         "libp2p.direct"
     ],
+    "diy": [
+        "discourse.diy"
+    ],
     "dk": [
         "123hjemmeside.dk",
         "biz.dk",
@@ -3612,6 +3619,7 @@
         "iglesiascarbonia.it",
         "iliadboxos.it",
         "im.it",
+        "imperia.it",
         "is.it",
         "isernia.it",
         "jc.neen.it",
@@ -4384,7 +4392,6 @@
         "imakane.hokkaido.jp",
         "imari.saga.jp",
         "imizu.toyama.jp",
-        "imperia.it",
         "ina.ibaraki.jp",
         "ina.nagano.jp",
         "ina.saitama.jp",
@@ -8691,7 +8698,8 @@
         "org.sy"
     ],
     "systems": [
-        "knightpoint.systems"
+        "knightpoint.systems",
+        "miren.systems"
     ],
     "sz": [
         "ac.sz",
