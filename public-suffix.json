@@ -503,6 +503,7 @@
         "transfer-webapp.ap-southeast-3.on.aws",
         "transfer-webapp.ap-southeast-4.on.aws",
         "transfer-webapp.ap-southeast-5.on.aws",
+        "transfer-webapp.ap-southeast-7.on.aws",
         "transfer-webapp.ca-central-1.on.aws",
         "transfer-webapp.ca-west-1.on.aws",
         "transfer-webapp.eu-central-1.on.aws",
@@ -516,6 +517,7 @@
         "transfer-webapp.il-central-1.on.aws",
         "transfer-webapp.me-central-1.on.aws",
         "transfer-webapp.me-south-1.on.aws",
+        "transfer-webapp.mx-central-1.on.aws",
         "transfer-webapp.sa-east-1.on.aws",
         "transfer-webapp.us-east-1.on.aws",
         "transfer-webapp.us-east-2.on.aws",
@@ -2173,6 +2175,8 @@
         "s3-website.dualstack.sa-east-1.amazonaws.com",
         "s3-website.dualstack.us-east-1.amazonaws.com",
         "s3-website.dualstack.us-east-2.amazonaws.com",
+        "s3-website.dualstack.us-gov-east-1.amazonaws.com",
+        "s3-website.dualstack.us-gov-west-1.amazonaws.com",
         "s3-website.dualstack.us-west-1.amazonaws.com",
         "s3-website.dualstack.us-west-2.amazonaws.com",
         "s3-website.eu-central-1.amazonaws.com",
@@ -2858,6 +2862,7 @@
         "org.et"
     ],
     "eu": [
+        "auth.cognito-idp.eusc-de-east-1.on.amazonwebservices.eu",
         "barsy.eu",
         "cloudns.eu",
         "deuxfleurs.eu",
