@@ -3147,6 +3147,7 @@
         "org.hn"
     ],
     "host": [
+        "bolt.host",
         "cloudaccess.host",
         "easypanel.host",
         "emergent.host",
@@ -6428,7 +6429,6 @@
         "blackbaudcdn.net",
         "blob.core.windows.net",
         "blogdns.net",
-        "bolt.host",
         "boomla.net",
         "botdash.net",
         "bounceme.net",
@@ -8920,6 +8920,7 @@
         "edu.ua",
         "gov.ua",
         "if.ua",
+        "in.ua",
         "inf.ua",
         "ivano-frankivsk.ua",
         "kh.ua",
@@ -9520,7 +9521,6 @@
         "ac.zw",
         "co.zw",
         "gov.zw",
-        "in.ua",
         "mil.zw",
         "org.zw"
     ],
