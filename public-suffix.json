@@ -3403,6 +3403,7 @@
         "in.ngrok.io",
         "jele.io",
         "jp.ngrok.io",
+        "keenetic.io",
         "kiloapps.io",
         "loginline.io",
         "lolipop.io",
@@ -6103,6 +6104,7 @@
         "ipfs.storacha.link",
         "ipfs.w3s.link",
         "joinmc.link",
+        "keenetic.link",
         "myfritz.link",
         "mypep.link"
     ],
@@ -6383,7 +6385,8 @@
     "name": [
         "forgot.her.name",
         "forgot.his.name",
-        "ispmanager.name"
+        "ispmanager.name",
+        "keenetic.name"
     ],
     "nc": [
         "asso.nc",
@@ -8242,6 +8245,7 @@
         "cpa.pro",
         "eng.pro",
         "jur.pro",
+        "keenetic.pro",
         "law.pro",
         "med.pro",
         "ngrok.pro",
