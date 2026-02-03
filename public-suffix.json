@@ -2605,7 +2605,6 @@
         "graphic.design"
     ],
     "dev": [
-        "12chars.dev",
         "aa.crm.dev",
         "ab.crm.dev",
         "ac.crm.dev",
@@ -3480,7 +3479,6 @@
     ],
     "it": [
         "123homepage.it",
-        "12chars.it",
         "16-b.it",
         "32-b.it",
         "64-b.it",
@@ -6430,6 +6428,7 @@
         "b.ssl.fastly.net",
         "barsy.net",
         "blackbaudcdn.net",
+        "blob.core.usgovcloudapi.net",
         "blob.core.windows.net",
         "blogdns.net",
         "boomla.net",
@@ -6490,6 +6489,8 @@
         "familyds.net",
         "fastlylb.net",
         "feste-ip.net",
+        "file.core.usgovcloudapi.net",
+        "file.core.windows.net",
         "firewall-gateway.net",
         "fr-1.paas.massivegrid.net",
         "fra1-de.cloudjiffy.net",
@@ -6614,9 +6615,12 @@
         "uni5.net",
         "user.srcf.net",
         "usgovcloudapp.net",
+        "usgovtrafficmanager.net",
         "vpndns.net",
         "vps-host.net",
         "vusercontent.net",
+        "web.core.usgovcloudapi.net",
+        "web.core.windows.net",
         "webhop.net",
         "webpaas.ovh.net",
         "website.yandexcloud.net",
@@ -8234,7 +8238,6 @@
         "prof.pr"
     ],
     "pro": [
-        "12chars.pro",
         "aaa.pro",
         "aca.pro",
         "acct.pro",
