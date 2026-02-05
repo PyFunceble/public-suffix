@@ -6347,6 +6347,7 @@
     "mx": [
         "com.mx",
         "edu.mx",
+        "gob.mx",
         "net.mx",
         "org.mx"
     ],
@@ -8778,7 +8779,6 @@
         "co.tm",
         "com.tm",
         "edu.tm",
-        "gob.mx",
         "gov.tm",
         "mil.tm",
         "net.tm",
