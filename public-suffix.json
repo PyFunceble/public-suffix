@@ -524,8 +524,7 @@
         "transfer-webapp.us-gov-east-1.on.aws",
         "transfer-webapp.us-gov-west-1.on.aws",
         "transfer-webapp.us-west-1.on.aws",
-        "transfer-webapp.us-west-2.on.aws",
-        "xn--ciqpn.hk"
+        "transfer-webapp.us-west-2.on.aws"
     ],
     "az": [
         "biz.az",
