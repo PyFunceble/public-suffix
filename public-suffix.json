@@ -6086,7 +6086,6 @@
     ],
     "lb": [
         "com.lb",
-        "edu.lb",
         "gov.lb",
         "net.lb",
         "org.lb"
@@ -6835,6 +6834,7 @@
         "dyroy.no",
         "dyrøy.no",
         "dønna.no",
+        "edu.lb",
         "egersund.no",
         "eid.no",
         "eidfjord.no",
@@ -8436,7 +8436,6 @@
         "com.sa",
         "edu.sa",
         "gov.sa",
-        "hamada.shimane.jp",
         "med.sa",
         "net.sa",
         "org.sa",
