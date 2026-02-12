@@ -1128,6 +1128,7 @@
         "elementor.cloud",
         "emergent.cloud",
         "es-1.axarnet.cloud",
+        "eu-west-1.convex.cloud",
         "eu.encoway.cloud",
         "fnc.fr-par.scw.cloud",
         "fr-par-1.baremetal.scw.cloud",
@@ -1193,6 +1194,7 @@
         "uk.reclaim.cloud",
         "unison-services.cloud",
         "urown.cloud",
+        "us-east-1.convex.cloud",
         "us.reclaim.cloud",
         "vapor.cloud",
         "vip.jelastic.cloud",
@@ -2717,7 +2719,8 @@
         "libp2p.direct"
     ],
     "diy": [
-        "discourse.diy"
+        "discourse.diy",
+        "imagine.diy"
     ],
     "dk": [
         "123hjemmeside.dk",
@@ -8566,6 +8569,7 @@
         "convex.site",
         "cpanel.site",
         "cyon.site",
+        "eu-west-1.convex.site",
         "fastvps.site",
         "figma-gov.site",
         "figma.site",
@@ -8587,6 +8591,7 @@
         "srht.site",
         "support.site",
         "tst.site",
+        "us-east-1.convex.site",
         "wpsquared.site"
     ],
     "sk": [
