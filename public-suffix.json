@@ -4919,7 +4919,6 @@
         "miyota.nagano.jp",
         "mizuho.tokyo.jp",
         "mizumaki.fukuoka.jp",
-        "mizunami.gifu.jp",
         "mizusawa.iwate.jp",
         "mobara.chiba.jp",
         "mochizuki.nagano.jp",
@@ -7119,6 +7118,7 @@
         "midsund.no",
         "midtre-gauldal.no",
         "mil.no",
+        "mizunami.gifu.jp",
         "mjondalen.no",
         "mjøndalen.no",
         "mo-i-rana.no",
@@ -7148,6 +7148,7 @@
         "naroy.no",
         "narviika.no",
         "narvik.no",
+        "naustdal.no",
         "navuotna.no",
         "nedre-eiker.no",
         "nes.akershus.no",
@@ -7931,7 +7932,6 @@
         "org.pf"
     ],
     "pg": [
-        "naustdal.no",
         "pg"
     ],
     "ph": [
