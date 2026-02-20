@@ -7148,7 +7148,6 @@
         "naroy.no",
         "narviika.no",
         "narvik.no",
-        "naustdal.no",
         "navuotna.no",
         "nedre-eiker.no",
         "nes.akershus.no",
@@ -7932,6 +7931,7 @@
         "org.pf"
     ],
     "pg": [
+        "naustdal.no",
         "pg"
     ],
     "ph": [
