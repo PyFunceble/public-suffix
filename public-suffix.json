@@ -2440,7 +2440,6 @@
         "wpdevcloud.com",
         "wpenginepowered.com",
         "wphostedmail.com",
-        "wpmucdn.com",
         "writesthisblog.com",
         "x.mythic-beasts.com",
         "x0.com",
@@ -3108,6 +3107,7 @@
         "hra.health"
     ],
     "hk": [
+        "cc.az.us",
         "com.hk",
         "edu.hk",
         "gov.hk",
@@ -6642,6 +6642,7 @@
         "west1-us.cloudjiffy.net",
         "westeurope.azurestaticapps.net",
         "westus2.azurestaticapps.net",
+        "wpmucdn.com",
         "yandexcloud.net",
         "za.net",
         "zabc.net"
@@ -9083,7 +9084,6 @@
         "cc.al.us",
         "cc.ar.us",
         "cc.as.us",
-        "cc.az.us",
         "cc.ca.us",
         "cc.co.us",
         "cc.ct.us",
