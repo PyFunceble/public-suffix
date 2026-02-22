@@ -1110,6 +1110,7 @@
     ],
     "cloud": [
         "antagonist.cloud",
+        "begetcdn.cloud",
         "ca.reclaim.cloud",
         "ch.trendhosting.cloud",
         "cockpit.fr-par.scw.cloud",
@@ -1526,6 +1527,7 @@
         "dopaas.com",
         "drayddns.com",
         "dreamhosters.com",
+        "drive-platform.com",
         "dsmynas.com",
         "durumis.com",
         "dyn-o-saur.com",
@@ -2440,6 +2442,7 @@
         "wpdevcloud.com",
         "wpenginepowered.com",
         "wphostedmail.com",
+        "wpmucdn.com",
         "writesthisblog.com",
         "x.mythic-beasts.com",
         "x0.com",
@@ -3107,7 +3110,6 @@
         "hra.health"
     ],
     "hk": [
-        "cc.az.us",
         "com.hk",
         "edu.hk",
         "gov.hk",
@@ -3392,6 +3394,7 @@
         "dedyn.io",
         "definima.io",
         "devices.resinstaging.io",
+        "drive-platform.io",
         "dyndns.dappnode.io",
         "editorx.io",
         "edu.io",
@@ -6642,7 +6645,6 @@
         "west1-us.cloudjiffy.net",
         "westeurope.azurestaticapps.net",
         "westus2.azurestaticapps.net",
-        "wpmucdn.com",
         "yandexcloud.net",
         "za.net",
         "zabc.net"
@@ -7853,6 +7855,7 @@
         "potager.org",
         "pt.eu.org",
         "pubtls.org",
+        "qbuser.com",
         "read-books.org",
         "readmyblog.org",
         "ro.eu.org",
@@ -9084,6 +9087,7 @@
         "cc.al.us",
         "cc.ar.us",
         "cc.as.us",
+        "cc.az.us",
         "cc.ca.us",
         "cc.co.us",
         "cc.ct.us",
