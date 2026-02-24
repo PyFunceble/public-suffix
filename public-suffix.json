@@ -2458,6 +2458,9 @@
         "nog.community",
         "ravendb.community"
     ],
+    "company": [
+        "mybox.company"
+    ],
     "cool": [
         "de.cool",
         "elementor.cool"
@@ -2855,6 +2858,7 @@
         "tv.eg"
     ],
     "email": [
+        "intouch.email",
         "on.crisp.email",
         "p.tawk.email",
         "p.tawkto.email"
@@ -6026,6 +6030,7 @@
         "eliv-dns.kr",
         "es.kr",
         "gangwon.kr",
+        "go.kr",
         "gwangju.kr",
         "gyeongbuk.kr",
         "gyeonggi.kr",
@@ -6226,6 +6231,7 @@
         "loginto.me",
         "lohmus.me",
         "mcdir.me",
+        "mybox.me",
         "myds.me",
         "net.me",
         "nohost.me",
@@ -6434,7 +6440,6 @@
         "azure-api.net",
         "azure-mobile.net",
         "azureedge.net",
-        "azurefd.net",
         "azurestaticapps.net",
         "azurewebsites.net",
         "b.ssl.fastly.net",
@@ -7913,6 +7918,7 @@
         "deuxfleurs.page",
         "heyflow.page",
         "hlx.page",
+        "mybox.page",
         "pdns.page",
         "plesk.page",
         "prvcy.page",
@@ -8663,6 +8669,7 @@
         "store.st"
     ],
     "store": [
+        "azurefd.net",
         "barsy.store",
         "sellfy.store",
         "shopware.store",
@@ -9548,7 +9555,6 @@
     "zw": [
         "ac.zw",
         "co.zw",
-        "go.kr",
         "gov.zw",
         "mil.zw",
         "org.zw"
