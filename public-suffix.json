@@ -6440,6 +6440,7 @@
         "azure-api.net",
         "azure-mobile.net",
         "azureedge.net",
+        "azurefd.net",
         "azurestaticapps.net",
         "azurewebsites.net",
         "b.ssl.fastly.net",
@@ -8669,7 +8670,6 @@
         "store.st"
     ],
     "store": [
-        "azurefd.net",
         "barsy.store",
         "sellfy.store",
         "shopware.store",
