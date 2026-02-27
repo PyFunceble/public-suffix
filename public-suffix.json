@@ -2069,6 +2069,7 @@
         "s3-ap-southeast-1.amazonaws.com",
         "s3-ap-southeast-2.amazonaws.com",
         "s3-ca-central-1.amazonaws.com",
+        "s3-deprecated.ap-southeast-5.amazonaws.com",
         "s3-deprecated.eu-west-1.amazonaws.com",
         "s3-deprecated.us-east-1.amazonaws.com",
         "s3-deprecated.us-east-2.amazonaws.com",
@@ -5970,7 +5971,11 @@
         "xx.kg"
     ],
     "kh": [
-        "kh"
+        "com.kh",
+        "edu.kh",
+        "gov.kh",
+        "net.kh",
+        "org.kh"
     ],
     "ki": [
         "biz.ki",
@@ -8715,7 +8720,6 @@
         "obninsk.su",
         "penza.su",
         "pokrovsk.su",
-        "s3-deprecated.ap-southeast-5.amazonaws.com",
         "sochi.su",
         "spb.su",
         "tashkent.su",
