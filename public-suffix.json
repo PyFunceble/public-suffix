@@ -589,6 +589,7 @@
         "cloud.interhostsolutions.be",
         "cloudns.be",
         "ezproxy.kuleuven.be",
+        "my.be",
         "myspreadshop.be",
         "transurl.be",
         "webhosting.be"
@@ -2985,6 +2986,9 @@
         "veterinaire.fr",
         "ynh.fr"
     ],
+    "fun": [
+        "ms.fun"
+    ],
     "games": [
         "pley.games",
         "sheezy.games"
@@ -3657,7 +3661,6 @@
         "is.it",
         "isernia.it",
         "jc.neen.it",
-        "kaita.hiroshima.jp",
         "kr.it",
         "la-spezia.it",
         "laquila.it",
@@ -8569,6 +8572,9 @@
         "base.shop",
         "hoplix.shop",
         "shopware.shop"
+    ],
+    "show": [
+        "ms.show"
     ],
     "si": [
         "f5.si",
