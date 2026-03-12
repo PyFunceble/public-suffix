@@ -3667,6 +3667,7 @@
         "laquila.it",
         "laspezia.it",
         "latina.it",
+        "laz.it",
         "lazio.it",
         "lc.it",
         "le.it",
@@ -4792,7 +4793,6 @@
         "kyowa.akita.jp",
         "kyowa.hokkaido.jp",
         "kyuragi.saga.jp",
-        "laz.it",
         "lg.jp",
         "littlestar.jp",
         "lolipopmc.jp",
@@ -8637,6 +8637,7 @@
     "so": [
         "com.so",
         "edu.so",
+        "gov.so",
         "me.so",
         "net.so",
         "org.so",
@@ -9508,10 +9509,6 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
-    ],
-    "xn--j6w193g": [
-        "gov.so",
-        "xn--od0alg.xn--j6w193g"
     ],
     "xyz": [
         "botdash.xyz",
