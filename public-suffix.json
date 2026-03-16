@@ -2331,6 +2331,7 @@
         "try-snowplow.com",
         "trycloudflare.com",
         "tuleap-partners.com",
+        "u2-local.xnbay.com",
         "u2.xnbay.com",
         "uk.com",
         "unusualperson.com",
@@ -2919,12 +2920,10 @@
         "fi.cloudplatform.fi",
         "häkkinen.fi",
         "iki.fi",
-        "incheon.kr",
         "kapsi.fi",
         "myspreadshop.fi",
         "paas.datacenter.fi",
-        "xn--hkkinen-5wa.fi",
-        "zabc.net"
+        "xn--hkkinen-5wa.fi"
     ],
     "financial": [
         "co.financial"
@@ -6046,6 +6045,7 @@
         "gyeonggi.kr",
         "gyeongnam.kr",
         "hs.kr",
+        "incheon.kr",
         "io.kr",
         "it.kr",
         "jeju.kr",
@@ -6643,7 +6643,6 @@
         "tunnelmole.net",
         "twmail.net",
         "u.channelsdvr.net",
-        "u2-local.xnbay.com",
         "uk.net",
         "uni5.net",
         "user.srcf.net",
