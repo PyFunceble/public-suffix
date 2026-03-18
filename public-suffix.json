@@ -1042,6 +1042,7 @@
     "cc": [
         "ccwu.cc",
         "cleverapps.cc",
+        "cloud-ip.cc",
         "cloudns.cc",
         "csx.cc",
         "ec.cc",
@@ -2962,7 +2963,6 @@
         "chambagri.fr",
         "chirurgiens-dentistes-en-france.fr",
         "chirurgiens-dentistes.fr",
-        "cloud-ip.cc",
         "com.fr",
         "dedibox.fr",
         "experts-comptables.fr",
