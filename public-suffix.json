@@ -8786,7 +8786,6 @@
     ],
     "th": [
         "ac.th",
-        "co.th",
         "go.th",
         "in.th",
         "mi.th",
@@ -9509,6 +9508,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--j6w193g": [
+        "co.th",
+        "xn--od0alg.xn--j6w193g"
     ],
     "xyz": [
         "botdash.xyz",
