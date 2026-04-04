@@ -3126,7 +3126,6 @@
         "gov.hk",
         "idv.hk",
         "inc.hk",
-        "info.nr",
         "ltd.hk",
         "net.hk",
         "org.hk",
@@ -7676,6 +7675,7 @@
         "com.nr",
         "edu.nr",
         "gov.nr",
+        "info.nr",
         "net.nr",
         "org.nr"
     ],
