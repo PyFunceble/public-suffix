@@ -1055,6 +1055,7 @@
         "instances.spawn.cc",
         "myphotos.cc",
         "scrapping.cc",
+        "sryze.cc",
         "twmail.cc",
         "uk.cc",
         "us.cc"
@@ -6249,6 +6250,7 @@
         "noip.me",
         "org.me",
         "priv.me",
+        "seprox.hooc.me",
         "site.transip.me",
         "soundcast.me",
         "synology.me",
@@ -9516,6 +9518,7 @@
         "botdash.xyz",
         "caffeine.xyz",
         "exe.xyz",
+        "opentunnel.xyz",
         "telebit.xyz"
     ],
     "ye": [
