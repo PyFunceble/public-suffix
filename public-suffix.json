@@ -1951,7 +1951,6 @@
         "paas.massivegrid.com",
         "pages.wiardweb.com",
         "pagespeedmobilizer.com",
-        "pagexl.com",
         "paywhirl.com",
         "pgfog.com",
         "pivohosting.com",
@@ -8896,7 +8895,6 @@
         "web.tr"
     ],
     "tt": [
-        "biz.tt",
         "co.tt",
         "com.tt",
         "edu.tt",
@@ -9513,6 +9511,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--90a3ac": [
+        "biz.tt",
+        "xn--d1at.xn--90a3ac"
     ],
     "xyz": [
         "botdash.xyz",
