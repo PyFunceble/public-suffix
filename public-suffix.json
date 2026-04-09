@@ -527,8 +527,7 @@
         "transfer-webapp.us-gov-east-1.on.aws",
         "transfer-webapp.us-gov-west-1.on.aws",
         "transfer-webapp.us-west-1.on.aws",
-        "transfer-webapp.us-west-2.on.aws",
-        "with.playit.plus"
+        "transfer-webapp.us-west-2.on.aws"
     ],
     "az": [
         "biz.az",
@@ -1207,8 +1206,7 @@
         "vip.jelastic.cloud",
         "voorloper.cloud",
         "whm.fr-par.scw.cloud",
-        "whm.nl-ams.scw.cloud",
-        "zap.cloud"
+        "whm.nl-ams.scw.cloud"
     ],
     "club": [
         "barsy.club",
@@ -2451,6 +2449,7 @@
         "x.mythic-beasts.com",
         "x0.com",
         "xen.prgmr.com",
+        "xn--j1aef.xn--p1acf",
         "xnbay.com",
         "xtooldevice.com",
         "yali.mythic-beasts.com",
@@ -6665,7 +6664,8 @@
         "westus2.azurestaticapps.net",
         "yandexcloud.net",
         "za.net",
-        "zabc.net"
+        "zabc.net",
+        "zap.cloud"
     ],
     "network": [
         "aem.network",
