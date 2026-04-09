@@ -3004,7 +3004,8 @@
         "gov.gd"
     ],
     "gdn": [
-        "cnpy.gdn"
+        "cnpy.gdn",
+        "zabc.net"
     ],
     "ge": [
         "com.ge",
@@ -8895,6 +8896,7 @@
         "web.tr"
     ],
     "tt": [
+        "biz.tt",
         "co.tt",
         "com.tt",
         "edu.tt",
@@ -9511,10 +9513,6 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
-    ],
-    "xn--90a3ac": [
-        "biz.tt",
-        "xn--d1at.xn--90a3ac"
     ],
     "xyz": [
         "botdash.xyz",
