@@ -556,7 +556,6 @@
     ],
     "basketball": [
         "aus.basketball",
-        "loginline.dev",
         "nz.basketball"
     ],
     "bb": [
@@ -2676,6 +2675,7 @@
         "lclstage.dev",
         "leapcell.dev",
         "localplayer.dev",
+        "loginline.dev",
         "lp.dev",
         "mediatech.dev",
         "mocha-sandbox.dev",
