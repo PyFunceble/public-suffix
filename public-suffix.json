@@ -1206,7 +1206,8 @@
         "vip.jelastic.cloud",
         "voorloper.cloud",
         "whm.fr-par.scw.cloud",
-        "whm.nl-ams.scw.cloud"
+        "whm.nl-ams.scw.cloud",
+        "zap.cloud"
     ],
     "club": [
         "barsy.club",
@@ -2449,7 +2450,6 @@
         "x.mythic-beasts.com",
         "x0.com",
         "xen.prgmr.com",
-        "xn--j1aef.xn--p1acf",
         "xnbay.com",
         "xtooldevice.com",
         "yali.mythic-beasts.com",
@@ -6664,8 +6664,7 @@
         "westus2.azurestaticapps.net",
         "yandexcloud.net",
         "za.net",
-        "zabc.net",
-        "zap.cloud"
+        "zabc.net"
     ],
     "network": [
         "aem.network",
