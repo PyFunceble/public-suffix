@@ -1346,7 +1346,6 @@
         "storage.supabase.co",
         "supabase.co",
         "umso.co",
-        "user.fm",
         "xmit.co"
     ],
     "codes": [
@@ -1540,7 +1539,6 @@
         "dojin.com",
         "dontexist.com",
         "doomdns.com",
-        "dopaas.com",
         "drayddns.com",
         "dreamhosters.com",
         "drive-platform.com",
@@ -2965,7 +2963,8 @@
         "edu.fm",
         "net.fm",
         "org.fm",
-        "radio.fm"
+        "radio.fm",
+        "user.fm"
     ],
     "fr": [
         "123siteweb.fr",
@@ -7783,6 +7782,7 @@
         "doesntexist.org",
         "dontexist.org",
         "doomdns.org",
+        "dopaas.com",
         "dpdns.org",
         "dsmynas.org",
         "duckdns.org",
