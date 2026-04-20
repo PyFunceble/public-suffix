@@ -171,6 +171,7 @@
         "bookonline.app",
         "botdash.app",
         "brave.app",
+        "claude.app",
         "clerk.app",
         "clerkstage.app",
         "cloudflare.app",
@@ -2461,7 +2462,6 @@
         "x.mythic-beasts.com",
         "x0.com",
         "xen.prgmr.com",
-        "xn--io0a7i.cn",
         "xnbay.com",
         "xtooldevice.com",
         "yali.mythic-beasts.com",
@@ -2732,10 +2732,6 @@
         "worf.replit.dev",
         "workers.dev",
         "xmit.dev"
-    ],
-    "digital": [
-        "cloudapps.digital",
-        "london.cloudapps.digital"
     ],
     "direct": [
         "libp2p.direct"
@@ -5178,6 +5174,7 @@
         "okagaki.fukuoka.jp",
         "okawa.fukuoka.jp",
         "okawa.kochi.jp",
+        "okaya.nagano.jp",
         "okayama.jp",
         "okayama.okayama.jp",
         "okazaki.aichi.jp",
@@ -6071,7 +6068,6 @@
         "mmv.kr",
         "ms.kr",
         "ne.kr",
-        "okaya.nagano.jp",
         "or.kr",
         "pe.kr",
         "re.kr",
