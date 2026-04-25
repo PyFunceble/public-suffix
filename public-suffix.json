@@ -8991,7 +8991,6 @@
         "kh.ua",
         "kharkiv.ua",
         "kharkov.ua",
-        "kherson.ua",
         "khmelnitskiy.ua",
         "khmelnytskyi.ua",
         "kiev.ua",
@@ -9553,6 +9552,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--o3cw4h": [
+        "kherson.ua",
+        "xn--12co0c3b4eva.xn--o3cw4h"
     ],
     "xyz": [
         "botdash.xyz",
