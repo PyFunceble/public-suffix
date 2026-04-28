@@ -3003,7 +3003,10 @@
         "ynh.fr"
     ],
     "fun": [
-        "ms.fun"
+        "ms.fun",
+        "vicp.fun",
+        "yicp.fun",
+        "zicp.fun"
     ],
     "games": [
         "pley.games",
