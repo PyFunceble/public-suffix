@@ -1398,6 +1398,7 @@
         "ap-south-1.airflow.amazonaws.com",
         "ap-south-1.elasticbeanstalk.com",
         "ap-south-1.rds.amazonaws.com",
+        "ap-south-2.airflow.amazonaws.com",
         "ap-south-2.rds.amazonaws.com",
         "ap-southeast-1.airflow.amazonaws.com",
         "ap-southeast-1.elasticbeanstalk.com",
@@ -3136,7 +3137,6 @@
         "hra.health"
     ],
     "hk": [
-        "ap-south-2.airflow.amazonaws.com",
         "com.hk",
         "edu.hk",
         "gov.hk",
