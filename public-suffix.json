@@ -9609,8 +9609,10 @@
     ],
     "zone": [
         "lima.zone",
+        "prg1-zerops.zone",
         "stackit.zone",
-        "triton.zone"
+        "triton.zone",
+        "zerops.zone"
     ],
     "zw": [
         "ac.zw",
