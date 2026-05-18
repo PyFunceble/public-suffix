@@ -8571,8 +8571,7 @@
         "edu.sg",
         "enscaled.sg",
         "gov.sg",
-        "net.sg",
-        "org.sg"
+        "net.sg"
     ],
     "sh": [
         "botda.sh",
@@ -9556,6 +9555,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--j6w193g": [
+        "org.sg",
+        "xn--uc0atv.xn--j6w193g"
     ],
     "xyz": [
         "botdash.xyz",
