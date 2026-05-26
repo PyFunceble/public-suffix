@@ -1775,7 +1775,6 @@
         "from-oh.com",
         "from-ok.com",
         "from-or.com",
-        "from-pa.com",
         "from-pr.com",
         "from-ri.com",
         "from-sc.com",
@@ -8133,6 +8132,7 @@
         "org.pl",
         "oschr.gov.pl",
         "ostroda.pl",
+        "ostroleka.pl",
         "ostrowiec.pl",
         "ostrowwlkp.pl",
         "oum.gov.pl",
@@ -8578,6 +8578,7 @@
         "com.sh",
         "ent.platform.sh",
         "eu.platform.sh",
+        "from-pa.com",
         "gov.sh",
         "hashbang.sh",
         "lovable.sh",
@@ -9619,8 +9620,7 @@
         "co.zw",
         "gov.zw",
         "mil.zw",
-        "org.zw",
-        "ostroleka.pl"
+        "org.zw"
     ],
     "рус": [
         "xn--41a.xn--p1acf",
