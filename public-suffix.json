@@ -1272,6 +1272,7 @@
         "jl.cn",
         "js.cn",
         "jx.cn",
+        "khsj.cn",
         "ln.cn",
         "mil.cn",
         "mo.cn",
@@ -6140,6 +6141,7 @@
         "oy.lc"
     ],
     "link": [
+        "canva.link",
         "cyon.link",
         "dweb.link",
         "inbrowser.link",
