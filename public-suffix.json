@@ -168,7 +168,6 @@
         "aiven.app",
         "base44.app",
         "beget.app",
-        "bookonline.app",
         "botdash.app",
         "brave.app",
         "claude.app",
@@ -1993,7 +1992,6 @@
         "readthedocs-hosted.com",
         "remotewd.com",
         "reservd.com",
-        "reserve-online.com",
         "rhcloud.com",
         "rice-labs.com",
         "routingthecloud.com",
@@ -3268,6 +3266,7 @@
     ],
     "id": [
         "ac.id",
+        "ai.id",
         "biz.id",
         "co.id",
         "desa.id",
@@ -7742,6 +7741,7 @@
     ],
     "online": [
         "barsy.online",
+        "book.online",
         "eero-stage.online",
         "eero.online",
         "leapcell.online",
