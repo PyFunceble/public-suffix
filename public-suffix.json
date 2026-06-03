@@ -1309,7 +1309,6 @@
         "studio.cn-northwest-1.sagemaker.com.cn",
         "sx.cn",
         "tj.cn",
-        "transfer-webapp.cn-north-1.on.amazonwebservices.com.cn",
         "transfer-webapp.cn-northwest-1.on.amazonwebservices.com.cn",
         "tw.cn",
         "xj.cn",
@@ -3199,6 +3198,7 @@
         "mircloud.host",
         "myfast.host",
         "tempurl.host",
+        "transfer-webapp.cn-north-1.on.amazonwebservices.com.cn",
         "wp2.host",
         "wpmudev.host"
     ],
