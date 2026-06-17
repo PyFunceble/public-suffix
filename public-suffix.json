@@ -422,6 +422,7 @@
         "lambda-url.us-east-2.on.aws",
         "lambda-url.us-west-1.on.aws",
         "lambda-url.us-west-2.on.aws",
+        "namaste.jp",
         "notebook-fips.ca-central-1.sagemaker.aws",
         "notebook-fips.ca-west-1.sagemaker.aws",
         "notebook-fips.us-east-1.sagemaker.aws",
