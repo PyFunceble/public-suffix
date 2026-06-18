@@ -2879,7 +2879,8 @@
     "email": [
         "intouch.email",
         "p.tawk.email",
-        "p.tawkto.email"
+        "p.tawkto.email",
+        "piebox.site"
     ],
     "er": [
         "er"
@@ -8630,7 +8631,6 @@
         "novecore.site",
         "omniwe.site",
         "opensocial.site",
-        "piebox.site",
         "platformsh.site",
         "preview.site",
         "sol.site",
