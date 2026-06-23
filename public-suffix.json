@@ -217,6 +217,7 @@
         "pplx.app",
         "preview.csb.app",
         "privatelink.snowflake.app",
+        "puter.app",
         "relay.evervault.app",
         "replit.app",
         "run.app",
@@ -8636,6 +8637,7 @@
         "piebox.site",
         "platformsh.site",
         "preview.site",
+        "puter.site",
         "sol.site",
         "sourcecraft.site",
         "square.site",
@@ -9351,7 +9353,6 @@
         "ok.us",
         "olympia.wa.us",
         "or.us",
-        "org.zw",
         "pa.us",
         "paroch.k12.ma.us",
         "phx.enscaled.us",
@@ -9552,7 +9553,8 @@
         "framer.wiki"
     ],
     "work": [
-        "imagine-proxy.work"
+        "imagine-proxy.work",
+        "puter.work"
     ],
     "ws": [
         "advisor.ws",
