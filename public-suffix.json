@@ -301,6 +301,7 @@
         "ac.at",
         "biz.at",
         "co.at",
+        "dnshome.at",
         "ex.futurecms.at",
         "ex.ortsinfo.at",
         "futurecms.at",
@@ -555,6 +556,9 @@
         "rs.ba",
         "shop.brendly.ba"
     ],
+    "bar": [
+        "resolve.bar"
+    ],
     "basketball": [
         "aus.basketball",
         "nz.basketball"
@@ -597,6 +601,9 @@
         "myspreadshop.be",
         "transurl.be",
         "webhosting.be"
+    ],
+    "berlin": [
+        "ddns.berlin"
     ],
     "bf": [
         "gov.bf"
@@ -1129,6 +1136,7 @@
         "ddl.pl-waw.scw.cloud",
         "de.trendhosting.cloud",
         "diadem.cloud",
+        "dnshome.cloud",
         "dtwh.fr-par.scw.cloud",
         "dtwh.nl-ams.scw.cloud",
         "dtwh.pl-waw.scw.cloud",
@@ -2571,6 +2579,7 @@
         "community-pro.de",
         "customer.speedpartner.de",
         "ddnss.de",
+        "ddnssec.de",
         "diskussionsbereich.de",
         "dnshome.de",
         "dnsupdater.de",
@@ -2582,6 +2591,7 @@
         "dynamisches-dns.de",
         "dyndns.ddnss.de",
         "dyndns1.de",
+        "dyndnssec.de",
         "firewall-gateway.de",
         "frusky.de",
         "fuettertdasnetz.de",
@@ -2589,6 +2599,7 @@
         "goip.de",
         "günstigbestellen.de",
         "günstigliefern.de",
+        "heimdns.de",
         "home-webserver.de",
         "in-berlin.de",
         "in-brb.de",
@@ -2622,6 +2633,7 @@
         "schulserver.de",
         "spdns.de",
         "square7.de",
+        "srvdns.de",
         "svn-repos.de",
         "taifun-dns.de",
         "test-iserv.de",
@@ -2913,6 +2925,7 @@
         "cloudns.eu",
         "deuxfleurs.eu",
         "directwp.eu",
+        "dnshome.eu",
         "jelastic.dogado.eu",
         "nxa.eu",
         "prvw.eu",
@@ -3634,6 +3647,7 @@
         "cz.it",
         "dell-ogliastra.it",
         "dellogliastra.it",
+        "dnshome.it",
         "edu.it",
         "emilia-romagna.it",
         "emiliaromagna.it",
@@ -7691,6 +7705,9 @@
         "øystre-slidre.no",
         "čáhcesuolo.no"
     ],
+    "now": [
+        "dyn.now"
+    ],
     "np": [
         "np"
     ],
@@ -7750,6 +7767,7 @@
         "book.online",
         "eero-stage.online",
         "eero.online",
+        "heimdns.online",
         "leapcell.online",
         "websitebuilder.online"
     ],
@@ -9566,6 +9584,9 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "wtf": [
+        "ddns.wtf"
     ],
     "xyz": [
         "botdash.xyz",
