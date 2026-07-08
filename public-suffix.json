@@ -8,7 +8,8 @@
         "gov.ac",
         "mil.ac",
         "net.ac",
-        "org.ac"
+        "org.ac",
+        "sch.ac"
     ],
     "academy": [
         "official.academy"
@@ -2511,13 +2512,15 @@
     ],
     "cv": [
         "com.cv",
+        "dev.cv",
         "edu.cv",
         "id.cv",
         "int.cv",
         "net.cv",
         "nome.cv",
         "org.cv",
-        "publ.cv"
+        "publ.cv",
+        "store.cv"
     ],
     "cw": [
         "com.cw",
