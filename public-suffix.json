@@ -8879,7 +8879,6 @@
     ],
     "tn": [
         "com.tn",
-        "ens.tn",
         "fin.tn",
         "gov.tn",
         "ind.tn",
@@ -9650,6 +9649,7 @@
     "zw": [
         "ac.zw",
         "co.zw",
+        "ens.tn",
         "gov.zw",
         "mil.zw",
         "org.zw"
