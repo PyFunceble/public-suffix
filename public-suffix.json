@@ -1507,7 +1507,6 @@
         "canva-hosted-embed.com",
         "canvacode.com",
         "caracal.mythic-beasts.com",
-        "cdn.bubble.io",
         "cdn77-storage.com",
         "cechire.com",
         "cf-ipfs.com",
@@ -2603,6 +2602,7 @@
         "günstigliefern.de",
         "heimdns.de",
         "home-webserver.de",
+        "home64.de",
         "in-berlin.de",
         "in-brb.de",
         "in-butter.de",
@@ -2610,6 +2610,7 @@
         "in-vpn.de",
         "internet-dns.de",
         "io.noc.ruhr-uni-bochum.de",
+        "ipv64.de",
         "iservschule.de",
         "isteingeek.de",
         "istmein.de",
@@ -3044,12 +3045,16 @@
     ],
     "ge": [
         "com.ge",
+        "cyb.ge",
         "edu.ge",
         "gov.ge",
+        "llc.ge",
         "net.ge",
+        "online.ge",
         "org.ge",
         "pvt.ge",
-        "school.ge"
+        "school.ge",
+        "tnx.ge"
     ],
     "gg": [
         "at.ply.gg",
@@ -6592,6 +6597,7 @@
         "in.net",
         "iobb.net",
         "ipifony.net",
+        "ipv64.net",
         "is-a-chef.net",
         "is-a-geek.net",
         "isa-geek.net",
@@ -8530,6 +8536,7 @@
         "co.scot",
         "gov.scot",
         "me.scot",
+        "mygov.scot",
         "org.scot",
         "service.gov.scot"
     ],
