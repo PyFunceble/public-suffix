@@ -1561,7 +1561,6 @@
         "dyndns-at-home.com",
         "dyndns-at-work.com",
         "dyndns-blog.com",
-        "dyndns-free.com",
         "dyndns-home.com",
         "dyndns-ip.com",
         "dyndns-mail.com",
@@ -2647,6 +2646,7 @@
     ],
     "design": [
         "bss.design",
+        "dyndns-free.com",
         "graphic.design"
     ],
     "dev": [
@@ -6709,6 +6709,7 @@
     "network": [
         "aem.network",
         "alces.network",
+        "alt.za",
         "appwrite.network",
         "arvo.network",
         "azimuth.network",
@@ -9619,7 +9620,6 @@
     "za": [
         "ac.za",
         "agric.za",
-        "alt.za",
         "co.za",
         "edu.za",
         "gov.za",
