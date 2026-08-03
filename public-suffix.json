@@ -1926,6 +1926,7 @@
         "mochausercontent.com",
         "modelscape.com",
         "mrap.accesspoint.s3-global.amazonaws.com",
+        "ms.fun",
         "mwcloudnonprod.com",
         "mx-central-1.rds.amazonaws.com",
         "myactivedirectory.com",
@@ -3017,7 +3018,6 @@
         "ynh.fr"
     ],
     "fun": [
-        "ms.fun",
         "vicp.fun",
         "yicp.fun",
         "zicp.fun"
