@@ -1650,7 +1650,6 @@
         "emrstudio-prod.ap-southeast-3.amazonaws.com",
         "emrstudio-prod.ap-southeast-4.amazonaws.com",
         "emrstudio-prod.ca-central-1.amazonaws.com",
-        "emrstudio-prod.ca-west-1.amazonaws.com",
         "emrstudio-prod.eu-central-1.amazonaws.com",
         "emrstudio-prod.eu-central-2.amazonaws.com",
         "emrstudio-prod.eu-north-1.amazonaws.com",
@@ -2888,6 +2887,7 @@
         "tv.eg"
     ],
     "email": [
+        "emrstudio-prod.ca-west-1.amazonaws.com",
         "intouch.email",
         "p.tawk.email",
         "p.tawkto.email"
