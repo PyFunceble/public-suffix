@@ -165,7 +165,6 @@
         "pb.ao"
     ],
     "app": [
-        "adaptable.app",
         "aiven.app",
         "base44.app",
         "beget.app",
@@ -175,6 +174,7 @@
         "clerk.app",
         "clerkstage.app",
         "cloudflare.app",
+        "codepen.app",
         "convex.app",
         "corespeed.app",
         "csb.app",
@@ -1180,6 +1180,7 @@
         "nodes.k8s.pl-waw.scw.cloud",
         "observablehq.cloud",
         "on-rancher.cloud",
+        "online-server.cloud",
         "oxa.cloud",
         "perspecta.cloud",
         "primetel.cloud",
@@ -1517,6 +1518,7 @@
         "compute.amazonaws.com",
         "cprapid.com",
         "cpserver.com",
+        "cursorusercontent.com",
         "customer-oci.com",
         "customer.mythic-beasts.com",
         "damnserver.com",
@@ -2664,6 +2666,7 @@
         "brave.dev",
         "canary.replit.dev",
         "ci.crm.dev",
+        "codepen.dev",
         "d.crm.dev",
         "deno-staging.dev",
         "deno.dev",
@@ -7717,7 +7720,8 @@
         "čáhcesuolo.no"
     ],
     "now": [
-        "dyn.now"
+        "dyn.now",
+        "here.now"
     ],
     "np": [
         "np"
@@ -8640,6 +8644,7 @@
         "gitpage.si"
     ],
     "site": [
+        "ams.scw.site",
         "barsy.site",
         "byen.site",
         "caffeine.site",
@@ -8668,6 +8673,7 @@
         "playcode.site",
         "preview.site",
         "puter.site",
+        "scw.site",
         "sol.site",
         "sourcecraft.site",
         "square.site",
@@ -8675,6 +8681,7 @@
         "support.site",
         "tst.site",
         "us-east-1.convex.site",
+        "waw.scw.site",
         "wpsquared.site"
     ],
     "sk": [
@@ -9018,7 +9025,6 @@
         "com.ua",
         "cr.ua",
         "crimea.ua",
-        "cv.ua",
         "cx.ua",
         "dn.ua",
         "dnepropetrovsk.ua",
@@ -9596,6 +9602,10 @@
     ],
     "wtf": [
         "ddns.wtf"
+    ],
+    "xn--o3cw4h": [
+        "cv.ua",
+        "xn--12co0c3b4eva.xn--o3cw4h"
     ],
     "xyz": [
         "botdash.xyz",
