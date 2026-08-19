@@ -3499,7 +3499,6 @@
         "s.brave.io",
         "sa.ngrok.io",
         "sandcats.io",
-        "sekd1.beebyteapp.io",
         "site.rb-hosting.io",
         "stage.nodeart.io",
         "stolos.io",
@@ -9603,6 +9602,10 @@
     ],
     "wtf": [
         "ddns.wtf"
+    ],
+    "xn--p1acf": [
+        "sekd1.beebyteapp.io",
+        "xn--j1ael8b.xn--p1acf"
     ],
     "xyz": [
         "botdash.xyz",
