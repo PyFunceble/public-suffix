@@ -1509,6 +1509,7 @@
         "cechire.com",
         "cf-ipfs.com",
         "ciscofreak.com",
+        "claudeusercontent.com",
         "cloud.nospamproxy.com",
         "cloudflare-ipfs.com",
         "cn.com",
@@ -1745,6 +1746,7 @@
         "firewall-gateway.com",
         "fldrv.com",
         "forgeblocks.com",
+        "frame.claudeusercontent.com",
         "framercanvas.com",
         "freebox-os.com",
         "freeboxos.com",
@@ -5729,7 +5731,6 @@
         "uchiko.ehime.jp",
         "uchinada.ishikawa.jp",
         "uchinomi.kagawa.jp",
-        "uda.nara.jp",
         "udono.mie.jp",
         "ueda.nagano.jp",
         "ueno.gunma.jp",
@@ -6251,7 +6252,8 @@
         "gov.ma",
         "net.ma",
         "org.ma",
-        "press.ma"
+        "press.ma",
+        "uda.nara.jp"
     ],
     "mc": [
         "asso.mc",
