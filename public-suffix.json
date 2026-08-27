@@ -203,6 +203,7 @@
         "miren.app",
         "mocha.app",
         "mtls.run.app",
+        "net.ky",
         "netlify.app",
         "ngrok-free.app",
         "ngrok.app",
@@ -6124,7 +6125,6 @@
     "ky": [
         "com.ky",
         "edu.ky",
-        "net.ky",
         "org.ky"
     ],
     "kz": [
@@ -8251,7 +8251,6 @@
         "tourism.pl",
         "travel.pl",
         "turek.pl",
-        "turystyka.pl",
         "tychy.pl",
         "ug.gov.pl",
         "ugim.gov.pl",
@@ -9415,6 +9414,7 @@
         "stuff-4-sale.us",
         "tec.mi.us",
         "tn.us",
+        "turystyka.pl",
         "tx.us",
         "ut.us",
         "va.us",
