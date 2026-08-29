@@ -9016,7 +9016,6 @@
         "biz.ua",
         "cc.ua",
         "cherkassy.ua",
-        "cherkasy.ua",
         "chernigov.ua",
         "chernihiv.ua",
         "chernivtsi.ua",
@@ -9605,6 +9604,10 @@
     ],
     "wtf": [
         "ddns.wtf"
+    ],
+    "xn--o3cw4h": [
+        "cherkasy.ua",
+        "xn--h3cuzk1di.xn--o3cw4h"
     ],
     "xyz": [
         "botdash.xyz",
