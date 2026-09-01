@@ -2355,8 +2355,6 @@
         "try-snowplow.com",
         "trycloudflare.com",
         "tuleap-partners.com",
-        "u2-local.xnbay.com",
-        "u2.xnbay.com",
         "uk.com",
         "unusualperson.com",
         "upsunapp.com",
@@ -2474,7 +2472,6 @@
         "x.mythic-beasts.com",
         "x0.com",
         "xen.prgmr.com",
-        "xnbay.com",
         "xtooldevice.com",
         "yali.mythic-beasts.com",
         "yolasite.com",
@@ -2948,14 +2945,12 @@
     "fi": [
         "123kotisivu.fi",
         "aland.fi",
-        "demo.datacenter.fi",
         "dy.fi",
         "fi.cloudplatform.fi",
         "häkkinen.fi",
         "iki.fi",
         "kapsi.fi",
         "myspreadshop.fi",
-        "paas.datacenter.fi",
         "xn--hkkinen-5wa.fi"
     ],
     "financial": [
@@ -6163,10 +6158,14 @@
         "org.lc",
         "oy.lc"
     ],
+    "limo": [
+        "eth.limo"
+    ],
     "link": [
         "canva.link",
         "cyon.link",
         "dweb.link",
+        "eth.link",
         "inbrowser.link",
         "ipfs.nftstorage.link",
         "ipfs.storacha.link",
