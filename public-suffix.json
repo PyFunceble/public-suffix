@@ -1245,6 +1245,7 @@
         "as.sh.cn",
         "bj.cn",
         "canva-apps.cn",
+        "canva-code.cn",
         "cn-north-1.airflow.amazonaws.com.cn",
         "cn-north-1.eb.amazonaws.com.cn",
         "cn-northwest-1.airflow.amazonaws.com.cn",
@@ -7722,7 +7723,8 @@
     ],
     "now": [
         "dyn.now",
-        "here.now"
+        "here.now",
+        "tmp.now"
     ],
     "np": [
         "np"
