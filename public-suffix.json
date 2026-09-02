@@ -220,6 +220,7 @@
         "puter.app",
         "relay.evervault.app",
         "replit.app",
+        "rocketpreview.app",
         "run.app",
         "s.brave.app",
         "shiptoday.app",
@@ -6718,6 +6719,9 @@
         "azimuth.network",
         "co.network",
         "tlon.network"
+    ],
+    "new": [
+        "builtwithrocket.new"
     ],
     "news": [
         "noticeable.news"
