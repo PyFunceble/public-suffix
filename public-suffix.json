@@ -4050,7 +4050,6 @@
         "amami.kagoshima.jp",
         "ami.ibaraki.jp",
         "anamizu.ishikawa.jp",
-        "anan.nagano.jp",
         "anan.tokushima.jp",
         "ando.nara.jp",
         "angry.jp",
@@ -6409,6 +6408,7 @@
     ],
     "mw": [
         "ac.mw",
+        "anan.nagano.jp",
         "biz.mw",
         "co.mw",
         "com.mw",
