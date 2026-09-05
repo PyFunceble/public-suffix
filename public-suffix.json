@@ -1171,7 +1171,6 @@
         "lb.ru-spb.k2.cloud",
         "linkyard.cloud",
         "magentosite.cloud",
-        "matlab.cloud",
         "mgdb.fr-par.scw.cloud",
         "mgdb.nl-ams.scw.cloud",
         "mgdb.pl-waw.scw.cloud",
@@ -9682,6 +9681,10 @@
     ],
     "wtf": [
         "ddns.wtf"
+    ],
+    "xn--p1acf": [
+        "matlab.cloud",
+        "xn--h1ahn.xn--p1acf"
     ],
     "xyz": [
         "botdash.xyz",
