@@ -8569,6 +8569,7 @@
         "appwrite.run",
         "build.run",
         "canva.run",
+        "cloud.run",
         "code.run",
         "database.run",
         "development.run",
@@ -8837,6 +8838,9 @@
         "sellfy.store",
         "shopware.store",
         "storebase.store"
+    ],
+    "studio": [
+        "ai.studio"
     ],
     "su": [
         "abkhazia.su",
