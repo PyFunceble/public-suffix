@@ -4824,7 +4824,6 @@
         "kurume.fukuoka.jp",
         "kusatsu.gunma.jp",
         "kusatsu.shiga.jp",
-        "kushima.miyazaki.jp",
         "kushimoto.wakayama.jp",
         "kushiro.hokkaido.jp",
         "kusu.oita.jp",
@@ -9697,6 +9696,10 @@
     ],
     "wtf": [
         "ddns.wtf"
+    ],
+    "xn--90a3ac": [
+        "kushima.miyazaki.jp",
+        "xn--o1ac.xn--90a3ac"
     ],
     "xyz": [
         "botdash.xyz",
