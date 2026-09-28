@@ -8476,6 +8476,7 @@
         "org.py"
     ],
     "qa": [
+        "camau.vn",
         "com.qa",
         "edu.qa",
         "gov.qa",
