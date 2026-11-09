@@ -8152,6 +8152,8 @@
         "linkyhost.page",
         "mybox.page",
         "pdns.page",
+        "plesk.page",
+        "prod.page",
         "prvcy.page",
         "rocky.page",
         "statichost.page"
@@ -8460,7 +8462,8 @@
         "zpisdn.gov.pl"
     ],
     "place": [
-        "co.place"
+        "co.place",
+        "ship.place"
     ],
     "plus": [
         "at.playit.plus",
@@ -8836,7 +8839,6 @@
         "piebox.site",
         "platformsh.site",
         "playcode.site",
-        "plesk.page",
         "preview.site",
         "puter.site",
         "scw.site",
