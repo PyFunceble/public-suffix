@@ -8152,7 +8152,6 @@
         "linkyhost.page",
         "mybox.page",
         "pdns.page",
-        "plesk.page",
         "prvcy.page",
         "rocky.page",
         "statichost.page"
@@ -8837,6 +8836,7 @@
         "piebox.site",
         "platformsh.site",
         "playcode.site",
+        "plesk.page",
         "preview.site",
         "puter.site",
         "scw.site",
