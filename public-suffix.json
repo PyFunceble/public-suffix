@@ -175,6 +175,7 @@
         "clerk.app",
         "clerkstage.app",
         "cloudflare.app",
+        "cloudzyro.app",
         "codepen.app",
         "convex.app",
         "corespeed.app",
@@ -2700,6 +2701,7 @@
         "fuettertdasnetz.de",
         "git-repos.de",
         "goip.de",
+        "gov.de",
         "günstigbestellen.de",
         "günstigliefern.de",
         "heimdns.de",
@@ -2757,6 +2759,7 @@
     "dev": [
         "aa.crm.dev",
         "ab.crm.dev",
+        "abyme.dev",
         "ac.crm.dev",
         "ad.crm.dev",
         "ae.crm.dev",
