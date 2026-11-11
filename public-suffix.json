@@ -174,6 +174,7 @@
         "claude.app",
         "clerk.app",
         "clerkstage.app",
+        "cloud.modelence.app",
         "cloudflare.app",
         "cloudzyro.app",
         "codepen.app",
@@ -205,6 +206,7 @@
         "messerli.app",
         "miren.app",
         "mocha.app",
+        "modelence.app",
         "mtls.run.app",
         "netlify.app",
         "ngrok-free.app",
@@ -227,6 +229,7 @@
         "rocketpreview.app",
         "run.app",
         "s.brave.app",
+        "sandbox.modelence.app",
         "shiptoday.app",
         "sliplane.app",
         "snowflake.app",
@@ -8159,7 +8162,8 @@
         "prod.page",
         "prvcy.page",
         "rocky.page",
-        "statichost.page"
+        "statichost.page",
+        "vibekit.page"
     ],
     "pe": [
         "com.pe",
@@ -8668,6 +8672,7 @@
         "onporter.run",
         "ravendb.run",
         "repl.run",
+        "rwx.run",
         "sanity.run",
         "stackit.run",
         "val.run",
