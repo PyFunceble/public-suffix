@@ -5975,7 +5975,6 @@
         "yashio.saitama.jp",
         "yashiro.hyogo.jp",
         "yasu.shiga.jp",
-        "yasuda.kochi.jp",
         "yasugi.shimane.jp",
         "yasuoka.nagano.jp",
         "yatomi.aichi.jp",
@@ -6332,7 +6331,8 @@
         "net.ly",
         "org.ly",
         "plc.ly",
-        "sch.ly"
+        "sch.ly",
+        "yasuda.kochi.jp"
     ],
     "ma": [
         "ac.ma",
@@ -8839,6 +8839,7 @@
         "jouwweb.site",
         "loginline.site",
         "madethis.site",
+        "medusajs.site",
         "my.canva.site",
         "notion.site",
         "novecore.site",
