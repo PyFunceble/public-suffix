@@ -1527,7 +1527,6 @@
         "barsycenter.com",
         "barsyonline.com",
         "base44-sandbox.com",
-        "better-than.tv",
         "blogdns.com",
         "blogspot.com",
         "blogsyte.com",
@@ -3618,6 +3617,7 @@
         "stolos.io",
         "sys.qcx.io",
         "telebit.io",
+        "terramind.io",
         "tickets.io",
         "us.ngrok.io",
         "utwente.io",
@@ -9194,6 +9194,7 @@
         "pro.tt"
     ],
     "tv": [
+        "better-than.tv",
         "dyndns.tv",
         "from.tv",
         "on-the-web.tv",
