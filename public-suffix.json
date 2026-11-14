@@ -165,6 +165,7 @@
         "pb.ao"
     ],
     "app": [
+        "agilevibes.app",
         "aiven.app",
         "auth.lovable.app",
         "base44.app",
@@ -284,6 +285,10 @@
         "seg.ar",
         "senasa.ar",
         "tur.ar"
+    ],
+    "army": [
+        "dns.army",
+        "v6.army"
     ],
     "arpa": [
         "e164.arpa",
@@ -774,6 +779,9 @@
     "bot": [
         "apps.grok.bot",
         "pages.grok.bot"
+    ],
+    "box": [
+        "sail.box"
     ],
     "br": [
         "9guacu.br",
@@ -1519,6 +1527,7 @@
         "barsycenter.com",
         "barsyonline.com",
         "base44-sandbox.com",
+        "better-than.tv",
         "blogdns.com",
         "blogspot.com",
         "blogsyte.com",
@@ -2032,6 +2041,7 @@
         "mydobiss.com",
         "myiphost.com",
         "mynascloud.com",
+        "myoxypages.com",
         "myqnapcloud.com",
         "mysecuritycamera.com",
         "myshopblocks.com",
@@ -2043,6 +2053,7 @@
         "neat-url.com",
         "net-freaks.com",
         "nfshost.com",
+        "ninjaneer-sites.com",
         "nodebalancer.linode.com",
         "o365.cloud.nospamproxy.com",
         "oaiusercontent.com",
@@ -2817,9 +2828,12 @@
         "platter-app.dev",
         "r2.dev",
         "relay.evervault.dev",
+        "reliantlabs.dev",
+        "reliantpreview.dev",
         "replit.dev",
         "runcontainers.dev",
         "s.brave.dev",
+        "sites.reliantlabs.dev",
         "stg.dev",
         "stgstage.dev",
         "t3.storage.dev",
@@ -2844,8 +2858,7 @@
         "libp2p.direct"
     ],
     "diy": [
-        "discourse.diy",
-        "imagine.diy"
+        "discourse.diy"
     ],
     "dk": [
         "123hjemmeside.dk",
@@ -3031,6 +3044,10 @@
     "fan": [
         "mkm.fan"
     ],
+    "fast": [
+        "space.fast",
+        "view.fast"
+    ],
     "fi": [
         "123kotisivu.fi",
         "aland.fi",
@@ -3069,6 +3086,10 @@
         "org.fm",
         "radio.fm",
         "user.fm"
+    ],
+    "fo": [
+        "co.fo",
+        "com.fo"
     ],
     "fr": [
         "123siteweb.fr",
@@ -3127,6 +3148,7 @@
     "ge": [
         "com.ge",
         "cyb.ge",
+        "ddns.ge",
         "edu.ge",
         "gov.ge",
         "llc.ge",
@@ -3308,6 +3330,7 @@
         "mircloud.host",
         "myfast.host",
         "tempurl.host",
+        "voati.host",
         "wp2.host",
         "wpmudev.host"
     ],
@@ -3603,7 +3626,8 @@
         "webflow.io",
         "webflowtest.io",
         "webthings.io",
-        "wixstudio.io"
+        "wixstudio.io",
+        "wz.io"
     ],
     "iq": [
         "com.iq",
@@ -5916,6 +5940,7 @@
         "xn--klt787d.jp",
         "xn--kltp7d.jp",
         "xn--kltx9a.jp",
+        "xn--klty5x.jp",
         "xn--mkru45i.jp",
         "xn--nit225k.jp",
         "xn--ntso0iqx3a.jp",
@@ -6390,7 +6415,8 @@
         "synology.me",
         "tcp4.me",
         "vp4.me",
-        "webhop.me"
+        "webhop.me",
+        "xwx.me"
     ],
     "media": [
         "framer.media"
@@ -6550,6 +6576,10 @@
         "forgot.his.name",
         "ispmanager.name",
         "keenetic.name"
+    ],
+    "navy": [
+        "dns.navy",
+        "v6.navy"
     ],
     "nc": [
         "asso.nc",
@@ -8134,6 +8164,7 @@
         "webredirect.org",
         "wmcloud.org",
         "wmflabs.org",
+        "wz.org",
         "za.org",
         "zapto.org"
     ],
@@ -8161,6 +8192,8 @@
         "hlx.page",
         "linkyhost.page",
         "mybox.page",
+        "mymagic.page",
+        "omgs.page",
         "pdns.page",
         "plesk.page",
         "prod.page",
@@ -8605,6 +8638,7 @@
         "lima-city.rocks",
         "myddns.rocks",
         "stackit.rocks",
+        "v6.rocks",
         "webspace.rocks"
     ],
     "rs": [
@@ -8678,6 +8712,7 @@
         "repl.run",
         "rwx.run",
         "sanity.run",
+        "sm.run",
         "stackit.run",
         "val.run",
         "vercel.run",
@@ -8793,6 +8828,7 @@
         "org.sg"
     ],
     "sh": [
+        "bearly.sh",
         "botda.sh",
         "com.sh",
         "ent.platform.sh",
@@ -9158,7 +9194,6 @@
         "pro.tt"
     ],
     "tv": [
-        "better-than.tv",
         "dyndns.tv",
         "from.tv",
         "on-the-web.tv",
@@ -9775,7 +9810,6 @@
         "framer.wiki"
     ],
     "work": [
-        "imagine-proxy.work",
         "puter.work"
     ],
     "ws": [
