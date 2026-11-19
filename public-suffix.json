@@ -1090,6 +1090,7 @@
         "instances.spawn.cc",
         "loc.cc",
         "myphotos.cc",
+        "pvf.cc",
         "scrapping.cc",
         "sryze.cc",
         "twmail.cc",
@@ -1133,11 +1134,13 @@
         "go.ci",
         "gouv.ci",
         "int.ci",
+        "kz.ci",
         "net.ci",
         "or.ci",
         "org.ci",
         "us.ci",
-        "xn--aroport-bya.ci"
+        "xn--aroport-bya.ci",
+        "xyz.ci"
     ],
     "ck": [
         "ck"
@@ -2092,6 +2095,7 @@
         "point2this.com",
         "polyspace.com",
         "postman-echo.com",
+        "prairielearn-user-content.com",
         "preview.emergentagent.com",
         "pro.typeform.com",
         "pythonanywhere.com",
