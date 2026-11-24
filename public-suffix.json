@@ -173,6 +173,7 @@
         "auth.lovable.app",
         "base44.app",
         "beget.app",
+        "blacktops.app",
         "botdash.app",
         "brave.app",
         "claude.app",
@@ -8204,6 +8205,7 @@
     ],
     "page": [
         "aem.page",
+        "blacktops.page",
         "codeberg.page",
         "deuxfleurs.page",
         "ginta.page",
