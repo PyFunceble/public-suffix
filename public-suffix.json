@@ -205,7 +205,6 @@
         "hosted.app",
         "hostney.app",
         "id.replit.app",
-        "leapcell.app",
         "loginline.app",
         "lovable.app",
         "luyani.app",
@@ -247,6 +246,7 @@
         "sprites.app",
         "staging.expo.app",
         "streamlit.app",
+        "strw.app",
         "telebit.app",
         "typedream.app",
         "up.railway.app",
@@ -6152,6 +6152,7 @@
         "com.kg",
         "edu.kg",
         "fj.kg",
+        "fs.kg",
         "gov.kg",
         "mil.kg",
         "net.kg",
@@ -6659,6 +6660,7 @@
         "b.ssl.fastly.net",
         "barsy.net",
         "belgiumcentral-01.azurewebsites.net",
+        "bg5.net",
         "blackbaudcdn.net",
         "blob.core.usgovcloudapi.net",
         "blob.core.windows.net",
@@ -8219,6 +8221,7 @@
     "page": [
         "aem.page",
         "blacktops.page",
+        "bonto.page",
         "codeberg.page",
         "deuxfleurs.page",
         "ginta.page",
@@ -8892,7 +8895,8 @@
     ],
     "si": [
         "f5.si",
-        "gitpage.si"
+        "gitpage.si",
+        "is-a.si"
     ],
     "site": [
         "ams.scw.site",
@@ -8911,6 +8915,7 @@
         "fastvps.site",
         "figma-gov.site",
         "figma.site",
+        "fusebase.site",
         "greybull.site",
         "heyflow.site",
         "jele.site",
@@ -9851,6 +9856,10 @@
     ],
     "work": [
         "puter.work"
+    ],
+    "world": [
+        "atoms.world",
+        "pub.atoms.world"
     ],
     "ws": [
         "advisor.ws",
