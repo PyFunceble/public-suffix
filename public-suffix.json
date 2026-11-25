@@ -203,6 +203,7 @@
         "hackclub.app",
         "hasura.app",
         "hosted.app",
+        "hostney.app",
         "id.replit.app",
         "leapcell.app",
         "loginline.app",
@@ -215,6 +216,7 @@
         "mocha.app",
         "modelence.app",
         "mtls.run.app",
+        "mythex.app",
         "netlify.app",
         "ngrok-free.app",
         "ngrok.app",
@@ -230,6 +232,7 @@
         "preview.csb.app",
         "privatelink.snowflake.app",
         "puter.app",
+        "pymaia.app",
         "relay.evervault.app",
         "replit.app",
         "retool.app",
@@ -254,7 +257,6 @@
         "web.app",
         "windsurf.app",
         "wnext.app",
-        "xn--gmqw5a.hk",
         "zeabur.app",
         "zerops.app"
     ],
@@ -1022,10 +1024,13 @@
     ],
     "bw": [
         "ac.bw",
+        "agric.bw",
         "co.bw",
         "gov.bw",
+        "me.bw",
         "net.bw",
-        "org.bw"
+        "org.bw",
+        "shop.bw"
     ],
     "by": [
         "com.by",
@@ -1184,10 +1189,12 @@
         "fr-par-2.baremetal.scw.cloud",
         "functions.fnc.fr-par.scw.cloud",
         "host.cloud",
+        "hostney.cloud",
         "hstgr.cloud",
         "ifr.fr-par.scw.cloud",
         "ifr.nl-ams.scw.cloud",
         "ifr.pl-waw.scw.cloud",
+        "infusion-ai.cloud",
         "it1.eur.aruba.jenv-aruba.cloud",
         "it1.jenv-aruba.cloud",
         "jele.cloud",
@@ -6726,6 +6733,7 @@
         "edgesuite-staging.net",
         "edgesuite.net",
         "endofinternet.net",
+        "entrypages.net",
         "familyds.net",
         "fastlylb.net",
         "feste-ip.net",
@@ -8931,6 +8939,7 @@
         "tst.site",
         "us-east-1.convex.site",
         "waw.scw.site",
+        "wirechunk.site",
         "wpsquared.site"
     ],
     "sk": [
