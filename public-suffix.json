@@ -9553,7 +9553,6 @@
         "k12.ne.us",
         "k12.nh.us",
         "k12.nj.us",
-        "k12.nm.us",
         "k12.nv.us",
         "k12.ny.us",
         "k12.oh.us",
@@ -9937,6 +9936,7 @@
         "ac.zw",
         "co.zw",
         "gov.zw",
+        "k12.nm.us",
         "mil.zw",
         "org.zw"
     ],
