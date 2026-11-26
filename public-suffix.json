@@ -137,6 +137,7 @@
         "net.ai",
         "off.ai",
         "org.ai",
+        "relumesite.ai",
         "uwu.ai"
     ],
     "al": [
@@ -242,9 +243,11 @@
         "shiptoday.app",
         "sliplane.app",
         "snowflake.app",
+        "softr.app",
         "spawnbase.app",
         "sprites.app",
         "staging.expo.app",
+        "staticrun.app",
         "streamlit.app",
         "strw.app",
         "telebit.app",
@@ -2099,6 +2102,7 @@
         "pagespeedmobilizer.com",
         "paywhirl.com",
         "pgfog.com",
+        "phronusercontent.com",
         "pivohosting.com",
         "pixolino.com",
         "playstation-cloud.com",
@@ -3151,6 +3155,9 @@
         "veterinaire.fr",
         "ynh.fr"
     ],
+    "free": [
+        "xport.free"
+    ],
     "fun": [
         "ms.fun",
         "vicp.fun",
@@ -3357,7 +3364,8 @@
         "tempurl.host",
         "voati.host",
         "wp2.host",
-        "wpmudev.host"
+        "wpmudev.host",
+        "xport.host"
     ],
     "hosting": [
         "opencraft.hosting"
@@ -6327,7 +6335,8 @@
     "live": [
         "aem.live",
         "ewp.live",
-        "hlx.live"
+        "hlx.live",
+        "spheron.live"
     ],
     "lk": [
         "ac.lk",
@@ -8881,7 +8890,8 @@
         "org.sh",
         "surge.sh",
         "teleport.sh",
-        "us.platform.sh"
+        "us.platform.sh",
+        "xport.sh"
     ],
     "shop": [
         "barsy.shop",
@@ -9553,6 +9563,7 @@
         "k12.ne.us",
         "k12.nh.us",
         "k12.nj.us",
+        "k12.nm.us",
         "k12.nv.us",
         "k12.ny.us",
         "k12.oh.us",
@@ -9936,7 +9947,6 @@
         "ac.zw",
         "co.zw",
         "gov.zw",
-        "k12.nm.us",
         "mil.zw",
         "org.zw"
     ],
