@@ -171,6 +171,7 @@
     "app": [
         "agilevibes.app",
         "aiven.app",
+        "aiwebinfra.app",
         "auth.lovable.app",
         "base44.app",
         "beget.app",
@@ -206,6 +207,7 @@
         "hosted.app",
         "hostney.app",
         "id.replit.app",
+        "lambforge.app",
         "loginline.app",
         "lovable.app",
         "luyani.app",
@@ -8909,6 +8911,7 @@
         "is-a.si"
     ],
     "site": [
+        "agental.site",
         "ams.scw.site",
         "barsy.site",
         "byen.site",
@@ -9937,6 +9940,7 @@
         "sch.zm"
     ],
     "zone": [
+        "eureka.zone",
         "lima.zone",
         "prg1-zerops.zone",
         "stackit.zone",
