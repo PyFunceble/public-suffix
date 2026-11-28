@@ -1106,7 +1106,6 @@
         "pvf.cc",
         "scrapping.cc",
         "sryze.cc",
-        "stackhero-network.com",
         "twmail.cc",
         "uk.cc",
         "us.cc"
@@ -3261,8 +3260,7 @@
         "edu.gr",
         "gov.gr",
         "net.gr",
-        "org.gr",
-        "simplesite.gr"
+        "org.gr"
     ],
     "group": [
         "discourse.group"
@@ -8192,6 +8190,7 @@
         "serveftp.org",
         "servegame.org",
         "si.eu.org",
+        "simplesite.gr",
         "sk.eu.org",
         "small-web.org",
         "spdns.org",
@@ -8950,6 +8949,7 @@
         "playcode.site",
         "preview.site",
         "puter.site",
+        "runable.site",
         "scw.site",
         "sol.site",
         "sourcecraft.site",
@@ -9128,7 +9128,8 @@
         "jelastic.team"
     ],
     "tech": [
-        "cleverapps.tech"
+        "cleverapps.tech",
+        "runable.tech"
     ],
     "technology": [
         "co.technology"
